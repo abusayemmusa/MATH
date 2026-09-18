@@ -1,1 +1,483 @@
+DIFFERENTIAL GEOMETRY
+=====================
 
+1. FOUNDATIONS OF DIFFERENTIAL GEOMETRY
+   1.1 Introduction to Differential Geometry
+   1.2 Euclidean Geometry
+   1.3 Coordinate Systems
+   1.4 Vectors and Vector Fields
+   1.5 Parametric Curves
+   1.6 Parametric Surfaces
+   1.7 Differentiable Functions
+   1.8 Multivariable Calculus
+   1.9 Linear Algebra
+   1.10 Topological Foundations
+
+2. DIFFERENTIAL CALCULUS FOR GEOMETRY
+   2.1 Limits and Continuity
+   2.2 Partial Derivatives
+   2.3 Directional Derivatives
+   2.4 Total Derivatives
+   2.5 Gradient and Jacobian
+   2.6 Hessian Matrix
+   2.7 Chain Rule
+   2.8 Inverse Function Theorem
+   2.9 Implicit Function Theorem
+   2.10 Taylor Expansion
+
+3. DIFFERENTIABLE CURVES
+   3.1 Regular Curves
+   3.2 Parametric Curves
+   3.3 Tangent Vectors
+   3.4 Normal Vectors
+   3.5 Binormal Vectors
+   3.6 Arc Length
+   3.7 Curvature
+   3.8 Torsion
+   3.9 Frenet Frame
+   3.10 Frenet–Serret Formulas
+   3.11 Plane Curves
+   3.12 Space Curves
+   3.13 Geodesic Curves
+
+4. CURVATURE OF CURVES
+   4.1 Curvature of Plane Curves
+   4.2 Curvature of Space Curves
+   4.3 Signed Curvature
+   4.4 Normal Curvature
+   4.5 Geodesic Curvature
+   4.6 Torsion
+   4.7 Osculating Circle
+   4.8 Evolutes
+   4.9 Involutes
+   4.10 Curvature-Based Classification
+
+5. DIFFERENTIAL SURFACES
+   5.1 Parametric Surfaces
+   5.2 Regular Surfaces
+   5.3 Tangent Planes
+   5.4 Tangent Spaces
+   5.5 Normal Vectors
+   5.6 Surface Patches
+   5.7 Coordinate Neighborhoods
+   5.8 Surface Orientation
+   5.9 Surface Area
+   5.10 Surface Integrals
+   5.11 Level Surfaces
+   5.12 Implicit Surfaces
+
+6. SURFACE THEORY
+   6.1 First Fundamental Form
+   6.2 Second Fundamental Form
+   6.3 Metric Coefficients
+   6.4 Gaussian Curvature
+   6.5 Mean Curvature
+   6.6 Principal Curvatures
+   6.7 Principal Directions
+   6.8 Normal Curvature
+   6.9 Weingarten Map
+   6.10 Shape Operator
+   6.11 Umbilical Points
+   6.12 Minimal Surfaces
+
+7. RIEMANNIAN GEOMETRY
+   7.1 Riemannian Manifolds
+   7.2 Riemannian Metrics
+   7.3 Length of Curves
+   7.4 Distance Functions
+   7.5 Volume Forms
+   7.6 Riemannian Connections
+   7.7 Levi-Civita Connection
+   7.8 Covariant Derivatives
+   7.9 Parallel Transport
+   7.10 Geodesics
+   7.11 Riemannian Completeness
+   7.12 Riemannian Isometries
+
+8. DIFFERENTIAL MANIFOLDS
+   8.1 Topological Manifolds
+   8.2 Smooth Manifolds
+   8.3 Coordinate Charts
+   8.4 Atlases
+   8.5 Smooth Structures
+   8.6 Tangent Spaces
+   8.7 Cotangent Spaces
+   8.8 Tangent Bundles
+   8.9 Cotangent Bundles
+   8.10 Submanifolds
+   8.11 Immersions
+   8.12 Embeddings
+   8.13 Submersions
+
+9. TENSORS AND TENSOR FIELDS
+   9.1 Tensor Products
+   9.2 Covariant Tensors
+   9.3 Contravariant Tensors
+   9.4 Mixed Tensors
+   9.5 Tensor Fields
+   9.6 Tensor Contraction
+   9.7 Tensor Transformation Rules
+   9.8 Symmetric Tensors
+   9.9 Antisymmetric Tensors
+   9.10 Metric Tensors
+   9.11 Tensor Algebra
+   9.12 Applications of Tensor Calculus
+
+10. VECTOR FIELDS
+    10.1 Vector Fields
+    10.2 Smooth Vector Fields
+    10.3 Tangent Vector Fields
+    10.4 Lie Brackets
+    10.5 Commutators
+    10.6 Integral Curves
+    10.7 Flows of Vector Fields
+    10.8 Complete Vector Fields
+    10.9 Gradient Vector Fields
+    10.10 Divergence
+    10.11 Curl
+    10.12 Lie Derivatives
+
+11. DIFFERENTIAL FORMS
+    11.1 Differential 1-Forms
+    11.2 Differential k-Forms
+    11.3 Exterior Algebra
+    11.4 Wedge Product
+    11.5 Exterior Derivative
+    11.6 Closed Forms
+    11.7 Exact Forms
+    11.8 Pullback of Forms
+    11.9 Pushforward
+    11.10 Integration of Differential Forms
+    11.11 Stokes' Theorem
+    11.12 Poincaré Lemma
+
+12. CONNECTIONS AND COVARIANT DERIVATIVES
+    12.1 Affine Connections
+    12.2 Linear Connections
+    12.3 Covariant Differentiation
+    12.4 Christoffel Symbols
+    12.5 Torsion Tensor
+    12.6 Metric Compatibility
+    12.7 Levi-Civita Connection
+    12.8 Parallel Transport
+    12.9 Holonomy
+    12.10 Connection Forms
+
+13. CURVATURE THEORY
+    13.1 Curvature Tensor
+    13.2 Riemann Curvature Tensor
+    13.3 Ricci Curvature Tensor
+    13.4 Scalar Curvature
+    13.5 Sectional Curvature
+    13.6 Einstein Tensor
+    13.7 Curvature Operators
+    13.8 Curvature Identities
+    13.9 Bianchi Identities
+    13.10 Constant Curvature Spaces
+    13.11 Curvature Bounds
+    13.12 Curvature Classification
+
+14. GEODESICS
+    14.1 Geodesic Definition
+    14.2 Geodesic Equations
+    14.3 Geodesic Flow
+    14.4 Geodesic Completeness
+    14.5 Exponential Map
+    14.6 Normal Coordinates
+    14.7 Geodesic Distance
+    14.8 Minimizing Geodesics
+    14.9 Cut Locus
+    14.10 Conjugate Points
+    14.11 Geodesic Variations
+    14.12 Jacobi Fields
+
+15. LIE GROUPS
+    15.1 Definition of Lie Groups
+    15.2 Matrix Lie Groups
+    15.3 Lie Subgroups
+    15.4 Lie Algebras
+    15.5 Lie Brackets
+    15.6 Exponential Map
+    15.7 Adjoint Representation
+    15.8 Coadjoint Representation
+    15.9 One-Parameter Subgroups
+    15.10 Lie Group Actions
+    15.11 Homogeneous Spaces
+    15.12 Lie Group Classification
+
+16. LIE ALGEBRAS
+    16.1 Definition of Lie Algebras
+    16.2 Subalgebras
+    16.3 Ideals
+    16.4 Solvable Lie Algebras
+    16.5 Nilpotent Lie Algebras
+    16.6 Semisimple Lie Algebras
+    16.7 Simple Lie Algebras
+    16.8 Representations of Lie Algebras
+    16.9 Root Systems
+    16.10 Cartan Subalgebras
+    16.11 Dynkin Diagrams
+    16.12 Universal Enveloping Algebras
+
+17. SYMPLECTIC GEOMETRY
+    17.1 Symplectic Manifolds
+    17.2 Symplectic Forms
+    17.3 Symplectic Vector Spaces
+    17.4 Hamiltonian Vector Fields
+    17.5 Hamiltonian Systems
+    17.6 Symplectic Maps
+    17.7 Canonical Transformations
+    17.8 Poisson Manifolds
+    17.9 Moment Maps
+    17.10 Darboux Theorem
+    17.11 Lagrangian Submanifolds
+    17.12 Symplectic Reduction
+
+18. CONTACT GEOMETRY
+    18.1 Contact Manifolds
+    18.2 Contact Structures
+    18.3 Contact Forms
+    18.4 Reeb Vector Fields
+    18.5 Contact Transformations
+    18.6 Legendrian Submanifolds
+    18.7 Coorientable Contact Structures
+    18.8 Contact Hamiltonian Systems
+    18.9 Contact Topology
+    18.10 Applications to Mechanics
+
+19. COMPLEX DIFFERENTIAL GEOMETRY
+    19.1 Complex Manifolds
+    19.2 Almost Complex Structures
+    19.3 Complex Structures
+    19.4 Holomorphic Functions
+    19.5 Hermitian Metrics
+    19.6 Kähler Manifolds
+    19.7 Kähler Forms
+    19.8 Chern Connection
+    19.9 Complex Differential Forms
+    19.10 Hodge Theory
+    19.11 Calabi–Yau Manifolds
+    19.12 Complex Curvature
+
+20. FIBER BUNDLES
+    20.1 Fiber Bundles
+    20.2 Vector Bundles
+    20.3 Tangent Bundles
+    20.4 Cotangent Bundles
+    20.5 Principal Bundles
+    20.6 Associated Bundles
+    20.7 Transition Functions
+    20.8 Bundle Maps
+    20.9 Sections of Bundles
+    20.10 Connections on Bundles
+    20.11 Curvature of Bundles
+    20.12 Characteristic Classes
+
+21. DIFFERENTIAL TOPOLOGY
+    21.1 Smooth Maps
+    21.2 Transversality
+    21.3 Sard's Theorem
+    21.4 Regular Values
+    21.5 Critical Points
+    21.6 Morse Theory
+    21.7 Degree Theory
+    21.8 Intersection Theory
+    21.9 Cobordism
+    21.10 Embedding Theorems
+    21.11 Immersion Theorems
+    21.12 Differential Topological Invariants
+
+22. GLOBAL DIFFERENTIAL GEOMETRY
+    22.1 Global Manifold Properties
+    22.2 Global Curvature
+    22.3 Geodesic Completeness
+    22.4 Hopf–Rinow Theorem
+    22.5 Bonnet–Myers Theorem
+    22.6 Cartan–Hadamard Theorem
+    22.7 Comparison Geometry
+    22.8 Global Isometries
+    22.9 Holonomy Groups
+    22.10 Global Differential Invariants
+
+23. CALCULUS OF VARIATIONS
+    23.1 Functionals
+    23.2 Variational Problems
+    23.3 Euler–Lagrange Equations
+    23.4 First Variation
+    23.5 Second Variation
+    23.6 Geodesic Variations
+    23.7 Minimal Surfaces
+    23.8 Energy Functionals
+    23.9 Hamilton's Principle
+    23.10 Optimal Control Connections
+
+24. GEOMETRIC ANALYSIS
+    24.1 Partial Differential Equations on Manifolds
+    24.2 Geometric Flows
+    24.3 Ricci Flow
+    24.4 Mean Curvature Flow
+    24.5 Minimal Surface Equations
+    24.6 Harmonic Maps
+    24.7 Einstein Equations
+    24.8 Elliptic Operators
+    24.9 Parabolic Equations
+    24.10 Geometric Measure Theory
+
+25. RIEMANNIAN SUBMANIFOLD THEORY
+    25.1 Isometric Immersions
+    25.2 Isometric Embeddings
+    25.3 Second Fundamental Form
+    25.4 Mean Curvature Vector
+    25.5 Minimal Submanifolds
+    25.6 Totally Geodesic Submanifolds
+    25.7 Totally Umbilical Submanifolds
+    25.8 Gauss Equation
+    25.9 Codazzi Equation
+    25.10 Ricci Equation
+
+26. FINSler GEOMETRY
+    26.1 Finsler Manifolds
+    26.2 Finsler Metrics
+    26.3 Minkowski Norms
+    26.4 Finsler Geodesics
+    26.5 Finsler Connections
+    26.6 Flag Curvature
+    26.7 Randers Metrics
+    26.8 Berwald Spaces
+    26.9 Projective Finsler Geometry
+    26.10 Applications of Finsler Geometry
+
+27. GEOMETRIC GROUP THEORY
+    27.1 Groups Acting on Spaces
+    27.2 Cayley Graphs
+    27.3 Word Metrics
+    27.4 Hyperbolic Groups
+    27.5 Quasi-Isometries
+    27.6 Geometric Group Actions
+    27.7 Group Boundaries
+    27.8 Bass–Serre Theory
+    27.9 Mapping Class Groups
+    27.10 Geometric Group Invariants
+
+28. DIFFERENTIAL GEOMETRY IN PHYSICS
+    28.1 Classical Mechanics
+    28.2 Lagrangian Mechanics
+    28.3 Hamiltonian Mechanics
+    28.4 General Relativity
+    28.5 Riemannian Spacetime
+    28.6 Lorentzian Geometry
+    28.7 Gauge Theory
+    28.8 Electromagnetism
+    28.9 String Theory
+    28.10 Quantum Field Theory
+    28.11 Geometric Quantization
+    28.12 Topological Field Theory
+
+29. DIFFERENTIAL GEOMETRY IN ROBOTICS
+    29.1 Configuration Spaces
+    29.2 Rotation Groups
+    29.3 SO(2) and SO(3)
+    29.4 Special Euclidean Group SE(2)
+    29.5 Special Euclidean Group SE(3)
+    29.6 Lie Groups in Robotics
+    29.7 Lie Algebra se(2)
+    29.8 Lie Algebra se(3)
+    29.9 Robot Pose Representation
+    29.10 Rigid Body Transformations
+    29.11 Robot Kinematics
+    29.12 Motion Planning
+    29.13 State Estimation
+    29.14 SLAM
+    29.15 Geometric Control
+
+30. DIFFERENTIAL GEOMETRY IN AI AND ML
+    30.1 Manifold Learning
+    30.2 Riemannian Optimization
+    30.3 Geometric Deep Learning
+    30.4 Manifold-Valued Data
+    30.5 Hyperbolic Embeddings
+    30.6 Spherical Embeddings
+    30.7 Grassmann Manifolds
+    30.8 Information Geometry
+    30.9 Natural Gradient Descent
+    30.10 Geometric Representation Learning
+    30.11 Symmetry-Aware Neural Networks
+    30.12 Optimization on Matrix Manifolds
+
+31. COMPUTATIONAL DIFFERENTIAL GEOMETRY
+    31.1 Numerical Manifold Computation
+    31.2 Computational Riemannian Geometry
+    31.3 Geodesic Computation
+    31.4 Mesh Geometry
+    31.5 Discrete Differential Geometry
+    31.6 Discrete Curvature
+    31.7 Discrete Exterior Calculus
+    31.8 Geometric Modeling
+    31.9 Computer Graphics
+    31.10 Shape Processing
+    31.11 3D Reconstruction
+    31.12 Computational Geometry
+
+32. DISCRETE DIFFERENTIAL GEOMETRY
+    32.1 Discrete Curves
+    32.2 Discrete Surfaces
+    32.3 Discrete Differential Forms
+    32.4 Discrete Exterior Calculus
+    32.5 Discrete Laplace Operators
+    32.6 Discrete Curvature
+    32.7 Discrete Geodesics
+    32.8 Discrete Minimal Surfaces
+    32.9 Mesh-Based Geometry
+    32.10 Applications in Graphics
+
+33. INFORMATION GEOMETRY
+    33.1 Statistical Manifolds
+    33.2 Fisher Information Metric
+    33.3 Statistical Distance
+    33.4 Natural Gradient
+    33.5 Exponential Families
+    33.6 Mixture Families
+    33.7 Dual Connections
+    33.8 Amari Geometry
+    33.9 Information-Theoretic Curvature
+    33.10 Information Geometry in ML
+
+34. GEOMETRIC DEEP LEARNING
+    34.1 Geometric Data
+    34.2 Graph Neural Networks
+    34.3 Manifold Neural Networks
+    34.4 Equivariant Neural Networks
+    34.5 Invariant Neural Networks
+    34.6 Group Convolution
+    34.7 Gauge-Equivariant Networks
+    34.8 Hyperbolic Neural Networks
+    34.9 Spherical Neural Networks
+    34.10 Geometric Transformers
+
+35. SOFTWARE AND TOOLS
+    35.1 Python
+    35.2 NumPy
+    35.3 SciPy
+    35.4 SymPy
+    35.5 SageMath
+    35.6 Mathematica
+    35.7 MATLAB
+    35.8 Manim
+    35.9 Mesh Processing Libraries
+    35.10 Geometric Deep Learning Libraries
+    35.11 PyTorch Geometric
+    35.12 Visualization Tools
+
+36. APPLICATIONS
+    36.1 Robotics
+    36.2 Computer Vision
+    36.3 Computer Graphics
+    36.4 Machine Learning
+    36.5 Artificial Intelligence
+    36.6 Physics
+    36.7 General Relativity
+    36.8 Engineering
+    36.9 CAD and Geometric Modeling
+    36.10 Medical Imaging
+    36.11 Computer-Aided Design
+    36.12 Navigation and Control
