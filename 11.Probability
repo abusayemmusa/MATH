@@ -1,1 +1,413 @@
+PROBABILITY MATHEMATICS
+=======================
 
+1. BASIC CONCEPTS OF PROBABILITY
+   1.1 Random Experiments
+   1.2 Deterministic and Random Experiments
+   1.3 Outcomes
+   1.4 Sample Space
+   1.5 Events
+   1.6 Simple Events
+   1.7 Compound Events
+   1.8 Favourable Outcomes
+   1.9 Equally Likely Outcomes
+   1.10 Mutually Exclusive Events
+   1.11 Exhaustive Events
+   1.12 Certain and Impossible Events
+
+2. SET THEORY IN PROBABILITY
+   2.1 Set Representation
+   2.2 Union of Events
+   2.3 Intersection of Events
+   2.4 Complement of Events
+   2.5 Difference of Events
+   2.6 Venn Diagrams
+   2.7 De Morgan's Laws
+   2.8 Inclusion-Exclusion Principle
+
+3. CLASSICAL PROBABILITY
+   3.1 Classical Definition of Probability
+   3.2 Probability of an Event
+   3.3 Probability of Complement
+   3.4 Probability of Union
+   3.5 Probability of Intersection
+   3.6 Probability of Mutually Exclusive Events
+   3.7 Probability Axioms
+   3.8 Properties of Probability
+
+4. COUNTING TECHNIQUES
+   4.1 Fundamental Counting Principle
+   4.2 Addition Rule of Counting
+   4.3 Multiplication Rule of Counting
+   4.4 Permutations
+   4.5 Combinations
+   4.6 Factorials
+   4.7 Circular Permutations
+   4.8 Repeated Permutations
+   4.9 Binomial Coefficients
+   4.10 Counting-Based Probability
+
+5. CONDITIONAL PROBABILITY
+   5.1 Definition of Conditional Probability
+   5.2 Conditional Probability Formula
+   5.3 Multiplication Rule
+   5.4 Chain Rule of Probability
+   5.5 Independent Events
+   5.6 Dependent Events
+   5.7 Pairwise Independence
+   5.8 Mutual Independence
+
+6. BAYES' THEOREM
+   6.1 Bayes' Theorem
+   6.2 Prior Probability
+   6.3 Posterior Probability
+   6.4 Likelihood
+   6.5 Evidence
+   6.6 Law of Total Probability
+   6.7 Bayes' Theorem with Multiple Events
+   6.8 Applications in Machine Learning
+   6.9 Naive Bayes Classification
+
+7. RANDOM VARIABLES
+   7.1 Definition of Random Variables
+   7.2 Discrete Random Variables
+   7.3 Continuous Random Variables
+   7.4 Mixed Random Variables
+   7.5 Probability Mass Function (PMF)
+   7.6 Probability Density Function (PDF)
+   7.7 Cumulative Distribution Function (CDF)
+   7.8 Support of a Random Variable
+   7.9 Transformation of Random Variables
+
+8. DISCRETE PROBABILITY DISTRIBUTIONS
+   8.1 Bernoulli Distribution
+   8.2 Binomial Distribution
+   8.3 Geometric Distribution
+   8.4 Negative Binomial Distribution
+   8.5 Hypergeometric Distribution
+   8.6 Poisson Distribution
+   8.7 Discrete Uniform Distribution
+   8.8 Multinomial Distribution
+   8.9 Bernoulli Trials
+   8.10 Probability Generating Function
+
+9. CONTINUOUS PROBABILITY DISTRIBUTIONS
+   9.1 Continuous Uniform Distribution
+   9.2 Normal Distribution
+   9.3 Standard Normal Distribution
+   9.4 Exponential Distribution
+   9.5 Gamma Distribution
+   9.6 Beta Distribution
+   9.7 Chi-Square Distribution
+   9.8 Student's t-Distribution
+   9.9 F-Distribution
+   9.10 Weibull Distribution
+   9.11 Log-Normal Distribution
+   9.12 Cauchy Distribution
+
+10. EXPECTATION AND MOMENTS
+    10.1 Expected Value
+    10.2 Mean
+    10.3 Variance
+    10.4 Standard Deviation
+    10.5 Raw Moments
+    10.6 Central Moments
+    10.7 Factorial Moments
+    10.8 Moment Generating Function (MGF)
+    10.9 Characteristic Function
+    10.10 Probability Generating Function
+
+11. MEASURES OF DISPERSION
+    11.1 Range
+    11.2 Variance
+    11.3 Standard Deviation
+    11.4 Mean Absolute Deviation
+    11.5 Coefficient of Variation
+    11.6 Interquartile Range
+
+12. JOINT PROBABILITY DISTRIBUTIONS
+    12.1 Joint Probability Mass Function
+    12.2 Joint Probability Density Function
+    12.3 Joint Cumulative Distribution Function
+    12.4 Marginal Distribution
+    12.5 Conditional Distribution
+    12.6 Conditional Expectation
+    12.7 Covariance
+    12.8 Correlation
+    12.9 Independence of Random Variables
+    12.10 Transformation of Multiple Random Variables
+
+13. COVARIANCE AND CORRELATION
+    13.1 Covariance
+    13.2 Pearson Correlation
+    13.3 Spearman Correlation
+    13.4 Kendall Correlation
+    13.5 Positive Correlation
+    13.6 Negative Correlation
+    13.7 Zero Correlation
+    13.8 Correlation Matrix
+    13.9 Covariance Matrix
+
+14. LIMIT THEOREMS
+    14.1 Law of Large Numbers
+    14.2 Weak Law of Large Numbers
+    14.3 Strong Law of Large Numbers
+    14.4 Central Limit Theorem
+    14.5 Slutsky's Theorem
+    14.6 Continuous Mapping Theorem
+    14.7 Convergence in Probability
+    14.8 Almost Sure Convergence
+    14.9 Convergence in Distribution
+    14.10 Convergence in Mean
+
+15. SAMPLING THEORY
+    15.1 Population and Sample
+    15.2 Random Sampling
+    15.3 Simple Random Sampling
+    15.4 Stratified Sampling
+    15.5 Cluster Sampling
+    15.6 Systematic Sampling
+    15.7 Sampling with Replacement
+    15.8 Sampling without Replacement
+    15.9 Sampling Bias
+    15.10 Sampling Error
+
+16. SAMPLING DISTRIBUTIONS
+    16.1 Sampling Distribution of Mean
+    16.2 Sampling Distribution of Proportion
+    16.3 Sampling Distribution of Variance
+    16.4 Standard Error
+    16.5 t-Distribution
+    16.6 Chi-Square Distribution
+    16.7 F-Distribution
+    16.8 Central Limit Theorem Applications
+
+17. STATISTICAL ESTIMATION
+    17.1 Point Estimation
+    17.2 Interval Estimation
+    17.3 Estimator
+    17.4 Bias
+    17.5 Consistency
+    17.6 Efficiency
+    17.7 Sufficiency
+    17.8 Maximum Likelihood Estimation (MLE)
+    17.9 Maximum A Posteriori Estimation (MAP)
+    17.10 Method of Moments
+    17.11 Confidence Intervals
+
+18. HYPOTHESIS TESTING
+    18.1 Null Hypothesis
+    18.2 Alternative Hypothesis
+    18.3 Type I Error
+    18.4 Type II Error
+    18.5 Significance Level
+    18.6 P-Value
+    18.7 Statistical Power
+    18.8 One-Tailed Test
+    18.9 Two-Tailed Test
+    18.10 Critical Region
+    18.11 Confidence Level
+
+19. STATISTICAL TESTS
+    19.1 Z-Test
+    19.2 One-Sample t-Test
+    19.3 Two-Sample t-Test
+    19.4 Paired t-Test
+    19.5 Chi-Square Test
+    19.6 Goodness-of-Fit Test
+    19.7 Independence Test
+    19.8 F-Test
+    19.9 ANOVA
+    19.10 Mann-Whitney U Test
+    19.11 Wilcoxon Test
+    19.12 Kruskal-Wallis Test
+
+20. STOCHASTIC PROCESSES
+    20.1 Stochastic Process
+    20.2 Discrete-Time Process
+    20.3 Continuous-Time Process
+    20.4 Stationary Process
+    20.5 Markov Process
+    20.6 Markov Chains
+    20.7 Transition Probability
+    20.8 Transition Matrix
+    20.9 State Space
+    20.10 Absorbing Markov Chains
+    20.11 Hidden Markov Models (HMM)
+    20.12 Poisson Process
+    20.13 Renewal Process
+    20.14 Brownian Motion
+
+21. MARKOV CHAINS
+    21.1 Markov Property
+    21.2 State Transition
+    21.3 Transition Matrix
+    21.4 Initial Distribution
+    21.5 Stationary Distribution
+    21.6 Regular Markov Chains
+    21.7 Absorbing Markov Chains
+    21.8 Ergodic Markov Chains
+    21.9 Markov Decision Process (MDP)
+    21.10 Applications in Reinforcement Learning
+
+22. QUEUEING THEORY
+    22.1 Queueing Systems
+    22.2 Arrival Process
+    22.3 Service Process
+    22.4 Arrival Rate
+    22.5 Service Rate
+    22.6 Queue Discipline
+    22.7 M/M/1 Queue
+    22.8 M/M/c Queue
+    22.9 Little's Law
+    22.10 Waiting Time
+    22.11 Queue Length
+    22.12 Queueing Networks
+
+23. RELIABILITY THEORY
+    23.1 Reliability Function
+    23.2 Failure Rate
+    23.3 Hazard Function
+    23.4 Survival Function
+    23.5 Mean Time to Failure
+    23.6 Series Systems
+    23.7 Parallel Systems
+    23.8 Reliability Block Diagram
+    23.9 Fault Tree Analysis
+    23.10 Reliability Distributions
+
+24. INFORMATION THEORY
+    24.1 Information
+    24.2 Entropy
+    24.3 Joint Entropy
+    24.4 Conditional Entropy
+    24.5 Mutual Information
+    24.6 Kullback-Leibler Divergence
+    24.7 Cross-Entropy
+    24.8 Differential Entropy
+    24.9 Information Gain
+    24.10 Applications in Machine Learning
+
+25. BAYESIAN PROBABILITY
+    25.1 Frequentist Probability
+    25.2 Bayesian Probability
+    25.3 Prior Distribution
+    25.4 Likelihood Function
+    25.5 Posterior Distribution
+    25.6 Posterior Predictive Distribution
+    25.7 Conjugate Priors
+    25.8 Bayesian Inference
+    25.9 Bayesian Networks
+    25.10 Markov Chain Monte Carlo (MCMC)
+
+26. MONTE CARLO METHODS
+    26.1 Monte Carlo Simulation
+    26.2 Random Number Generation
+    26.3 Sampling Methods
+    26.4 Importance Sampling
+    26.5 Rejection Sampling
+    26.6 Markov Chain Monte Carlo
+    26.7 Monte Carlo Integration
+    26.8 Bootstrap Method
+    26.9 Permutation Test
+    26.10 Applications in AI and Finance
+
+27. PROBABILITY IN MACHINE LEARNING
+    27.1 Probabilistic Models
+    27.2 Generative Models
+    27.3 Discriminative Models
+    27.4 Naive Bayes
+    27.5 Bayesian Networks
+    27.6 Gaussian Mixture Models
+    27.7 Hidden Markov Models
+    27.8 Probabilistic Graphical Models
+    27.9 Conditional Random Fields
+    27.10 Probabilistic Inference
+    27.11 Uncertainty Estimation
+    27.12 Calibration
+    27.13 Bayesian Optimization
+
+28. PROBABILITY IN DEEP LEARNING
+    28.1 Probability Distributions in Neural Networks
+    28.2 Softmax Probability
+    28.3 Cross-Entropy Loss
+    28.4 Negative Log-Likelihood
+    28.5 Bayesian Neural Networks
+    28.6 Variational Inference
+    28.7 Variational Autoencoders
+    28.8 Dropout as Approximate Bayesian Inference
+    28.9 Uncertainty in Deep Learning
+    28.10 Generative Deep Learning
+
+29. PROBABILITY IN REINFORCEMENT LEARNING
+    29.1 Markov Decision Processes
+    29.2 State Probability
+    29.3 Action Probability
+    29.4 Policy Distribution
+    29.5 Transition Probability
+    29.6 Reward Distribution
+    29.7 Value Function
+    29.8 Q-Function
+    29.9 Policy Gradient
+    29.10 Actor-Critic Methods
+    29.11 Proximal Policy Optimization
+
+30. ADVANCED PROBABILITY
+    30.1 Measure-Theoretic Probability
+    30.2 Sigma-Algebras
+    30.3 Probability Measures
+    30.4 Measurable Functions
+    30.5 Lebesgue Integration
+    30.6 Conditional Expectation
+    30.7 Martingales
+    30.8 Stopping Times
+    30.9 Ergodic Theory
+    30.10 Stochastic Calculus
+    30.11 Ito's Lemma
+    30.12 Advanced Stochastic Processes
+
+31. COMPUTATIONAL PROBABILITY
+    31.1 Numerical Probability
+    31.2 Random Simulation
+    31.3 Monte Carlo Computation
+    31.4 Probability Algorithms
+    31.5 Randomized Algorithms
+    31.6 Probabilistic Data Structures
+    31.7 Hashing Probability
+    31.8 Bloom Filters
+    31.9 Randomized Optimization
+    31.10 Computational Statistics
+
+32. PROBABILITY FOR COMPETITIVE PROGRAMMING
+    32.1 Counting Probability
+    32.2 Combinatorial Probability
+    32.3 Expected Value Problems
+    32.4 Probability DP
+    32.5 Randomized Algorithms
+    32.6 Game Probability
+    32.7 Modular Probability
+    32.8 Markov Chains
+    32.9 Linearity of Expectation
+    32.10 Random Walk Problems
+    32.11 Inclusion-Exclusion Probability
+    32.12 Bayes-Based Problems
+
+33. APPLICATIONS OF PROBABILITY
+    33.1 Artificial Intelligence
+    33.2 Machine Learning
+    33.3 Deep Learning
+    33.4 Data Science
+    33.5 Statistics
+    33.6 Computer Science
+    33.7 Cybersecurity
+    33.8 Robotics
+    33.9 Computer Vision
+    33.10 Natural Language Processing
+    33.11 Finance
+    33.12 Economics
+    33.13 Biology
+    33.14 Physics
+    33.15 Engineering
+    33.16 Medical Science
+    33.17 Risk Analysis
+    33.18 Decision Making
