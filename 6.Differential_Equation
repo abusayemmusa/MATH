@@ -1,1 +1,186 @@
+DIFFERENTIAL EQUATIONS
 
+1. Basic Concepts
+   - Definition of Differential Equation
+   - Ordinary Differential Equation (ODE)
+   - Partial Differential Equation (PDE)
+   - Order and Degree
+   - Linear and Nonlinear Equations
+   - General and Particular Solutions
+   - Initial and Boundary Conditions
+   - Formation of Differential Equations
+
+2. First-Order Differential Equations
+   - Variable Separable Equations
+   - Homogeneous Equations
+   - Reducible to Homogeneous Form
+   - Exact Differential Equations
+   - Integrating Factor
+   - Linear Differential Equations
+   - Bernoulli's Equation
+   - Clairaut's Equation
+   - Lagrange's Equation
+
+3. First-Order Applications
+   - Growth and Decay
+   - Population Models
+   - Newton's Law of Cooling
+   - Radioactive Decay
+   - Mixing Problems
+   - Orthogonal Trajectories
+   - Motion Under Gravity
+   - Electrical Circuits
+
+4. Higher-Order Differential Equations
+   - Second-Order Equations
+   - nth-Order Equations
+   - Linear Differential Equations
+   - Homogeneous Equations
+   - Nonhomogeneous Equations
+   - Initial Value Problems
+   - Boundary Value Problems
+
+5. Linear Differential Equations
+   - Constant-Coefficient Equations
+   - Auxiliary Equation
+   - Complementary Function (CF)
+   - Particular Integral (PI)
+   - Operator Method
+   - Undetermined Coefficients
+   - Variation of Parameters
+   - Cauchy-Euler Equation
+
+6. Applications of Higher-Order ODEs
+   - Simple Harmonic Motion
+   - Damped Oscillations
+   - Forced Oscillations
+   - Mechanical Vibrations
+   - RLC Circuits
+   - Spring-Mass Systems
+   - Resonance
+   - Electrical Network Models
+
+7. Systems of Differential Equations
+   - First-Order Systems
+   - Linear Systems
+   - Matrix Method
+   - Eigenvalues and Eigenvectors
+   - Phase Plane
+   - Critical Points
+   - Stability of Equilibrium
+   - Coupled Differential Equations
+
+8. Laplace Transforms
+   - Definition of Laplace Transform
+   - Standard Transforms
+   - Properties
+   - Inverse Laplace Transform
+   - First Shifting Theorem
+   - Second Shifting Theorem
+   - Derivatives and Integrals
+   - Convolution Theorem
+   - Solving ODEs Using Laplace Transform
+
+9. Series Solutions
+   - Power Series Method
+   - Ordinary Points
+   - Singular Points
+   - Frobenius Method
+   - Recurrence Relations
+   - Legendre Equation
+   - Bessel Equation
+   - Special Function Solutions
+
+10. Numerical Methods for ODEs
+    - Euler's Method
+    - Modified Euler Method
+    - Taylor Series Method
+    - Runge-Kutta Methods
+    - Predictor-Corrector Methods
+    - Finite Difference Method
+    - Error Analysis
+    - Stability of Numerical Methods
+
+11. Partial Differential Equations
+    - Definition of PDE
+    - Formation of PDEs
+    - First-Order PDEs
+    - Linear PDEs
+    - Nonlinear PDEs
+    - Homogeneous PDEs
+    - Nonhomogeneous PDEs
+    - Classification of PDEs
+
+12. First-Order PDEs
+    - Lagrange's Method
+    - Charpit's Method
+    - Method of Characteristics
+    - Complete Integrals
+    - General Integrals
+    - Singular Integrals
+
+13. Higher-Order PDEs
+    - Linear PDEs with Constant Coefficients
+    - Complementary Function
+    - Particular Integral
+    - Homogeneous PDEs
+    - Nonhomogeneous PDEs
+    - Classification of Second-Order PDEs
+
+14. Important PDEs
+    - Wave Equation
+    - Heat Equation
+    - Laplace Equation
+    - Poisson Equation
+    - Diffusion Equation
+    - Transport Equation
+    - Schrödinger Equation (Introduction)
+
+15. Boundary Value Problems
+    - Initial Value Problems
+    - Boundary Conditions
+    - Dirichlet Conditions
+    - Neumann Conditions
+    - Mixed Boundary Conditions
+    - Sturm-Liouville Problems
+    - Eigenvalue Problems
+
+16. Fourier Series and PDEs
+    - Fourier Series
+    - Sine Series
+    - Cosine Series
+    - Half-Range Series
+    - Separation of Variables
+    - Fourier Transform
+    - Solving Heat and Wave Equations
+
+17. Dynamical Systems
+    - Autonomous Equations
+    - Equilibrium Points
+    - Stability Analysis
+    - Phase Portraits
+    - Limit Cycles
+    - Bifurcation
+    - Chaos Theory
+    - Logistic Map
+
+18. Advanced Differential Equations
+    - Nonlinear ODEs
+    - Nonlinear PDEs
+    - Perturbation Methods
+    - Asymptotic Analysis
+    - Green's Functions
+    - Integral Equations
+    - Calculus of Variations
+    - Fractional Differential Equations
+
+19. Differential Equations in AI and CSE
+    - Optimization Dynamics
+    - Neural ODEs
+    - Physics-Informed Neural Networks (PINNs)
+    - Continuous-Time Models
+    - Dynamical Systems in ML
+    - Reinforcement Learning Models
+    - Computer Vision Motion Models
+    - Robotics Motion Equations
+    - Signal and System Modeling
