@@ -1,1 +1,167 @@
+GEOMETRY
 
+1. Basic Geometry
+   - Points, Lines, and Planes
+   - Angles and Their Types
+   - Parallel and Perpendicular Lines
+   - Basic Geometric Constructions
+   - Geometric Proofs
+   - Congruence and Similarity
+
+2. Triangles
+   - Types of Triangles
+   - Congruence Rules (SSS, SAS, ASA, RHS)
+   - Similarity Rules
+   - Pythagorean Theorem
+   - Median, Altitude, and Angle Bisector
+   - Centroid, Orthocenter, Circumcenter, Incenter
+   - Triangle Inequalities
+
+3. Quadrilaterals and Polygons
+   - Square, Rectangle, Rhombus
+   - Parallelogram and Trapezium
+   - Regular and Irregular Polygons
+   - Interior and Exterior Angles
+   - Polygon Diagonals
+   - Area and Perimeter
+
+4. Circle Geometry
+   - Basic Circle Properties
+   - Chord and Arc
+   - Sector and Segment
+   - Tangents and Secants
+   - Angles in a Circle
+   - Cyclic Quadrilaterals
+   - Power of a Point
+   - Radical Axis
+   - Pole and Polar
+
+5. Coordinate Geometry
+   - Cartesian Coordinates
+   - Distance and Section Formula
+   - Slope of a Line
+   - Straight Lines
+   - Pair of Straight Lines
+   - Circle
+   - Parabola
+   - Ellipse
+   - Hyperbola
+   - Transformation of Coordinates
+   - Polar Coordinates
+
+6. Conic Sections
+   - General Conic Equation
+   - Parabola
+   - Ellipse
+   - Hyperbola
+   - Focus, Directrix, and Eccentricity
+   - Tangents and Normals
+   - Chords of Contact
+   - Pole and Polar
+   - Asymptotes
+   - Parametric Equations
+
+7. Mensuration
+   - Perimeter and Area
+   - Surface Area
+   - Volume
+   - Prism and Pyramid
+   - Cylinder and Cone
+   - Sphere and Hemisphere
+   - Frustum
+   - Composite Solids
+
+8. Solid Geometry (3D)
+   - 3D Coordinate System
+   - Distance Between Two Points
+   - Direction Cosines and Ratios
+   - Straight Lines in 3D
+   - Planes
+   - Sphere
+   - Cone
+   - Cylinder
+   - Quadric Surfaces
+   - Intersection of Surfaces
+
+9. Vector Geometry
+   - Vectors and Scalars
+   - Vector Addition and Subtraction
+   - Dot Product
+   - Cross Product
+   - Scalar Triple Product
+   - Vector Triple Product
+   - Lines and Planes Using Vectors
+   - Geometric Applications of Vectors
+
+10. Transformation Geometry
+    - Translation
+    - Rotation
+    - Reflection
+    - Enlargement and Scaling
+    - Change of Axes
+    - Matrix Transformation
+    - Affine Transformation
+    - Homogeneous Coordinates
+
+11. Trigonometric Geometry
+    - Sine Rule
+    - Cosine Rule
+    - Triangle Solutions
+    - Heights and Distances
+    - Area of Triangles
+    - Trigonometric Proofs
+    - Applications of Trigonometry
+
+12. Locus
+    - Definition of Locus
+    - Locus of a Point
+    - Straight-Line Locus
+    - Circle Locus
+    - Parabolic Locus
+    - Distance-Based Locus
+    - Locus Problems
+
+13. Analytical Geometry
+    - Coordinate-Based Proofs
+    - Geometric Equations
+    - Intersection Problems
+    - Distance and Angle Problems
+    - Tangency Conditions
+    - Geometric Optimization
+
+14. Differential Geometry
+    - Parametric Curves
+    - Tangent and Normal
+    - Curvature
+    - Radius of Curvature
+    - Plane Curves
+    - Space Curves
+    - Surfaces
+    - Fundamental Forms
+
+15. Computational Geometry
+    - Points and Orientation
+    - Line Segment Intersection
+    - Convex Hull
+    - Closest Pair of Points
+    - Polygon Area
+    - Point-in-Polygon
+    - Sweep Line Algorithms
+    - Voronoi Diagrams
+    - Delaunay Triangulation
+
+16. Non-Euclidean Geometry
+    - Euclidean Geometry
+    - Spherical Geometry
+    - Hyperbolic Geometry
+    - Projective Geometry
+    - Axioms and Geometric Structures
+
+17. Advanced Geometry
+    - Inversion
+    - Geometric Inequalities
+    - Transformation Groups
+    - Projective Transformations
+    - Algebraic Geometry Basics
+    - Topology and Geometry
+    - Geometry in Physics and Engineering
