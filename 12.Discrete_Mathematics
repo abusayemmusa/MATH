@@ -1,1 +1,276 @@
+DISCRETE MATHEMATICS
+====================
 
+1. FUNDAMENTALS OF DISCRETE MATHEMATICS
+   1.1 Discrete vs Continuous Mathematics
+   1.2 Mathematical Statements
+   1.3 Mathematical Notation
+   1.4 Definitions, Theorems, Lemmas
+   1.5 Proof Techniques
+
+2. SET THEORY
+   2.1 Sets and Elements
+   2.2 Types of Sets
+   2.3 Subsets
+   2.4 Power Sets
+   2.5 Set Operations
+   2.6 Venn Diagrams
+   2.7 Cartesian Products
+   2.8 Set Identities
+   2.9 Inclusion-Exclusion Principle
+
+3. LOGIC
+   3.1 Propositions
+   3.2 Logical Connectives
+   3.3 Truth Tables
+   3.4 Logical Equivalence
+   3.5 Tautology and Contradiction
+   3.6 Predicates
+   3.7 Quantifiers
+   3.8 Nested Quantifiers
+   3.9 Rules of Inference
+
+4. PROOF TECHNIQUES
+   4.1 Direct Proof
+   4.2 Proof by Contradiction
+   4.3 Proof by Contrapositive
+   4.4 Mathematical Induction
+   4.5 Strong Induction
+   4.6 Proof by Cases
+   4.7 Counterexamples
+
+5. RELATIONS
+   5.1 Binary Relations
+   5.2 Reflexive Relations
+   5.3 Symmetric Relations
+   5.4 Antisymmetric Relations
+   5.5 Transitive Relations
+   5.6 Equivalence Relations
+   5.7 Partial Orders
+   5.8 Total Orders
+   5.9 Hasse Diagrams
+
+6. FUNCTIONS
+   6.1 Functions and Mappings
+   6.2 Domain and Range
+   6.3 Injective Functions
+   6.4 Surjective Functions
+   6.5 Bijective Functions
+   6.6 Composite Functions
+   6.7 Inverse Functions
+   6.8 Recursive Functions
+   6.9 Floor and Ceiling Functions
+
+7. COUNTING PRINCIPLES
+   7.1 Addition Rule
+   7.2 Multiplication Rule
+   7.3 Pigeonhole Principle
+   7.4 Generalized Pigeonhole Principle
+   7.5 Permutations
+   7.6 Combinations
+   7.7 Circular Permutations
+   7.8 Binomial Coefficients
+   7.9 Inclusion-Exclusion
+
+8. COMBINATORICS
+   8.1 Basic Combinatorics
+   8.2 Recurrence Relations
+   8.3 Generating Functions
+   8.4 Binomial Theorem
+   8.5 Combinatorial Identities
+   8.6 Ramsey Theory
+   8.7 Enumerative Combinatorics
+
+9. NUMBER THEORY
+   9.1 Divisibility
+   9.2 Prime Numbers
+   9.3 Greatest Common Divisor
+   9.4 Euclidean Algorithm
+   9.5 Modular Arithmetic
+   9.6 Congruences
+   9.7 Modular Inverse
+   9.8 Chinese Remainder Theorem
+   9.9 Euler's Totient Function
+   9.10 Cryptographic Number Theory
+
+10. SEQUENCES AND RECURRENCE
+    10.1 Sequences
+    10.2 Arithmetic Sequences
+    10.3 Geometric Sequences
+    10.4 Recurrence Relations
+    10.5 Linear Recurrence Relations
+    10.6 Homogeneous Recurrence Relations
+    10.7 Non-Homogeneous Recurrence Relations
+    10.8 Characteristic Equations
+    10.9 Divide-and-Conquer Recurrences
+
+11. GRAPH THEORY
+    11.1 Graphs and Vertices
+    11.2 Edges
+    11.3 Simple Graphs
+    11.4 Multigraphs
+    11.5 Directed Graphs
+    11.6 Weighted Graphs
+    11.7 Degree of a Vertex
+    11.8 Adjacency Matrix
+    11.9 Adjacency List
+    11.10 Graph Isomorphism
+
+12. SPECIAL GRAPHS
+    12.1 Complete Graphs
+    12.2 Bipartite Graphs
+    12.3 Complete Bipartite Graphs
+    12.4 Regular Graphs
+    12.5 Planar Graphs
+    12.6 Euler Graphs
+    12.7 Hamiltonian Graphs
+    12.8 Trees
+    12.9 Forests
+    12.10 Subgraphs
+
+13. GRAPH ALGORITHMS
+    13.1 Breadth-First Search (BFS)
+    13.2 Depth-First Search (DFS)
+    13.3 Shortest Path Algorithms
+    13.4 Dijkstra's Algorithm
+    13.5 Bellman-Ford Algorithm
+    13.6 Floyd-Warshall Algorithm
+    13.7 Minimum Spanning Tree
+    13.8 Kruskal's Algorithm
+    13.9 Prim's Algorithm
+    13.10 Topological Sorting
+    13.11 Strongly Connected Components
+
+14. TREES
+    14.1 Tree Properties
+    14.2 Rooted Trees
+    14.3 Binary Trees
+    14.4 Binary Search Trees
+    14.5 Tree Traversals
+    14.6 AVL Trees
+    14.7 Spanning Trees
+    14.8 Minimum Spanning Trees
+    14.9 Expression Trees
+    14.10 Decision Trees
+
+15. BOOLEAN ALGEBRA
+    15.1 Boolean Variables
+    15.2 Boolean Operations
+    15.3 Boolean Expressions
+    15.4 Boolean Laws
+    15.5 Logic Gates
+    15.6 Truth Tables
+    15.7 Sum of Products
+    15.8 Product of Sums
+    15.9 Karnaugh Maps
+    15.10 Digital Circuit Simplification
+
+16. ALGORITHMS
+    16.1 Algorithm Definition
+    16.2 Algorithm Representation
+    16.3 Pseudocode
+    16.4 Algorithm Correctness
+    16.5 Time Complexity
+    16.6 Space Complexity
+    16.7 Big-O Notation
+    16.8 Big-Omega Notation
+    16.9 Big-Theta Notation
+    16.10 Algorithm Analysis
+
+17. COMPUTATIONAL COMPLEXITY
+    17.1 Tractable Problems
+    17.2 Intractable Problems
+    17.3 P Problems
+    17.4 NP Problems
+    17.5 NP-Complete Problems
+    17.6 NP-Hard Problems
+    17.7 Polynomial-Time Algorithms
+    17.8 Reductions
+
+18. AUTOMATA THEORY
+    18.1 Formal Languages
+    18.2 Alphabets and Strings
+    18.3 Finite Automata
+    18.4 Deterministic Finite Automata
+    18.5 Nondeterministic Finite Automata
+    18.6 Regular Expressions
+    18.7 Regular Languages
+    18.8 Context-Free Grammars
+    18.9 Pushdown Automata
+    18.10 Turing Machines
+
+19. INFORMATION THEORY
+    19.1 Information
+    19.2 Entropy
+    19.3 Conditional Entropy
+    19.4 Mutual Information
+    19.5 Coding Theory
+    19.6 Error Detection
+    19.7 Error Correction
+    19.8 Data Compression
+
+20. DISCRETE PROBABILITY
+    20.1 Sample Spaces
+    20.2 Events
+    20.3 Conditional Probability
+    20.4 Bayes' Theorem
+    20.5 Random Variables
+    20.6 Expected Value
+    20.7 Discrete Probability Distributions
+    20.8 Probability in Graphs
+    20.9 Randomized Algorithms
+
+21. LINEAR PROGRAMMING AND OPTIMIZATION
+    21.1 Optimization Problems
+    21.2 Objective Functions
+    21.3 Constraints
+    21.4 Integer Programming
+    21.5 Combinatorial Optimization
+    21.6 Greedy Optimization
+    21.7 Dynamic Programming
+    21.8 Network Optimization
+
+22. CRYPTOGRAPHY
+    22.1 Symmetric Encryption
+    22.2 Asymmetric Encryption
+    22.3 Hash Functions
+    22.4 Digital Signatures
+    22.5 RSA
+    22.6 Diffie-Hellman
+    22.7 Elliptic Curve Cryptography
+    22.8 Cryptographic Protocols
+
+23. DISCRETE STRUCTURES IN COMPUTER SCIENCE
+    23.1 Data Structures
+    23.2 Database Theory
+    23.3 Operating Systems
+    23.4 Computer Networks
+    23.5 Compiler Design
+    23.6 Artificial Intelligence
+    23.7 Machine Learning
+    23.8 Cryptography
+    23.9 Software Engineering
+
+24. DISCRETE MATHEMATICS FOR AI AND ML
+    24.1 Graph Neural Networks
+    24.2 Knowledge Graphs
+    24.3 Search Algorithms
+    24.4 Logic-Based AI
+    24.5 Decision Trees
+    24.6 Bayesian Networks
+    24.7 Reinforcement Learning
+    24.8 Constraint Satisfaction
+    24.9 Automated Reasoning
+    24.10 Planning Algorithms
+
+25. ADVANCED DISCRETE MATHEMATICS
+    25.1 Advanced Graph Theory
+    25.2 Algebraic Combinatorics
+    25.3 Extremal Combinatorics
+    25.4 Discrete Geometry
+    25.5 Matroid Theory
+    25.6 Category Theory
+    25.7 Lattice Theory
+    25.8 Coding Theory
+    25.9 Advanced Complexity Theory
+    25.10 Discrete Optimization
