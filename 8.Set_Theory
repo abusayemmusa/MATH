@@ -1,1 +1,188 @@
+SET THEORY
 
+1. Basic Concepts of Sets
+   - Definition of a Set
+   - Elements and Membership
+   - Representation of Sets
+   - Roster Method
+   - Set-Builder Method
+   - Empty Set
+   - Singleton Set
+   - Finite and Infinite Sets
+   - Equal Sets
+   - Equivalent Sets
+   - Universal Set
+
+2. Types of Sets
+   - Empty Set
+   - Singleton Set
+   - Finite Set
+   - Infinite Set
+   - Countable Set
+   - Uncountable Set
+   - Equal Set
+   - Equivalent Set
+   - Disjoint Set
+   - Overlapping Set
+   - Subset
+   - Proper Subset
+   - Power Set
+
+3. Set Operations
+   - Union
+   - Intersection
+   - Difference
+   - Complement
+   - Symmetric Difference
+   - Cartesian Product
+   - Set Partition
+
+4. Venn Diagrams
+   - One-Set Venn Diagram
+   - Two-Set Venn Diagram
+   - Three-Set Venn Diagram
+   - Union and Intersection
+   - Complement
+   - Inclusion-Exclusion
+   - Real-Life Applications
+
+5. Set Laws and Identities
+   - Commutative Laws
+   - Associative Laws
+   - Distributive Laws
+   - Identity Laws
+   - Domination Laws
+   - Idempotent Laws
+   - Complement Laws
+   - Involution Law
+   - De Morgan's Laws
+   - Absorption Laws
+
+6. Cardinality
+   - Cardinal Number
+   - Cardinality of Finite Sets
+   - Cardinality of Infinite Sets
+   - Cardinality of Union
+   - Cardinality of Intersection
+   - Inclusion-Exclusion Principle
+   - Countable and Uncountable Sets
+   - Cantor's Theorem
+
+7. Relations
+   - Ordered Pairs
+   - Cartesian Product
+   - Definition of Relation
+   - Domain and Range
+   - Inverse Relation
+   - Reflexive Relation
+   - Symmetric Relation
+   - Antisymmetric Relation
+   - Transitive Relation
+   - Equivalence Relation
+   - Partial Order Relation
+   - Total Order Relation
+
+8. Functions
+   - Definition of Function
+   - Domain, Codomain, and Range
+   - Injective Function
+   - Surjective Function
+   - Bijective Function
+   - Identity Function
+   - Constant Function
+   - Composite Function
+   - Inverse Function
+   - Function Composition
+   - Pigeonhole Principle
+
+9. Mathematical Logic
+   - Statements and Propositions
+   - Logical Connectives
+   - Truth Tables
+   - Negation
+   - Conjunction
+   - Disjunction
+   - Implication
+   - Biconditional
+   - Tautology
+   - Contradiction
+   - Logical Equivalence
+   - Quantifiers
+
+10. Proof Techniques
+    - Direct Proof
+    - Proof by Contradiction
+    - Proof by Contrapositive
+    - Mathematical Induction
+    - Strong Induction
+    - Proof by Cases
+    - Counterexamples
+    - Set-Theoretic Proofs
+
+11. Countability
+    - Finite Sets
+    - Countably Infinite Sets
+    - Uncountable Sets
+    - Countability of Integers
+    - Countability of Rational Numbers
+    - Uncountability of Real Numbers
+    - Cantor's Diagonal Argument
+    - Cardinal Arithmetic
+
+12. Partitions and Equivalence Classes
+    - Set Partitions
+    - Equivalence Classes
+    - Quotient Sets
+    - Refinement of Partitions
+    - Equivalence Relations and Partitions
+
+13. Axiomatics of Set Theory
+    - Naive Set Theory
+    - Zermelo-Fraenkel Set Theory
+    - Axiom of Extensionality
+    - Axiom of Pairing
+    - Axiom of Union
+    - Axiom of Power Set
+    - Axiom of Infinity
+    - Axiom of Choice
+    - Russell's Paradox
+
+14. Advanced Set Theory
+    - Ordinal Numbers
+    - Cardinal Numbers
+    - Transfinite Induction
+    - Transfinite Recursion
+    - Well-Ordering Principle
+    - Continuum Hypothesis
+    - Zorn's Lemma
+    - Axiom of Choice
+
+15. Set Theory in Discrete Mathematics
+    - Graph Theory
+    - Combinatorics
+    - Relations and Functions
+    - Mathematical Structures
+    - Counting Principles
+    - Recurrence Relations
+    - Formal Languages
+
+16. Set Theory in CSE
+    - Data Structures as Sets
+    - Database Operations
+    - SQL Set Operations
+    - Search and Filtering
+    - Logic Programming
+    - Type Theory
+    - Programming Language Semantics
+    - Knowledge Representation
+    - Algorithms and Complexity
+
+17. Fuzzy and Rough Sets
+    - Classical Sets
+    - Fuzzy Sets
+    - Membership Functions
+    - Fuzzy Union
+    - Fuzzy Intersection
+    - Fuzzy Complement
+    - Rough Sets
+    - Applications in AI
