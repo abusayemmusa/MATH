@@ -1,121 +1,176 @@
-MATHEMATICAL THEORY
+NUMBER THEORY
 
-1. Set Theory
-   - Sets and Subsets
-   - Relations and Functions
-   - Cardinality
-   - Countable and Uncountable Sets
-   - Axiomatic Set Theory
-
-2. Number Theory
-   - Prime Numbers
+1. Basic Number Theory
+   - Natural Numbers, Integers, Rational Numbers
+   - Even and Odd Numbers
+   - Positive and Negative Numbers
    - Divisibility
-   - Modular Arithmetic
-   - Diophantine Equations
-   - Algebraic Number Theory
+   - Factors and Multiples
+   - Prime and Composite Numbers
+   - Fundamental Theorem of Arithmetic
+   - Number Representation
 
-3. Algebra
-   - Abstract Algebra
-   - Group Theory
-   - Ring Theory
-   - Field Theory
-   - Linear Algebra
-   - Boolean Algebra
+2. Divisibility Theory
+   - Divisibility Rules
+   - Divisibility Properties
+   - Greatest Common Divisor (GCD)
+   - Least Common Multiple (LCM)
+   - Euclidean Algorithm
+   - Extended Euclidean Algorithm
+   - Bézout's Identity
+   - Linear Diophantine Equations
 
-4. Analysis
-   - Real Analysis
-   - Complex Analysis
-   - Functional Analysis
-   - Measure Theory
-   - Harmonic Analysis
+3. Prime Numbers
+   - Prime Number Properties
+   - Prime Factorization
+   - Sieve of Eratosthenes
+   - Segmented Sieve
+   - Sieve of Sundaram
+   - Prime Counting Function
+   - Twin Primes
+   - Mersenne Primes
+   - Goldbach's Conjecture
 
-5. Topology
-   - Point-Set Topology
-   - Metric Spaces
-   - Continuity
-   - Compactness
-   - Connectedness
-   - Algebraic Topology
-   - Differential Topology
+4. Modular Arithmetic
+   - Congruence Relations
+   - Modular Addition
+   - Modular Subtraction
+   - Modular Multiplication
+   - Modular Division
+   - Modular Exponentiation
+   - Modular Inverse
+   - Linear Congruences
+   - Systems of Congruences
 
-6. Geometry
-   - Euclidean Geometry
-   - Non-Euclidean Geometry
-   - Differential Geometry
-   - Algebraic Geometry
-   - Projective Geometry
-   - Computational Geometry
+5. Important Theorems
+   - Fermat's Little Theorem
+   - Euler's Theorem
+   - Euler's Totient Function
+   - Wilson's Theorem
+   - Chinese Remainder Theorem
+   - Bézout's Theorem
+   - Lagrange's Theorem (Number-Theoretic Applications)
 
-7. Logic
-   - Mathematical Logic
-   - Propositional Logic
-   - Predicate Logic
-   - Proof Theory
-   - Model Theory
-   - Computability Theory
-   - Set-Theoretic Logic
+6. Arithmetic Functions
+   - Divisor-Counting Function
+   - Sum-of-Divisors Function
+   - Euler's Totient Function
+   - Möbius Function
+   - Liouville Function
+   - Multiplicative Functions
+   - Completely Multiplicative Functions
+   - Dirichlet Convolution
 
-8. Discrete Mathematics
-   - Graph Theory
-   - Combinatorics
-   - Recurrence Relations
-   - Discrete Structures
-   - Generating Functions
-   - Graph Algorithms
+7. Diophantine Equations
+   - Linear Diophantine Equations
+   - Quadratic Diophantine Equations
+   - Pell's Equation
+   - Pythagorean Triples
+   - Fermat-Type Equations
+   - Modular Methods
+   - Integer Solutions
+   - Rational Solutions
 
-9. Probability Theory
-   - Probability Spaces
-   - Random Variables
-   - Probability Distributions
-   - Conditional Probability
-   - Stochastic Processes
-   - Measure-Theoretic Probability
+8. Continued Fractions
+   - Simple Continued Fractions
+   - Finite Continued Fractions
+   - Infinite Continued Fractions
+   - Convergents
+   - Rational Approximations
+   - Pell's Equation Applications
 
-10. Statistics Theory
-    - Statistical Inference
-    - Estimation Theory
-    - Hypothesis Testing
-    - Regression Theory
-    - Bayesian Statistics
-    - Asymptotic Statistics
+9. Quadratic Residues
+   - Quadratic Residues and Non-Residues
+   - Legendre Symbol
+   - Jacobi Symbol
+   - Euler's Criterion
+   - Quadratic Reciprocity
+   - Modular Square Roots
 
-11. Differential Equations Theory
-    - ODE Theory
-    - PDE Theory
-    - Dynamical Systems
-    - Stability Theory
-    - Existence and Uniqueness
-    - Numerical Analysis
+10. Cryptographic Number Theory
+    - RSA Cryptography
+    - Diffie-Hellman Key Exchange
+    - Elliptic Curve Cryptography
+    - Modular Exponentiation
+    - Prime Generation
+    - Finite Fields
+    - Discrete Logarithm Problem
+    - Cryptographic Applications
 
-12. Optimization Theory
-    - Linear Optimization
-    - Convex Optimization
-    - Nonlinear Optimization
-    - Variational Methods
-    - Optimal Control
-    - Game Theory
+11. Algebraic Number Theory
+    - Algebraic Integers
+    - Number Fields
+    - Rings of Integers
+    - Ideals
+    - Unique Factorization
+    - Norms and Traces
+    - Dedekind Domains
+    - Class Groups
 
-13. Mathematical Physics
-    - Classical Mechanics
-    - Quantum Mechanics
-    - Relativity
-    - Electromagnetism
-    - Statistical Mechanics
-    - Mathematical Modeling
+12. Analytic Number Theory
+    - Arithmetic Functions
+    - Dirichlet Series
+    - Riemann Zeta Function
+    - Prime Number Theorem
+    - Distribution of Primes
+    - Dirichlet's Theorem
+    - Analytic Methods
 
-14. Computational Theory (CSE)
-    - Theory of Computation
-    - Automata Theory
-    - Formal Languages
-    - Complexity Theory
-    - Computability
-    - Algorithmic Theory
-    - Information Theory
+13. Transcendental and Diophantine Approximation
+    - Irrational Numbers
+    - Transcendental Numbers
+    - Approximation of Real Numbers
+    - Liouville's Theorem
+    - Roth's Theorem (Introduction)
 
-15. Advanced Mathematical Theory
-    - Category Theory
-    - Homological Algebra
-    - Representation Theory
-    - Lie Theory
-    - Operator Theory
-    - Mathematical Foundations
+14. Computational Number Theory
+    - Fast Exponentiation
+    - GCD Algorithms
+    - Prime Testing
+    - Miller-Rabin Test
+    - Pollard's Rho Algorithm
+    - Factorization Algorithms
+    - Discrete Logarithm Algorithms
+    - Chinese Remainder Algorithm
+
+15. Number Theory for Competitive Programming
+    - GCD and LCM Problems
+    - Prime Factorization
+    - Sieve Algorithms
+    - Modular Arithmetic
+    - Fast Power
+    - Modular Inverse
+    - Combinatorics Under Modulo
+    - Inclusion-Exclusion
+    - Möbius Inversion
+    - Bitwise Number Theory
+    - Divisor Enumeration
+    - Euler Totient Sieve
+
+16. Geometry and Number Theory
+    - Pythagorean Triples
+    - Lattice Points
+    - Pick's Theorem
+    - Integer Coordinates
+    - Geometric Number Theory
+    - Diophantine Geometry
+
+17. Advanced Number Theory
+    - Elliptic Curves
+    - Modular Forms
+    - Automorphic Forms
+    - Algebraic Number Theory
+    - Iwasawa Theory
+    - p-adic Numbers
+    - Local and Global Fields
+    - Arithmetic Geometry
+
+18. Applications
+    - Cryptography
+    - Computer Security
+    - Coding Theory
+    - Algorithm Design
+    - Hashing
+    - Random Number Generation
+    - Error-Correcting Codes
+    - Computational Mathematics
