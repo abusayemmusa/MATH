@@ -1,1 +1,219 @@
+ALGEBRA
 
+1. Basic Algebra
+   - Variables and Constants
+   - Algebraic Expressions
+   - Terms, Coefficients, and Factors
+   - Algebraic Operations
+   - Laws of Indices
+   - Laws of Surds
+   - Algebraic Simplification
+   - Algebraic Identities
+
+2. Factorization
+   - Common Factors
+   - Grouping Method
+   - Quadratic Factorization
+   - Difference of Squares
+   - Sum and Difference of Cubes
+   - Factor Theorem
+   - Remainder Theorem
+
+3. Equations
+   - Linear Equations
+   - Simultaneous Equations
+   - Quadratic Equations
+   - Cubic Equations
+   - Polynomial Equations
+   - Radical Equations
+   - Exponential Equations
+   - Logarithmic Equations
+
+4. Inequalities
+   - Linear Inequalities
+   - Quadratic Inequalities
+   - Polynomial Inequalities
+   - Rational Inequalities
+   - Absolute Value Inequalities
+   - AM-GM Inequality
+   - Cauchy-Schwarz Inequality
+   - Triangle Inequality
+
+5. Polynomials
+   - Polynomial Operations
+   - Degree of Polynomial
+   - Roots and Zeros
+   - Factor and Remainder Theorems
+   - Polynomial Division
+   - Synthetic Division
+   - Vieta's Formulas
+   - Fundamental Theorem of Algebra
+
+6. Functions and Relations
+   - Sets and Relations
+   - Domain and Range
+   - One-to-One Functions
+   - Onto Functions
+   - Bijective Functions
+   - Composite Functions
+   - Inverse Functions
+   - Even and Odd Functions
+   - Increasing and Decreasing Functions
+   - Functional Equations
+
+7. Sequences and Series
+   - Arithmetic Progression (AP)
+   - Geometric Progression (GP)
+   - Harmonic Progression (HP)
+   - Arithmetic Mean
+   - Geometric Mean
+   - Harmonic Mean
+   - Infinite Series
+   - Convergence and Divergence
+   - Recurrence Relations
+
+8. Logarithms and Exponents
+   - Laws of Logarithms
+   - Natural Logarithm
+   - Common Logarithm
+   - Exponential Functions
+   - Growth and Decay
+   - Logarithmic Equations
+   - Change of Base
+
+9. Permutation and Combination
+   - Fundamental Counting Principle
+   - Factorial
+   - Permutations
+   - Combinations
+   - Circular Permutation
+   - Repeated Objects
+   - Distribution Problems
+   - Binomial Applications
+
+10. Binomial Theorem
+    - Binomial Expansion
+    - General Term
+    - Middle Term
+    - Coefficients
+    - Pascal's Triangle
+    - Multinomial Theorem
+    - Binomial Approximation
+
+11. Complex Numbers
+    - Imaginary Numbers
+    - Complex Number Operations
+    - Argand Diagram
+    - Modulus and Argument
+    - Polar Form
+    - Euler's Formula
+    - De Moivre's Theorem
+    - Roots of Complex Numbers
+
+12. Matrices
+    - Types of Matrices
+    - Matrix Operations
+    - Transpose
+    - Determinants
+    - Inverse Matrix
+    - Rank of Matrix
+    - Elementary Row Operations
+    - Eigenvalues and Eigenvectors
+    - Diagonalization
+
+13. Systems of Linear Equations
+    - Linear Equations
+    - Gaussian Elimination
+    - Gauss-Jordan Elimination
+    - Cramer's Rule
+    - Consistency of Equations
+    - Homogeneous Equations
+    - Linear Independence
+    - Solution Spaces
+
+14. Linear Algebra
+    - Vector Spaces
+    - Subspaces
+    - Basis and Dimension
+    - Linear Transformations
+    - Kernel and Image
+    - Rank-Nullity Theorem
+    - Inner Product Spaces
+    - Orthogonality
+    - Gram-Schmidt Process
+    - Least Squares
+
+15. Abstract Algebra
+    - Binary Operations
+    - Groups
+    - Subgroups
+    - Cyclic Groups
+    - Permutation Groups
+    - Cosets
+    - Lagrange's Theorem
+    - Normal Subgroups
+    - Quotient Groups
+    - Homomorphism and Isomorphism
+
+16. Ring and Field Theory
+    - Rings
+    - Subrings
+    - Integral Domains
+    - Ideals
+    - Quotient Rings
+    - Ring Homomorphism
+    - Fields
+    - Finite Fields
+    - Polynomial Rings
+
+17. Number Theory
+    - Divisibility
+    - Prime Numbers
+    - Greatest Common Divisor
+    - Euclidean Algorithm
+    - Modular Arithmetic
+    - Congruences
+    - Fermat's Little Theorem
+    - Euler's Totient Function
+    - Chinese Remainder Theorem
+    - Diophantine Equations
+
+18. Boolean Algebra
+    - Boolean Variables
+    - Boolean Operations
+    - Truth Tables
+    - Boolean Identities
+    - De Morgan's Laws
+    - Karnaugh Maps
+    - Logic Gates
+    - Digital Circuit Applications
+
+19. Discrete Algebra
+    - Propositional Logic
+    - Predicate Logic
+    - Set Algebra
+    - Relations
+    - Functions
+    - Recurrence Relations
+    - Graph-Based Algebra
+    - Combinatorial Structures
+
+20. Numerical and Computational Algebra
+    - Numerical Equation Solving
+    - Bisection Method
+    - Newton-Raphson Method
+    - Interpolation
+    - Symbolic Computation
+    - Computer Algebra Systems
+    - Polynomial Algorithms
+    - Computational Linear Algebra
+
+21. Advanced Algebra
+    - Tensor Algebra
+    - Multilinear Algebra
+    - Exterior Algebra
+    - Lie Algebra
+    - Representation Theory
+    - Algebraic Geometry Basics
+    - Homological Algebra
+    - Category Theory
