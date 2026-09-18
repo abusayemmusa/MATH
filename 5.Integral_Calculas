@@ -1,1 +1,149 @@
+INTEGRAL CALCULUS
 
+1. Foundations of Integration
+   - Concept of Integration
+   - Antiderivatives
+   - Indefinite Integrals
+   - Definite Integrals
+   - Integration as Area
+   - Riemann Sums
+   - Fundamental Theorem of Calculus
+
+2. Basic Integration Formulas
+   - Constant Functions
+   - Power Functions
+   - Polynomial Functions
+   - Rational Functions
+   - Exponential Functions
+   - Logarithmic Functions
+   - Trigonometric Functions
+   - Inverse Trigonometric Functions
+   - Hyperbolic Functions
+
+3. Methods of Integration
+   - Substitution Method
+   - Integration by Parts
+   - Partial Fractions
+   - Trigonometric Integration
+   - Trigonometric Substitution
+   - Reduction Formulas
+   - Integration of Rational Functions
+   - Integration of Irrational Functions
+
+4. Definite Integrals
+   - Properties of Definite Integrals
+   - Evaluation of Definite Integrals
+   - Symmetry Properties
+   - Periodic Functions
+   - Fundamental Theorem Applications
+   - Definite Integral Inequalities
+
+5. Applications of Integration
+   - Area Under a Curve
+   - Area Between Two Curves
+   - Area in Polar Coordinates
+   - Volume by Disk Method
+   - Volume by Washer Method
+   - Volume by Shell Method
+   - Arc Length
+   - Surface Area of Revolution
+   - Average Value of a Function
+
+6. Improper Integrals
+   - Infinite Intervals
+   - Infinite Discontinuities
+   - Convergence and Divergence
+   - Comparison Test
+   - Limit Comparison Test
+   - p-Integrals
+   - Gamma Function
+   - Beta Function
+
+7. Numerical Integration
+   - Numerical Approximation
+   - Trapezoidal Rule
+   - Midpoint Rule
+   - Simpson's 1/3 Rule
+   - Simpson's 3/8 Rule
+   - Error Estimation
+   - Gaussian Quadrature
+   - Numerical Integration Algorithms
+
+8. Multiple Integrals
+   - Double Integrals
+   - Triple Integrals
+   - Iterated Integrals
+   - Change of Order of Integration
+   - Change of Variables
+   - Jacobian
+   - Integration Over Regions
+   - Applications of Multiple Integrals
+
+9. Polar, Cylindrical, and Spherical Integration
+   - Polar Coordinates
+   - Double Integrals in Polar Form
+   - Cylindrical Coordinates
+   - Spherical Coordinates
+   - Volume Integration
+   - Coordinate Transformation
+
+10. Line Integrals
+    - Scalar Line Integrals
+    - Vector Line Integrals
+    - Parametric Curves
+    - Work Done by a Force
+    - Conservative Vector Fields
+    - Potential Functions
+    - Path Independence
+
+11. Surface Integrals
+    - Scalar Surface Integrals
+    - Vector Surface Integrals
+    - Parametric Surfaces
+    - Surface Area
+    - Flux
+    - Orientation of Surfaces
+
+12. Vector Integral Calculus
+    - Gradient
+    - Divergence
+    - Curl
+    - Green's Theorem
+    - Gauss Divergence Theorem
+    - Stokes' Theorem
+    - Applications in Physics and Engineering
+
+13. Differential Equations and Integration
+    - Separable Differential Equations
+    - First-Order Differential Equations
+    - Linear Differential Equations
+    - Integration Factors
+    - Initial Value Problems
+    - Second-Order Differential Equations
+    - Applications of Integration
+
+14. Integral Transforms
+    - Laplace Transform
+    - Inverse Laplace Transform
+    - Properties of Laplace Transform
+    - Fourier Transform
+    - Inverse Fourier Transform
+    - Applications to Differential Equations
+    - Signal Processing Applications
+
+15. Special Functions
+    - Gamma Function
+    - Beta Function
+    - Error Function
+    - Elliptic Integrals
+    - Bessel Functions (Introduction)
+    - Legendre Functions (Introduction)
+
+16. Advanced Integration
+    - Lebesgue Integration (Introduction)
+    - Measure Theory Basics
+    - Riemann-Stieltjes Integration
+    - Contour Integration
+    - Complex Integration
+    - Residue Theorem
+    - Calculus of Variations
