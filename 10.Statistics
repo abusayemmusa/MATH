@@ -1,1 +1,319 @@
+STATISTICS
 
+1. Fundamentals of Statistics
+   - Definition of Statistics
+   - Population and Sample
+   - Parameter and Statistic
+   - Variables and Observations
+   - Qualitative and Quantitative Data
+   - Discrete and Continuous Data
+   - Primary and Secondary Data
+   - Data Collection Methods
+   - Levels of Measurement
+
+2. Data Presentation
+   - Data Tables
+   - Frequency Distribution
+   - Grouped and Ungrouped Data
+   - Bar Chart
+   - Histogram
+   - Pie Chart
+   - Frequency Polygon
+   - Ogive
+   - Stem-and-Leaf Plot
+   - Box Plot
+   - Scatter Plot
+
+3. Measures of Central Tendency
+   - Arithmetic Mean
+   - Weighted Mean
+   - Geometric Mean
+   - Harmonic Mean
+   - Median
+   - Mode
+   - Combined Mean
+   - Mean for Grouped Data
+   - Relationship Between Mean, Median, and Mode
+
+4. Measures of Dispersion
+   - Range
+   - Interquartile Range
+   - Quartile Deviation
+   - Mean Deviation
+   - Variance
+   - Standard Deviation
+   - Coefficient of Variation
+   - Population and Sample Variance
+
+5. Measures of Position
+   - Quartiles
+   - Deciles
+   - Percentiles
+   - Z-Score
+   - Standardized Scores
+   - Five-Number Summary
+   - Outliers
+
+6. Probability Fundamentals
+   - Random Experiments
+   - Sample Space
+   - Events
+   - Simple Probability
+   - Complementary Events
+   - Addition Rule
+   - Multiplication Rule
+   - Conditional Probability
+   - Independent and Dependent Events
+   - Bayes' Theorem
+
+7. Combinatorial Probability
+   - Fundamental Counting Principle
+   - Permutations
+   - Combinations
+   - Binomial Coefficients
+   - Inclusion-Exclusion Principle
+   - Birthday Problem
+   - Conditional Counting
+
+8. Random Variables
+   - Definition of Random Variable
+   - Discrete Random Variables
+   - Continuous Random Variables
+   - Probability Mass Function (PMF)
+   - Probability Density Function (PDF)
+   - Cumulative Distribution Function (CDF)
+   - Expected Value
+   - Variance of Random Variables
+   - Moments
+
+9. Discrete Probability Distributions
+   - Bernoulli Distribution
+   - Binomial Distribution
+   - Geometric Distribution
+   - Negative Binomial Distribution
+   - Poisson Distribution
+   - Hypergeometric Distribution
+   - Discrete Uniform Distribution
+
+10. Continuous Probability Distributions
+    - Uniform Distribution
+    - Normal Distribution
+    - Standard Normal Distribution
+    - Exponential Distribution
+    - Gamma Distribution
+    - Beta Distribution
+    - Weibull Distribution
+    - Lognormal Distribution
+    - Chi-Square Distribution
+    - Student's t-Distribution
+    - F-Distribution
+
+11. Joint Probability Distributions
+    - Joint PMF and PDF
+    - Marginal Distribution
+    - Conditional Distribution
+    - Covariance
+    - Correlation
+    - Independence
+    - Conditional Expectation
+    - Multivariate Normal Distribution
+
+12. Sampling Theory
+    - Population and Sample
+    - Sampling Frame
+    - Simple Random Sampling
+    - Stratified Sampling
+    - Cluster Sampling
+    - Systematic Sampling
+    - Sampling With and Without Replacement
+    - Sampling Distribution
+    - Sampling Bias
+
+13. Sampling Distributions
+    - Distribution of Sample Mean
+    - Distribution of Sample Proportion
+    - Central Limit Theorem
+    - Standard Error
+    - t-Distribution
+    - Chi-Square Distribution
+    - F-Distribution
+    - Law of Large Numbers
+
+14. Estimation Theory
+    - Point Estimation
+    - Interval Estimation
+    - Estimator and Estimate
+    - Bias and Variance
+    - Consistency
+    - Efficiency
+    - Maximum Likelihood Estimation (MLE)
+    - Method of Moments
+    - Bayesian Estimation
+    - Confidence Intervals
+
+15. Hypothesis Testing
+    - Null Hypothesis
+    - Alternative Hypothesis
+    - Type I Error
+    - Type II Error
+    - Significance Level
+    - p-Value
+    - Statistical Power
+    - One-Tailed Test
+    - Two-Tailed Test
+    - Critical Region
+
+16. Statistical Tests
+    - Z-Test
+    - One-Sample t-Test
+    - Two-Sample t-Test
+    - Paired t-Test
+    - Chi-Square Test
+    - Goodness-of-Fit Test
+    - Test of Independence
+    - F-Test
+    - ANOVA
+    - Nonparametric Tests
+
+17. Correlation Analysis
+    - Covariance
+    - Pearson Correlation
+    - Spearman Rank Correlation
+    - Kendall's Tau
+    - Partial Correlation
+    - Correlation Matrix
+    - Correlation vs Causation
+    - Statistical Significance of Correlation
+
+18. Regression Analysis
+    - Simple Linear Regression
+    - Multiple Linear Regression
+    - Polynomial Regression
+    - Regression Coefficients
+    - Least Squares Method
+    - R-Squared
+    - Adjusted R-Squared
+    - Residual Analysis
+    - Regression Assumptions
+    - Logistic Regression
+
+19. Analysis of Variance
+    - One-Way ANOVA
+    - Two-Way ANOVA
+    - Factorial ANOVA
+    - Repeated Measures ANOVA
+    - Between-Group Variation
+    - Within-Group Variation
+    - F-Statistic
+    - Post-Hoc Tests
+    - MANOVA
+
+20. Nonparametric Statistics
+    - Sign Test
+    - Wilcoxon Signed-Rank Test
+    - Mann-Whitney U Test
+    - Kruskal-Wallis Test
+    - Friedman Test
+    - Kolmogorov-Smirnov Test
+    - Rank-Based Methods
+    - Distribution-Free Methods
+
+21. Experimental Design
+    - Controlled Experiments
+    - Observational Studies
+    - Randomization
+    - Replication
+    - Blocking
+    - Control Groups
+    - Factorial Design
+    - Confounding Variables
+    - A/B Testing
+    - Causal Inference Basics
+
+22. Time Series Analysis
+    - Time Series Components
+    - Trend
+    - Seasonality
+    - Cyclic Variation
+    - Moving Average
+    - Exponential Smoothing
+    - Autocorrelation
+    - Stationarity
+    - AR Model
+    - MA Model
+    - ARIMA
+    - Forecasting
+
+23. Multivariate Statistics
+    - Multivariate Data
+    - Covariance Matrix
+    - Multivariate Normal Distribution
+    - Principal Component Analysis (PCA)
+    - Factor Analysis
+    - Cluster Analysis
+    - Discriminant Analysis
+    - Canonical Correlation
+    - Multidimensional Scaling
+
+24. Bayesian Statistics
+    - Prior Probability
+    - Likelihood
+    - Posterior Probability
+    - Bayes' Theorem
+    - Conjugate Priors
+    - Bayesian Estimation
+    - Credible Intervals
+    - Bayesian Hypothesis Testing
+    - Markov Chain Monte Carlo (MCMC)
+    - Bayesian Networks
+
+25. Statistical Computing
+    - Python for Statistics
+    - NumPy
+    - Pandas
+    - SciPy
+    - Matplotlib
+    - Seaborn
+    - R Programming
+    - Statistical Simulation
+    - Monte Carlo Methods
+    - Numerical Optimization
+    - Reproducible Analysis
+
+26. Machine Learning Statistics
+    - Train, Validation, and Test Sets
+    - Bias-Variance Tradeoff
+    - Overfitting and Underfitting
+    - Cross-Validation
+    - Classification Metrics
+    - Regression Metrics
+    - Precision and Recall
+    - ROC-AUC
+    - Probability Calibration
+    - Feature Selection
+    - Model Evaluation
+
+27. Advanced Statistics
+    - Generalized Linear Models
+    - Mixed-Effects Models
+    - Survival Analysis
+    - Causal Inference
+    - Missing Data Analysis
+    - Robust Statistics
+    - Bootstrap Methods
+    - Jackknife Method
+    - Resampling Methods
+    - High-Dimensional Statistics
+    - Statistical Learning Theory
+
+28. Research Statistics
+    - Research Methodology
+    - Data Cleaning
+    - Exploratory Data Analysis
+    - Statistical Modeling
+    - Experimental Analysis
+    - Reproducibility
+    - Research Bias
+    - Effect Size
+    - Meta-Analysis
+    - Scientific Reporting
