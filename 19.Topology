@@ -1,1 +1,457 @@
+TOPOLOGY
+=======
 
+1. FOUNDATIONS OF TOPOLOGY
+   1.1 Introduction to Topology
+   1.2 Sets and Set Operations
+   1.3 Cartesian Products
+   1.4 Relations and Functions
+   1.5 Neighborhoods
+   1.6 Open and Closed Sets
+   1.7 Interior and Closure
+   1.8 Boundary Points
+   1.9 Limit Points
+   1.10 Accumulation Points
+
+2. TOPOLOGICAL SPACES
+   2.1 Definition of Topological Space
+   2.2 Topology on a Set
+   2.3 Discrete Topology
+   2.4 Indiscrete Topology
+   2.5 Trivial Topology
+   2.6 Cofinite Topology
+   2.7 Cocountable Topology
+   2.8 Lower Limit Topology
+   2.9 Product Topology
+   2.10 Subspace Topology
+   2.11 Quotient Topology
+   2.12 Metric Topology
+
+3. OPEN AND CLOSED SETS
+   3.1 Open Sets
+   3.2 Closed Sets
+   3.3 Clopen Sets
+   3.4 Interior of a Set
+   3.5 Closure of a Set
+   3.6 Boundary of a Set
+   3.7 Derived Sets
+   3.8 Exterior of a Set
+   3.9 Dense Sets
+   3.10 Nowhere Dense Sets
+
+4. BASES AND SUBBASES
+   4.1 Basis for a Topology
+   4.2 Subbasis
+   4.3 Basis Theorem
+   4.4 Neighborhood Basis
+   4.5 Countable Basis
+   4.6 Second Countability
+   4.7 Local Basis
+   4.8 Generating a Topology
+   4.9 Lindelöf Spaces
+   4.10 Separable Spaces
+
+5. CONTINUITY
+   5.1 Continuous Functions
+   5.2 Topological Definition of Continuity
+   5.3 Open-Set Definition
+   5.4 Closed-Set Definition
+   5.5 Sequential Continuity
+   5.6 Continuous Restrictions
+   5.7 Composition of Continuous Functions
+   5.8 Homeomorphisms
+   5.9 Embeddings
+   5.10 Quotient Maps
+   5.11 Open Maps
+   5.12 Closed Maps
+
+6. TOPOLOGICAL EQUIVALENCE
+   6.1 Homeomorphism
+   6.2 Topological Invariants
+   6.3 Topological Properties
+   6.4 Equivalent Topological Spaces
+   6.5 Topological Embeddings
+   6.6 Topological Isomorphism
+   6.7 Classification up to Homeomorphism
+   6.8 Invariant-Based Classification
+
+7. METRIC SPACES
+   7.1 Metric Definition
+   7.2 Distance Functions
+   7.3 Open Balls
+   7.4 Closed Balls
+   7.5 Metric Topology
+   7.6 Equivalent Metrics
+   7.7 Bounded Metric Spaces
+   7.8 Discrete Metric
+   7.9 Ultrametric Spaces
+   7.10 Normed Spaces
+   7.11 Pseudometric Spaces
+
+8. CONVERGENCE
+   8.1 Convergent Sequences
+   8.2 Limits of Sequences
+   8.3 Uniqueness of Limits
+   8.4 Convergent Nets
+   8.5 Filters
+   8.6 Cauchy Sequences
+   8.7 Completeness
+   8.8 Sequential Spaces
+   8.9 First-Countable Spaces
+   8.10 Sequential Compactness
+
+9. SEPARATION AXIOMS
+   9.1 T0 Spaces
+   9.2 T1 Spaces
+   9.3 Hausdorff Spaces
+   9.4 Regular Spaces
+   9.5 Completely Regular Spaces
+   9.6 Normal Spaces
+   9.7 Tychonoff Spaces
+   9.8 Separation Properties
+   9.9 Urysohn Spaces
+   9.10 Metrization Theorems
+
+10. CONNECTEDNESS
+    10.1 Connected Spaces
+    10.2 Disconnected Spaces
+    10.3 Connected Components
+    10.4 Path-Connected Spaces
+    10.5 Local Connectedness
+    10.6 Locally Path-Connected Spaces
+    10.7 Totally Disconnected Spaces
+    10.8 Arc-Connected Spaces
+    10.9 Connected Subsets
+    10.10 Connectedness in Product Spaces
+
+11. COMPACTNESS
+    11.1 Compact Spaces
+    11.2 Open Cover Definition
+    11.3 Compact Subspaces
+    11.4 Sequential Compactness
+    11.5 Limit-Point Compactness
+    11.6 Countable Compactness
+    11.7 Local Compactness
+    11.8 Paracompact Spaces
+    11.9 Compactification
+    11.10 One-Point Compactification
+    11.11 Stone–Čech Compactification
+    11.12 Heine–Borel Theorem
+
+12. PRODUCT AND QUOTIENT SPACES
+    12.1 Cartesian Product Spaces
+    12.2 Product Topology
+    12.3 Box Topology
+    12.4 Projection Maps
+    12.5 Product of Compact Spaces
+    12.6 Tychonoff Theorem
+    12.7 Quotient Spaces
+    12.8 Quotient Maps
+    12.9 Identification Spaces
+    12.10 Gluing Spaces
+    12.11 Wedge Sums
+    12.12 Suspensions
+
+13. COUNTABILITY AND COVERING PROPERTIES
+    13.1 First Countability
+    13.2 Second Countability
+    13.3 Separability
+    13.4 Lindelöf Property
+    13.5 ccc Property
+    13.6 Metrizability
+    13.7 Paracompactness
+    13.8 Collectionwise Normality
+    13.9 Covering Dimension
+    13.10 Topological Weight
+
+14. ALGEBRAIC TOPOLOGY
+    14.1 Introduction to Algebraic Topology
+    14.2 Topological Invariants
+    14.3 Fundamental Groups
+    14.4 Homotopy
+    14.5 Homotopy Equivalence
+    14.6 Homotopy Groups
+    14.7 Covering Spaces
+    14.8 Homology Groups
+    14.9 Cohomology Groups
+    14.10 Exact Sequences
+    14.11 Chain Complexes
+    14.12 Simplicial Complexes
+
+15. HOMOTOPY THEORY
+    15.1 Homotopic Maps
+    15.2 Homotopy Classes
+    15.3 Homotopy Equivalence
+    15.4 Fundamental Group
+    15.5 Higher Homotopy Groups
+    15.6 Homotopy Fibers
+    15.7 Fibrations
+    15.8 Cofibrations
+    15.9 Homotopy Limits
+    15.10 Homotopy Colimits
+    15.11 Stable Homotopy Theory
+    15.12 Homotopy Type Theory
+
+16. FUNDAMENTAL GROUPS
+    16.1 Paths
+    16.2 Loops
+    16.3 Homotopy of Paths
+    16.4 Fundamental Group
+    16.5 Simply Connected Spaces
+    16.6 Fundamental Group of a Circle
+    16.7 Fundamental Group of Surfaces
+    16.8 Van Kampen Theorem
+    16.9 Covering Spaces
+    16.10 Deck Transformations
+
+17. HOMOLOGY THEORY
+    17.1 Simplicial Homology
+    17.2 Singular Homology
+    17.3 Chain Groups
+    17.4 Boundary Operators
+    17.5 Cycles and Boundaries
+    17.6 Homology Groups
+    17.7 Reduced Homology
+    17.8 Relative Homology
+    17.9 Mayer–Vietoris Sequence
+    17.10 Exact Homology Sequences
+    17.11 Cellular Homology
+    17.12 Persistent Homology
+
+18. COHOMOLOGY THEORY
+    18.1 Singular Cohomology
+    18.2 Cohomology Groups
+    18.3 Cochain Complexes
+    18.4 Cup Product
+    18.5 Cohomology Rings
+    18.6 Relative Cohomology
+    18.7 De Rham Cohomology
+    18.8 Čech Cohomology
+    18.9 Poincaré Duality
+    18.10 Alexander Duality
+
+19. MANIFOLDS
+    19.1 Topological Manifolds
+    19.2 Coordinate Charts
+    19.3 Atlases
+    19.4 Hausdorff Manifolds
+    19.5 Second-Countable Manifolds
+    19.6 Manifolds with Boundary
+    19.7 Compact Manifolds
+    19.8 Orientable Manifolds
+    19.9 Non-Orientable Manifolds
+    19.10 Classification of Surfaces
+    19.11 Exotic Manifolds
+    19.12 Manifold Invariants
+
+20. DIFFERENTIAL TOPOLOGY
+    20.1 Smooth Manifolds
+    20.2 Smooth Maps
+    20.3 Tangent Spaces
+    20.4 Differential Forms
+    20.5 Vector Fields
+    20.6 Transversality
+    20.7 Sard's Theorem
+    20.8 Morse Theory
+    20.9 Degree Theory
+    20.10 Intersection Theory
+    20.11 Embedding Theorems
+    20.12 Differential Topological Invariants
+
+21. GEOMETRIC TOPOLOGY
+    21.1 Topology of Manifolds
+    21.2 Three-Manifolds
+    21.3 Four-Manifolds
+    21.4 Knot Theory
+    21.5 Link Theory
+    21.6 Surgery Theory
+    21.7 Cobordism
+    21.8 Geometric Structures
+    21.9 Hyperbolic Manifolds
+    21.10 Low-Dimensional Topology
+    21.11 Geometric Group Theory
+    21.12 Thurston's Geometrization
+
+22. KNOT THEORY
+    22.1 Knots and Links
+    22.2 Knot Diagrams
+    22.3 Reidemeister Moves
+    22.4 Knot Equivalence
+    22.5 Knot Invariants
+    22.6 Knot Groups
+    22.7 Linking Number
+    22.8 Jones Polynomial
+    22.9 Alexander Polynomial
+    22.10 Seifert Surfaces
+    22.11 Braid Groups
+    22.12 Virtual Knot Theory
+
+23. ALGEBRAIC GEOMETRY CONNECTIONS
+    23.1 Algebraic Varieties
+    23.2 Zariski Topology
+    23.3 Schemes
+    23.4 Algebraic Curves
+    23.5 Algebraic Surfaces
+    23.6 Étale Topology
+    23.7 Sheaf Theory
+    23.8 Intersection Theory
+    23.9 Topological Properties of Varieties
+    23.10 Homotopy Types of Algebraic Objects
+
+24. DIFFERENTIAL GEOMETRY CONNECTIONS
+    24.1 Smooth Structures
+    24.2 Riemannian Manifolds
+    24.3 Curvature
+    24.4 Geodesics
+    24.5 Lie Groups
+    24.6 Fiber Bundles
+    24.7 Principal Bundles
+    24.8 Characteristic Classes
+    24.9 Connections
+    24.10 Holonomy
+
+25. CATEGORY-THEORETIC TOPOLOGY
+    25.1 Categories
+    25.2 Functors
+    25.3 Natural Transformations
+    25.4 Topological Categories
+    25.5 Limits and Colimits
+    25.6 Adjunctions
+    25.7 Homotopy Categories
+    25.8 Derived Categories
+    25.9 Higher Categories
+    25.10 ∞-Categories
+
+26. SET-THEORETIC TOPOLOGY
+    26.1 Ordinal Spaces
+    26.2 Cardinal Functions
+    26.3 Filters and Ultrafilters
+    26.4 Forcing and Topology
+    26.5 Boolean Spaces
+    26.6 Stone Spaces
+    26.7 Compactness Principles
+    26.8 Selection Principles
+    26.9 Descriptive Set Theory
+    26.10 Infinite-Dimensional Topology
+
+27. DIMENSION THEORY
+    27.1 Topological Dimension
+    27.2 Covering Dimension
+    27.3 Inductive Dimension
+    27.4 Hausdorff Dimension
+    27.5 Fractal Dimension
+    27.6 Dimension of Manifolds
+    27.7 Dimension Theory of Metric Spaces
+    27.8 Dimension-Raising Theorems
+    27.9 Dimension-Lowering Theorems
+    27.10 Embedding Dimension
+
+28. FRACTAL GEOMETRY AND TOPOLOGY
+    28.1 Fractals
+    28.2 Self-Similarity
+    28.3 Iterated Function Systems
+    28.4 Hausdorff Measure
+    28.5 Hausdorff Dimension
+    28.6 Box-Counting Dimension
+    28.7 Fractal Topology
+    28.8 Strange Attractors
+    28.9 Dynamical Systems
+    28.10 Fractal Analysis
+
+29. APPLIED AND COMPUTATIONAL TOPOLOGY
+    29.1 Computational Topology
+    29.2 Topological Data Analysis
+    29.3 Persistent Homology
+    29.4 Mapper Algorithm
+    29.5 Simplicial Complexes
+    29.6 Vietoris–Rips Complexes
+    29.7 Čech Complexes
+    29.8 Alpha Complexes
+    29.9 Computational Homology
+    29.10 Topological Feature Extraction
+    29.11 Topological Visualization
+    29.12 Topological Optimization
+
+30. TOPOLOGY IN MACHINE LEARNING
+    30.1 Topological Data Analysis
+    30.2 Persistent Homology
+    30.3 Topological Features
+    30.4 Topological Neural Networks
+    30.5 Graph Topology
+    30.6 Manifold Learning
+    30.7 Topological Representation Learning
+    30.8 Topological Regularization
+    30.9 Shape Analysis
+    30.10 Geometric Deep Learning
+    30.11 Topological Autoencoders
+    30.12 Topological Clustering
+
+31. TOPOLOGY IN ROBOTICS
+    31.1 Configuration Spaces
+    31.2 Configuration-Space Obstacles
+    31.3 Path Planning
+    31.4 Motion Planning
+    31.5 Homotopy Classes of Paths
+    31.6 Collision-Free Planning
+    31.7 Topological Roadmaps
+    31.8 Robot Workspace Topology
+    31.9 Sensor-Based Navigation
+    31.10 Topological Mapping
+    31.11 SLAM
+    31.12 Multi-Robot Coordination
+
+32. TOPOLOGY IN PHYSICS
+    32.1 Topological Physics
+    32.2 Topological Quantum Field Theory
+    32.3 Topological Insulators
+    32.4 Topological Phases of Matter
+    32.5 Gauge Theory
+    32.6 Fiber Bundles
+    32.7 Homotopy Groups
+    32.8 Quantum Topology
+    32.9 String Theory
+    32.10 General Relativity
+    32.11 Topological Defects
+    32.12 Knot-Based Physics
+
+33. ADVANCED TOPOLOGY
+    33.1 Fiber Bundles
+    33.2 Vector Bundles
+    33.3 Principal Bundles
+    33.4 Characteristic Classes
+    33.5 Spectral Sequences
+    33.6 Sheaf Theory
+    33.7 Derived Topology
+    33.8 Stable Homotopy Theory
+    33.9 Higher Topos Theory
+    33.10 Noncommutative Topology
+    33.11 Topological K-Theory
+    33.12 Motivic Homotopy Theory
+
+34. TOPOLOGY SOFTWARE AND TOOLS
+    34.1 Python
+    34.2 NumPy
+    34.3 SciPy
+    34.4 NetworkX
+    34.5 GUDHI
+    34.6 Ripser
+    34.7 Dionysus
+    34.8 SageMath
+    34.9 Mathematica
+    34.10 MATLAB
+    34.11 Homology Computation
+    34.12 Visualization Tools
+
+35. APPLICATIONS
+    35.1 Computer Science
+    35.2 Artificial Intelligence
+    35.3 Machine Learning
+    35.4 Robotics
+    35.5 Computer Vision
+    35.6 Data Science
+    35.7 Medical Imaging
+    35.8 Network Science
+    35.9 Physics
+    35.10 Biology
+    35.11 Engineering
+    35.12 Geographic Information Systems
