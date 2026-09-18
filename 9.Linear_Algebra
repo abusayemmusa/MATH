@@ -1,1 +1,206 @@
+LINEAR ALGEBRA
 
+1. Basic Concepts
+   - Scalars and Vectors
+   - Vector Notation
+   - Row and Column Vectors
+   - Vector Addition and Subtraction
+   - Scalar Multiplication
+   - Linear Combinations
+   - Linear Equations
+
+2. Matrices
+   - Definition of Matrix
+   - Order of a Matrix
+   - Types of Matrices
+   - Row and Column Matrix
+   - Square Matrix
+   - Zero Matrix
+   - Identity Matrix
+   - Diagonal Matrix
+   - Scalar Matrix
+   - Triangular Matrix
+   - Symmetric Matrix
+   - Skew-Symmetric Matrix
+
+3. Matrix Operations
+   - Matrix Addition
+   - Matrix Subtraction
+   - Matrix Multiplication
+   - Scalar Multiplication
+   - Transpose
+   - Trace of a Matrix
+   - Properties of Matrix Operations
+   - Block Matrices
+
+4. Determinants
+   - Determinant of 2×2 Matrix
+   - Determinant of 3×3 Matrix
+   - Properties of Determinants
+   - Minors and Cofactors
+   - Expansion of Determinants
+   - Area and Volume Applications
+   - Determinant of Product
+
+5. Inverse of Matrices
+   - Singular and Non-Singular Matrices
+   - Adjoint Method
+   - Elementary Row Operations
+   - Gauss-Jordan Method
+   - Inverse Matrix Properties
+   - Applications of Matrix Inverse
+
+6. System of Linear Equations
+   - Homogeneous Equations
+   - Non-Homogeneous Equations
+   - Gaussian Elimination
+   - Gauss-Jordan Elimination
+   - Cramer's Rule
+   - Rank Method
+   - Consistency of Equations
+   - Solution Sets
+
+7. Rank of a Matrix
+   - Row Rank
+   - Column Rank
+   - Rank by Echelon Form
+   - Rank by Minors
+   - Full Rank
+   - Rank of Product
+   - Applications of Rank
+
+8. Vector Spaces
+   - Definition of Vector Space
+   - Subspaces
+   - Vector Space Axioms
+   - Linear Combinations
+   - Span
+   - Linear Independence
+   - Linear Dependence
+   - Basis
+   - Dimension
+   - Coordinates Relative to a Basis
+
+9. Linear Transformations
+   - Definition of Linear Transformation
+   - Domain and Codomain
+   - Kernel (Null Space)
+   - Image (Range)
+   - Matrix Representation
+   - Composition of Transformations
+   - Invertible Transformations
+   - Rank-Nullity Theorem
+
+10. Eigenvalues and Eigenvectors
+    - Characteristic Equation
+    - Eigenvalues
+    - Eigenvectors
+    - Eigenspaces
+    - Algebraic Multiplicity
+    - Geometric Multiplicity
+    - Diagonalization
+    - Applications of Eigenvalues
+
+11. Inner Product Spaces
+    - Inner Product
+    - Dot Product
+    - Norm and Length
+    - Distance
+    - Orthogonality
+    - Orthogonal Vectors
+    - Orthonormal Basis
+    - Cauchy-Schwarz Inequality
+    - Triangle Inequality
+
+12. Orthogonality
+    - Orthogonal Projection
+    - Gram-Schmidt Process
+    - Orthogonal Complement
+    - Orthogonal Matrices
+    - Least Squares Approximation
+    - QR Decomposition
+
+13. Matrix Decompositions
+    - LU Decomposition
+    - QR Decomposition
+    - Eigenvalue Decomposition
+    - Singular Value Decomposition (SVD)
+    - Cholesky Decomposition
+    - Schur Decomposition
+    - Polar Decomposition
+
+14. Quadratic Forms
+    - Quadratic Expressions
+    - Quadratic Forms
+    - Matrix Representation
+    - Positive Definite Matrices
+    - Positive Semidefinite Matrices
+    - Sylvester's Criterion
+    - Diagonalization of Quadratic Forms
+
+15. Numerical Linear Algebra
+    - Numerical Matrix Operations
+    - Iterative Methods
+    - Jacobi Method
+    - Gauss-Seidel Method
+    - Power Method
+    - Numerical Eigenvalues
+    - Condition Number
+    - Error and Stability
+    - Sparse Matrices
+
+16. Multilinear Algebra
+    - Multilinear Maps
+    - Tensor Products
+    - Tensor Algebra
+    - Exterior Algebra
+    - Wedge Product
+    - Alternating Forms
+    - Determinants as Multilinear Maps
+
+17. Advanced Linear Algebra
+    - Canonical Forms
+    - Jordan Normal Form
+    - Minimal Polynomial
+    - Cayley-Hamilton Theorem
+    - Rational Canonical Form
+    - Bilinear Forms
+    - Sesquilinear Forms
+    - Dual Vector Spaces
+    - Linear Operators
+
+18. Linear Algebra for Machine Learning
+    - Feature Vectors
+    - Data Matrices
+    - Vectorization
+    - Matrix Calculus Basics
+    - Covariance Matrices
+    - Eigenvalue-Based Methods
+    - Principal Component Analysis (PCA)
+    - Singular Value Decomposition
+    - Linear Regression
+    - Least Squares
+    - Gradient-Based Optimization
+
+19. Linear Algebra for Deep Learning
+    - Tensors
+    - Tensor Operations
+    - Matrix Multiplication
+    - Weight Matrices
+    - Activation Vectors
+    - Backpropagation Mathematics
+    - Jacobian Matrices
+    - Hessian Matrices
+    - Attention Matrix Operations
+    - Embedding Vectors
+
+20. Applications
+    - Computer Graphics
+    - 2D and 3D Transformations
+    - Robotics
+    - Computer Vision
+    - Signal Processing
+    - Quantum Computing
+    - Data Science
+    - Machine Learning
+    - Engineering and Physics
