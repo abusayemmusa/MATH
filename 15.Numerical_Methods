@@ -1,1 +1,396 @@
+NUMERICAL METHODS
+=================
 
+1. INTRODUCTION TO NUMERICAL METHODS
+   1.1 Definition of Numerical Methods
+   1.2 Exact Solutions vs Numerical Solutions
+   1.3 Numerical Errors
+   1.4 Approximation and Accuracy
+   1.5 Stability and Convergence
+   1.6 Efficiency and Computational Cost
+   1.7 Algorithm Design
+   1.8 Floating-Point Arithmetic
+
+2. ERRORS IN NUMERICAL COMPUTATION
+   2.1 Absolute Error
+   2.2 Relative Error
+   2.3 Percentage Error
+   2.4 Round-Off Error
+   2.5 Truncation Error
+   2.6 Inherent Error
+   2.7 Propagation of Error
+   2.8 Cancellation Error
+   2.9 Overflow and Underflow
+   2.10 Significant Figures
+
+3. SOLUTION OF NONLINEAR EQUATIONS
+   3.1 Algebraic and Transcendental Equations
+   3.2 Bracketing Methods
+   3.3 Bisection Method
+   3.4 False Position Method
+   3.5 Fixed-Point Iteration
+   3.6 Newton-Raphson Method
+   3.7 Secant Method
+   3.8 Modified Newton Method
+   3.9 Muller's Method
+   3.10 Convergence of Root-Finding Methods
+   3.11 Stopping Criteria
+   3.12 Multiple Roots
+
+4. SOLUTION OF LINEAR SYSTEMS
+   4.1 Linear Equations and Matrices
+   4.2 Gaussian Elimination
+   4.3 Gauss-Jordan Elimination
+   4.4 Partial Pivoting
+   4.5 Complete Pivoting
+   4.6 LU Decomposition
+   4.7 Doolittle Method
+   4.8 Crout Method
+   4.9 Cholesky Decomposition
+   4.10 Thomas Algorithm
+   4.11 Jacobi Iterative Method
+   4.12 Gauss-Seidel Method
+   4.13 Successive Over-Relaxation (SOR)
+   4.14 Convergence of Iterative Methods
+   4.15 Condition Number
+
+5. MATRIX METHODS
+   5.1 Matrix Operations
+   5.2 Matrix Inverse
+   5.3 Determinants
+   5.4 Rank of a Matrix
+   5.5 Eigenvalues and Eigenvectors
+   5.6 Power Method
+   5.7 Inverse Power Method
+   5.8 QR Algorithm
+   5.9 Singular Value Decomposition (SVD)
+   5.10 Numerical Matrix Factorization
+
+6. INTERPOLATION
+   6.1 Interpolation Concepts
+   6.2 Extrapolation
+   6.3 Polynomial Interpolation
+   6.4 Lagrange Interpolation
+   6.5 Newton Forward Interpolation
+   6.6 Newton Backward Interpolation
+   6.7 Newton Divided Difference
+   6.8 Hermite Interpolation
+   6.9 Piecewise Interpolation
+   6.10 Spline Interpolation
+   6.11 Linear Interpolation
+   6.12 Quadratic Interpolation
+   6.13 Cubic Spline Interpolation
+
+7. CURVE FITTING AND REGRESSION
+   7.1 Curve Fitting
+   7.2 Least Squares Method
+   7.3 Linear Regression
+   7.4 Polynomial Regression
+   7.5 Exponential Curve Fitting
+   7.6 Power Curve Fitting
+   7.7 Logarithmic Curve Fitting
+   7.8 Multiple Linear Regression
+   7.9 Nonlinear Least Squares
+   7.10 Regression Error Analysis
+
+8. NUMERICAL DIFFERENTIATION
+   8.1 Finite Difference Methods
+   8.2 Forward Difference
+   8.3 Backward Difference
+   8.4 Central Difference
+   8.5 First Derivative Approximation
+   8.6 Second Derivative Approximation
+   8.7 Higher-Order Derivatives
+   8.8 Richardson Extrapolation
+   8.9 Differentiation of Interpolation Polynomials
+   8.10 Numerical Differentiation Errors
+
+9. NUMERICAL INTEGRATION
+   9.1 Numerical Quadrature
+   9.2 Midpoint Rule
+   9.3 Trapezoidal Rule
+   9.4 Simpson's 1/3 Rule
+   9.5 Simpson's 3/8 Rule
+   9.6 Composite Trapezoidal Rule
+   9.7 Composite Simpson's Rule
+   9.8 Romberg Integration
+   9.9 Gaussian Quadrature
+   9.10 Gauss-Legendre Quadrature
+   9.11 Adaptive Quadrature
+   9.12 Double Integration
+   9.13 Triple Integration
+   9.14 Improper Integral Approximation
+
+10. NUMERICAL SOLUTION OF ODEs
+    10.1 Ordinary Differential Equations
+    10.2 Initial Value Problems
+    10.3 Euler's Method
+    10.4 Modified Euler Method
+    10.5 Heun's Method
+    10.6 Runge-Kutta Methods
+    10.7 Second-Order Runge-Kutta
+    10.8 Fourth-Order Runge-Kutta
+    10.9 Taylor Series Method
+    10.10 Adams-Bashforth Method
+    10.11 Adams-Moulton Method
+    10.12 Predictor-Corrector Methods
+    10.13 Multistep Methods
+    10.14 Stability of ODE Solvers
+    10.15 Stiff Differential Equations
+
+11. NUMERICAL SOLUTION OF PDEs
+    11.1 Partial Differential Equations
+    11.2 Elliptic Equations
+    11.3 Parabolic Equations
+    11.4 Hyperbolic Equations
+    11.5 Finite Difference Methods
+    11.6 Finite Element Method
+    11.7 Finite Volume Method
+    11.8 Explicit Methods
+    11.9 Implicit Methods
+    11.10 Crank-Nicolson Method
+    11.11 Heat Equation
+    11.12 Wave Equation
+    11.13 Laplace Equation
+    11.14 Poisson Equation
+    11.15 Boundary Conditions
+
+12. BOUNDARY VALUE PROBLEMS
+    12.1 Boundary Value Problems
+    12.2 Shooting Method
+    12.3 Finite Difference BVP
+    12.4 Collocation Methods
+    12.5 Eigenvalue Problems
+    12.6 Sturm-Liouville Problems
+    12.7 Two-Point Boundary Problems
+
+13. OPTIMIZATION METHODS
+    13.1 Numerical Optimization
+    13.2 Unconstrained Optimization
+    13.3 Constrained Optimization
+    13.4 One-Dimensional Optimization
+    13.5 Golden Section Search
+    13.6 Fibonacci Search
+    13.7 Newton Optimization
+    13.8 Gradient Descent
+    13.9 Steepest Descent
+    13.10 Conjugate Gradient Method
+    13.11 Quasi-Newton Methods
+    13.12 Nelder-Mead Method
+    13.13 Lagrange Multipliers
+    13.14 Linear Programming
+    13.15 Quadratic Programming
+
+14. EIGENVALUE PROBLEMS
+    14.1 Eigenvalue Computation
+    14.2 Power Iteration
+    14.3 Inverse Iteration
+    14.4 Rayleigh Quotient Iteration
+    14.5 QR Decomposition
+    14.6 Symmetric Eigenvalue Problems
+    14.7 Generalized Eigenvalue Problems
+    14.8 Numerical Stability of Eigenvalue Methods
+
+15. FOURIER AND TRANSFORM METHODS
+    15.1 Fourier Series
+    15.2 Discrete Fourier Transform (DFT)
+    15.3 Fast Fourier Transform (FFT)
+    15.4 Inverse FFT
+    15.5 Discrete Cosine Transform
+    15.6 Laplace Transform Methods
+    15.7 Spectral Methods
+    15.8 Signal Processing Applications
+
+16. MONTE CARLO AND RANDOMIZED METHODS
+    16.1 Random Number Generation
+    16.2 Monte Carlo Simulation
+    16.3 Monte Carlo Integration
+    16.4 Importance Sampling
+    16.5 Rejection Sampling
+    16.6 Markov Chain Monte Carlo
+    16.7 Bootstrap Methods
+    16.8 Randomized Numerical Algorithms
+
+17. FINITE DIFFERENCE METHODS
+    17.1 Difference Operators
+    17.2 Forward Difference Operator
+    17.3 Backward Difference Operator
+    17.4 Central Difference Operator
+    17.5 Finite Difference Tables
+    17.6 Finite Difference Equations
+    17.7 Finite Difference for ODEs
+    17.8 Finite Difference for PDEs
+    17.9 Stability and Consistency
+    17.10 Convergence Analysis
+
+18. FINITE ELEMENT METHODS
+    18.1 Finite Element Concepts
+    18.2 Weak Formulation
+    18.3 Galerkin Method
+    18.4 Basis Functions
+    18.5 Shape Functions
+    18.6 Element Stiffness Matrix
+    18.7 Assembly of Global Matrix
+    18.8 Boundary Conditions
+    18.9 Finite Element Mesh
+    18.10 Adaptive Mesh Refinement
+
+19. NUMERICAL LINEAR ALGEBRA
+    19.1 Direct Methods
+    19.2 Iterative Methods
+    19.3 Sparse Matrices
+    19.4 Sparse Matrix Storage
+    19.5 Preconditioning
+    19.6 Krylov Subspace Methods
+    19.7 Conjugate Gradient
+    19.8 GMRES
+    19.9 Numerical Rank
+    19.10 Matrix Conditioning
+
+20. NUMERICAL COMPLEX ANALYSIS
+    20.1 Complex Arithmetic
+    20.2 Complex Root Finding
+    20.3 Complex Integration
+    20.4 Numerical Residues
+    20.5 Complex Function Approximation
+    20.6 Numerical Conformal Mapping
+    20.7 Complex Eigenvalue Problems
+
+21. NUMERICAL METHODS FOR MACHINE LEARNING
+    21.1 Numerical Optimization
+    21.2 Gradient Descent
+    21.3 Stochastic Gradient Descent
+    21.4 Mini-Batch Gradient Descent
+    21.5 Momentum Optimization
+    21.6 Adam Optimizer
+    21.7 Newton and Quasi-Newton Methods
+    21.8 Automatic Differentiation
+    21.9 Numerical Stability in Neural Networks
+    21.10 Matrix Computations
+    21.11 Numerical Approximation
+    21.12 Loss Function Optimization
+
+22. NUMERICAL METHODS FOR AI AND DEEP LEARNING
+    22.1 Backpropagation
+    22.2 Gradient Computation
+    22.3 Hessian Approximation
+    22.4 Numerical Precision
+    22.5 Mixed-Precision Training
+    22.6 Quantization
+    22.7 Numerical Stability
+    22.8 Optimization Algorithms
+    22.9 Large-Scale Matrix Operations
+    22.10 Distributed Numerical Computing
+
+23. HIGH-PERFORMANCE NUMERICAL COMPUTING
+    23.1 Scientific Computing
+    23.2 Parallel Numerical Algorithms
+    23.3 GPU Computing
+    23.4 CUDA
+    23.5 Vectorization
+    23.6 Parallel Matrix Operations
+    23.7 Distributed Computing
+    23.8 HPC Libraries
+    23.9 Performance Optimization
+    23.10 Numerical Software Design
+
+24. NUMERICAL METHODS FOR ENGINEERING
+    24.1 Structural Analysis
+    24.2 Fluid Dynamics
+    24.3 Heat Transfer
+    24.4 Electromagnetics
+    24.5 Circuit Simulation
+    24.6 Control Systems
+    24.7 Robotics
+    24.8 Mechanical Systems
+    24.9 Aerospace Engineering
+    24.10 Biomedical Engineering
+
+25. NUMERICAL METHODS FOR DATA SCIENCE
+    25.1 Numerical Data Processing
+    25.2 Matrix Computation
+    25.3 Data Interpolation
+    25.4 Regression
+    25.5 Numerical Optimization
+    25.6 Dimensionality Reduction
+    25.7 Principal Component Analysis
+    25.8 Statistical Computation
+    25.9 Numerical Simulation
+    25.10 Data Approximation
+
+26. NUMERICAL SOFTWARE AND TOOLS
+    26.1 Python Numerical Computing
+    26.2 NumPy
+    26.3 SciPy
+    26.4 SymPy
+    26.5 MATLAB
+    26.6 GNU Octave
+    26.7 R
+    26.8 Julia
+    26.9 Mathematica
+    26.10 C++ Numerical Libraries
+    26.11 BLAS and LAPACK
+    26.12 Eigen Library
+
+27. ERROR, STABILITY, AND CONVERGENCE ANALYSIS
+    27.1 Consistency
+    27.2 Stability
+    27.3 Convergence
+    27.4 Local Truncation Error
+    27.5 Global Truncation Error
+    27.6 Absolute Stability
+    27.7 Relative Stability
+    27.8 Condition Number
+    27.9 Backward Error Analysis
+    27.10 Forward Error Analysis
+
+28. ADVANCED NUMERICAL METHODS
+    28.1 Spectral Methods
+    28.2 Pseudospectral Methods
+    28.3 Boundary Element Method
+    28.4 Meshless Methods
+    28.5 Wavelet Methods
+    28.6 Multigrid Methods
+    28.7 Discontinuous Galerkin Methods
+    28.8 Adaptive Numerical Methods
+    28.9 Reduced-Order Modeling
+    28.10 Physics-Informed Neural Networks (PINNs)
+
+29. NUMERICAL METHODS FOR ROBOTICS
+    29.1 Numerical Kinematics
+    29.2 Forward Kinematics
+    29.3 Inverse Kinematics
+    29.4 Jacobian Computation
+    29.5 Numerical Optimization
+    29.6 Trajectory Generation
+    29.7 Numerical Control
+    29.8 State Estimation
+    29.9 Kalman Filter
+    29.10 Extended Kalman Filter
+    29.11 Numerical Simulation
+
+30. NUMERICAL METHODS FOR PHYSICS
+    30.1 Computational Physics
+    30.2 Numerical Mechanics
+    30.3 Numerical Electromagnetics
+    30.4 Quantum Numerical Methods
+    30.5 Molecular Dynamics
+    30.6 N-Body Simulation
+    30.7 Computational Fluid Dynamics
+    30.8 Numerical Relativity
+    30.9 Statistical Physics Simulation
+    30.10 Quantum Monte Carlo
+
+31. NUMERICAL METHODS FOR COMPETITIVE PROGRAMMING
+    31.1 Numerical Approximation
+    31.2 Binary Search on Answer
+    31.3 Floating-Point Precision
+    31.4 Modular Arithmetic
+    31.5 Matrix Exponentiation
+    31.6 Gaussian Elimination
+    31.7 Numerical Integration
+    31.8 Polynomial Interpolation
+    31.9 Fast Fourier Transform
+    31.10 Computational Geometry
+    31.11 Numerical Optimization
+    31.12 Randomized Algorithms
