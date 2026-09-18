@@ -1,1 +1,427 @@
+OPERATIONS RESEARCH
+(Expanded Classification According to Me)
 
+1. INTRODUCTION TO OPERATIONS RESEARCH
+   1.1 Definition of Operations Research
+   1.2 History and Development
+   1.3 Objectives of Operations Research
+   1.4 Characteristics of OR
+   1.5 Scope of OR
+   1.6 Applications of OR
+   1.7 OR Methodology
+   1.8 Advantages and Limitations
+   1.9 Decision-Making Process
+   1.10 System Approach
+
+2. MATHEMATICAL MODELING
+   2.1 Model Definition
+   2.2 Types of Models
+   2.3 Deterministic Models
+   2.4 Probabilistic Models
+   2.5 Simulation Models
+   2.6 Formulation of Mathematical Models
+   2.7 Assumptions and Constraints
+   2.8 Model Validation
+   2.9 Sensitivity Analysis
+
+3. LINEAR PROGRAMMING (LP)
+   3.1 Introduction to Linear Programming
+   3.2 Components of LP
+   3.3 Decision Variables
+   3.4 Objective Function
+   3.5 Constraints
+   3.6 Non-Negativity Restrictions
+   3.7 Standard Form
+   3.8 Canonical Form
+   3.9 Maximization Problems
+   3.10 Minimization Problems
+   3.11 Product Mix Problems
+   3.12 Resource Allocation Problems
+   3.13 Diet Problems
+   3.14 Blending Problems
+   3.15 Production Planning
+
+4. GRAPHICAL METHOD
+   4.1 Graphical Representation
+   4.2 Feasible Region
+   4.3 Corner Point Method
+   4.4 Optimal Solution
+   4.5 Multiple Optimal Solutions
+   4.6 Unbounded Solution
+   4.7 Infeasible Solution
+   4.8 Redundant Constraints
+   4.9 Iso-Profit Method
+   4.10 Iso-Cost Method
+
+5. SIMPLEX METHOD
+   5.1 Introduction to Simplex Method
+   5.2 Slack Variables
+   5.3 Surplus Variables
+   5.4 Artificial Variables
+   5.5 Simplex Tableau
+   5.6 Basic and Non-Basic Variables
+   5.7 Basic Feasible Solution
+   5.8 Pivot Element
+   5.9 Entering Variable
+   5.10 Leaving Variable
+   5.11 Optimality Test
+   5.12 Big-M Method
+   5.13 Two-Phase Method
+   5.14 Simplex Method for Minimization
+   5.15 Simplex Method with Mixed Constraints
+
+6. DUALITY IN LINEAR PROGRAMMING
+   6.1 Primal Problem
+   6.2 Dual Problem
+   6.3 Formulation of Dual
+   6.4 Weak Duality Theorem
+   6.5 Strong Duality Theorem
+   6.6 Complementary Slackness
+   6.7 Economic Interpretation of Duality
+   6.8 Shadow Price
+   6.9 Dual Simplex Method
+
+7. SENSITIVITY ANALYSIS
+   7.1 Meaning of Sensitivity Analysis
+   7.2 Objective Coefficient Changes
+   7.3 Right-Hand-Side Changes
+   7.4 Constraint Changes
+   7.5 Shadow Prices
+   7.6 Reduced Costs
+   7.7 Allowable Increase
+   7.8 Allowable Decrease
+   7.9 Post-Optimality Analysis
+
+8. TRANSPORTATION PROBLEM
+   8.1 Introduction
+   8.2 Balanced Transportation Problem
+   8.3 Unbalanced Transportation Problem
+   8.4 Transportation Table
+   8.5 Initial Basic Feasible Solution
+   8.6 Northwest Corner Method
+   8.7 Least Cost Method
+   8.8 Vogel's Approximation Method (VAM)
+   8.9 MODI Method
+   8.10 Stepping Stone Method
+   8.11 Optimality Test
+   8.12 Degeneracy
+   8.13 Prohibited Routes
+   8.14 Maximization Transportation Problem
+   8.15 Transshipment Problem
+
+9. ASSIGNMENT PROBLEM
+   9.1 Introduction
+   9.2 Assignment Matrix
+   9.3 Balanced Assignment Problem
+   9.4 Unbalanced Assignment Problem
+   9.5 Hungarian Method
+   9.6 Minimization Assignment
+   9.7 Maximization Assignment
+   9.8 Prohibited Assignment
+   9.9 Multiple Optimal Assignments
+   9.10 Travelling Salesman Problem Connection
+
+10. INTEGER PROGRAMMING
+    10.1 Introduction
+    10.2 Pure Integer Programming
+    10.3 Mixed Integer Programming
+    10.4 Binary Integer Programming
+    10.5 0–1 Programming
+    10.6 Branch and Bound Method
+    10.7 Cutting Plane Method
+    10.8 Knapsack Problem
+    10.9 Capital Budgeting
+    10.10 Set Covering Problem
+
+11. GOAL PROGRAMMING
+    11.1 Introduction
+    11.2 Multiple Objectives
+    11.3 Goal Constraints
+    11.4 Deviation Variables
+    11.5 Preemptive Goal Programming
+    11.6 Weighted Goal Programming
+    11.7 Lexicographic Goal Programming
+
+12. NETWORK ANALYSIS
+    12.1 Graphs and Networks
+    12.2 Nodes and Arcs
+    12.3 Network Representation
+    12.4 Shortest Path Problem
+    12.5 Minimum Spanning Tree
+    12.6 Maximum Flow Problem
+    12.7 Minimum Cost Flow
+    12.8 Network Simplex Method
+    12.9 Dijkstra's Algorithm
+    12.10 Bellman-Ford Algorithm
+    12.11 Floyd-Warshall Algorithm
+    12.12 Kruskal's Algorithm
+    12.13 Prim's Algorithm
+    12.14 Ford-Fulkerson Algorithm
+
+13. PROJECT MANAGEMENT
+    13.1 Project Scheduling
+    13.2 Activity and Event
+    13.3 Network Diagram
+    13.4 Critical Path Method (CPM)
+    13.5 Program Evaluation and Review Technique (PERT)
+    13.6 Forward Pass
+    13.7 Backward Pass
+    13.8 Earliest Start Time
+    13.9 Latest Start Time
+    13.10 Float and Slack
+    13.11 Critical Path
+    13.12 Crashing
+    13.13 Time-Cost Trade-Off
+    13.14 PERT Probability Analysis
+
+14. INVENTORY MANAGEMENT
+    14.1 Introduction to Inventory
+    14.2 Inventory Costs
+    14.3 Ordering Cost
+    14.4 Holding Cost
+    14.5 Shortage Cost
+    14.6 Economic Order Quantity (EOQ)
+    14.7 EOQ with Quantity Discounts
+    14.8 EOQ with Shortages
+    14.9 Production Inventory Model
+    14.10 Reorder Point
+    14.11 Safety Stock
+    14.12 ABC Analysis
+    14.13 Probabilistic Inventory Models
+    14.14 Single-Period Inventory Model
+
+15. QUEUING THEORY
+    15.1 Introduction to Queuing Systems
+    15.2 Queue Characteristics
+    15.3 Arrival Process
+    15.4 Service Process
+    15.5 Queue Discipline
+    15.6 Kendall's Notation
+    15.7 Birth-Death Process
+    15.8 M/M/1 Model
+    15.9 M/M/C Model
+    15.10 M/M/1/K Model
+    15.11 Finite Population Model
+    15.12 Waiting Time
+    15.13 Average Queue Length
+    15.14 Server Utilization
+    15.15 Cost Analysis of Queuing Systems
+
+16. GAME THEORY
+    16.1 Introduction
+    16.2 Two-Person Zero-Sum Games
+    16.3 Payoff Matrix
+    16.4 Pure Strategy
+    16.5 Mixed Strategy
+    16.6 Saddle Point
+    16.7 Maximin and Minimax
+    16.8 Dominance Principle
+    16.9 Graphical Solution
+    16.10 Linear Programming Approach
+    16.11 Non-Zero-Sum Games
+    16.12 Nash Equilibrium
+
+17. DECISION THEORY
+    17.1 Decision-Making Under Certainty
+    17.2 Decision-Making Under Risk
+    17.3 Decision-Making Under Uncertainty
+    17.4 Payoff Table
+    17.5 Opportunity Loss
+    17.6 Maximax Criterion
+    17.7 Maximin Criterion
+    17.8 Minimax Regret Criterion
+    17.9 Laplace Criterion
+    17.10 Hurwicz Criterion
+    17.11 Expected Monetary Value (EMV)
+    17.12 Expected Opportunity Loss (EOL)
+    17.13 Value of Perfect Information
+
+18. MARKOV ANALYSIS
+    18.1 Introduction to Markov Chains
+    18.2 States and Transitions
+    18.3 Transition Probability Matrix
+    18.4 State Probability Vector
+    18.5 n-Step Transition Probability
+    18.6 Steady-State Probability
+    18.7 Absorbing Markov Chains
+    18.8 Applications of Markov Analysis
+
+19. DYNAMIC PROGRAMMING
+    19.1 Introduction
+    19.2 Principle of Optimality
+    19.3 Stages and States
+    19.4 Recursive Relationships
+    19.5 Forward Recursion
+    19.6 Backward Recursion
+    19.7 Resource Allocation
+    19.8 Knapsack Problems
+    19.9 Shortest Path Problems
+    19.10 Equipment Replacement
+    19.11 Production Planning
+
+20. REPLACEMENT THEORY
+    20.1 Introduction
+    20.2 Individual Replacement
+    20.3 Group Replacement
+    20.4 Replacement with Gradual Failure
+    20.5 Replacement with Sudden Failure
+    20.6 Maintenance Cost
+    20.7 Optimal Replacement Time
+    20.8 Equipment Replacement Models
+
+21. SIMULATION
+    21.1 Introduction to Simulation
+    21.2 Monte Carlo Simulation
+    21.3 Discrete-Event Simulation
+    21.4 Continuous Simulation
+    21.5 System Simulation
+    21.6 Random Number Generation
+    21.7 Random Number Tests
+    21.8 Probability Distribution Simulation
+    21.9 Simulation Steps
+    21.10 Simulation Validation
+    21.11 Simulation Applications
+
+22. NON-LINEAR PROGRAMMING
+    22.1 Introduction
+    22.2 Convex Programming
+    22.3 Concave Programming
+    22.4 Unconstrained Optimization
+    22.5 Constrained Optimization
+    22.6 Lagrange Multipliers
+    22.7 Karush-Kuhn-Tucker Conditions
+    22.8 Gradient-Based Methods
+    22.9 Gradient Descent
+    22.10 Newton's Method
+    22.11 Quadratic Programming
+
+23. MULTI-OBJECTIVE OPTIMIZATION
+    23.1 Multiple Objective Functions
+    23.2 Pareto Optimality
+    23.3 Pareto Frontier
+    23.4 Weighted Sum Method
+    23.5 Constraint Method
+    23.6 Goal-Based Optimization
+    23.7 Trade-Off Analysis
+
+24. STOCHASTIC PROCESSES
+    24.1 Random Processes
+    24.2 Markov Processes
+    24.3 Poisson Processes
+    24.4 Renewal Processes
+    24.5 Birth-Death Processes
+    24.6 Brownian Motion
+    24.7 Stochastic Modeling
+
+25. RELIABILITY THEORY
+    25.1 System Reliability
+    25.2 Component Reliability
+    25.3 Series Systems
+    25.4 Parallel Systems
+    25.5 Standby Systems
+    25.6 Failure Rate
+    25.7 Reliability Function
+    25.8 Availability Analysis
+    25.9 Fault Tree Analysis
+    25.10 Preventive Maintenance
+
+26. PRODUCTION AND MANUFACTURING SYSTEMS
+    26.1 Production Planning
+    26.2 Production Scheduling
+    26.3 Workforce Planning
+    26.4 Facility Location
+    26.5 Capacity Planning
+    26.6 Job Shop Scheduling
+    26.7 Flow Shop Scheduling
+    26.8 Machine Scheduling
+    26.9 Line Balancing
+    26.10 Supply Chain Optimization
+
+27. SCHEDULING THEORY
+    27.1 Single-Machine Scheduling
+    27.2 Parallel-Machine Scheduling
+    27.3 Job Shop Scheduling
+    27.4 Flow Shop Scheduling
+    27.5 Johnson's Rule
+    27.6 Priority Rules
+    27.7 Preemptive Scheduling
+    27.8 Non-Preemptive Scheduling
+    27.9 Makespan Minimization
+    27.10 Resource-Constrained Scheduling
+
+28. SUPPLY CHAIN AND LOGISTICS
+    28.1 Supply Chain Network Design
+    28.2 Facility Location
+    28.3 Warehouse Optimization
+    28.4 Vehicle Routing Problem
+    28.5 Travelling Salesman Problem
+    28.6 Distribution Planning
+    28.7 Demand Forecasting
+    28.8 Logistics Cost Optimization
+    28.9 Last-Mile Delivery
+
+29. FORECASTING
+    29.1 Time Series Analysis
+    29.2 Moving Average
+    29.3 Weighted Moving Average
+    29.4 Exponential Smoothing
+    29.5 Trend Analysis
+    29.6 Regression Forecasting
+    29.7 Seasonal Forecasting
+    29.8 Forecast Accuracy
+    29.9 ARIMA Models
+
+30. DATA ANALYTICS AND COMPUTATIONAL OR
+    30.1 Data Collection
+    30.2 Data Cleaning
+    30.3 Statistical Analysis
+    30.4 Optimization Software
+    30.5 Solver Algorithms
+    30.6 Python for Operations Research
+    30.7 NumPy and Pandas
+    30.8 SciPy Optimization
+    30.9 PuLP
+    30.10 OR-Tools
+    30.11 Pyomo
+    30.12 Gurobi
+    30.13 CPLEX
+    30.14 MATLAB
+    30.15 R Programming
+
+31. METAHEURISTIC OPTIMIZATION
+    31.1 Introduction to Metaheuristics
+    31.2 Genetic Algorithm
+    31.3 Simulated Annealing
+    31.4 Tabu Search
+    31.5 Ant Colony Optimization
+    31.6 Particle Swarm Optimization
+    31.7 Differential Evolution
+    31.8 Artificial Bee Colony
+    31.9 Harmony Search
+    31.10 Hybrid Optimization
+
+32. ARTIFICIAL INTELLIGENCE AND OR
+    32.1 AI-Based Optimization
+    32.2 Machine Learning for Optimization
+    32.3 Reinforcement Learning
+    32.4 Deep Reinforcement Learning
+    32.5 Neural Combinatorial Optimization
+    32.6 Intelligent Scheduling
+    32.7 Predictive Optimization
+    32.8 Explainable Optimization
+
+33. APPLICATIONS OF OPERATIONS RESEARCH
+    33.1 Healthcare Optimization
+    33.2 Transportation Planning
+    33.3 Banking and Finance
+    33.4 Telecommunication
+    33.5 Agriculture
+    33.6 Energy Systems
+    33.7 Education Planning
+    33.8 Military Applications
+    33.9 Disaster Management
+    33.10 Robotics
+    33.11 Cybersecurity
+    33.12 Artificial Intelligence
+    33.13 E-Commerce
+    33.14 Smart Cities
