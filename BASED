@@ -1,0 +1,814 @@
+MATHEMATICS — MASTER ROADMAP
+============================
+
+1. ALGEBRA
+----------
+- Basic Algebra
+- Algebraic Expressions
+- Exponents
+- Surds
+- Factorization
+- Equations
+- Inequalities
+- Polynomials
+- Sequences & Series
+- Logarithms
+- Exponential Functions
+- Complex Numbers
+- Matrices
+- Determinants
+- Vectors
+- Functions
+
+
+2. GEOMETRY
+-----------
+- Euclidean Geometry
+- Plane Geometry
+- Solid Geometry
+- Coordinate Geometry
+- Triangles
+- Quadrilaterals
+- Circles
+- Polygons
+- Conic Sections
+- Transformations
+- Geometric Proofs
+
+
+3. TRIGONOMETRY
+---------------
+- Angles
+- Radian & Degree
+- Trigonometric Ratios
+- Unit Circle
+- Identities
+- Trigonometric Equations
+- Inverse Trigonometry
+- Graphs
+- Heights & Distances
+- Compound Angles
+- Multiple Angles
+
+
+4. DIFFERENTIAL CALCULUS
+------------------------
+- Limits
+- Continuity
+- Derivatives
+- Differentiation Rules
+- Chain Rule
+- Implicit Differentiation
+- Logarithmic Differentiation
+- Higher Derivatives
+- Parametric Differentiation
+- Related Rates
+- Maxima & Minima
+- Curve Sketching
+- Taylor Series
+
+
+5. INTEGRAL CALCULUS
+--------------------
+- Indefinite Integration
+- Definite Integration
+- Fundamental Theorem of Calculus
+- Substitution
+- Integration by Parts
+- Partial Fractions
+- Trigonometric Integration
+- Improper Integrals
+- Area
+- Volume
+- Arc Length
+- Surface Area
+
+
+6. DIFFERENTIAL EQUATIONS
+------------------------
+- First-Order ODE
+- Separable Equations
+- Linear ODE
+- Exact Equations
+- Bernoulli Equations
+- Higher-Order ODE
+- Second-Order ODE
+- Systems of ODE
+- Laplace Transform
+- Fourier Methods
+- PDE Basics
+
+
+7. NUMBER THEORY
+----------------
+- Divisibility
+- Prime Numbers
+- GCD
+- LCM
+- Euclidean Algorithm
+- Modular Arithmetic
+- Congruences
+- Diophantine Equations
+- Fermat's Little Theorem
+- Euler's Theorem
+- Chinese Remainder Theorem
+- Cryptographic Number Theory
+
+
+8. SET THEORY
+-------------
+- Sets
+- Subsets
+- Power Sets
+- Union
+- Intersection
+- Difference
+- Complement
+- Cartesian Product
+- Relations
+- Functions
+- Cardinality
+
+
+9. LINEAR ALGEBRA
+-----------------
+- Vectors
+- Vector Spaces
+- Subspaces
+- Linear Combination
+- Span
+- Linear Independence
+- Basis
+- Dimension
+- Matrices
+- Determinants
+- Rank
+- Linear Transformations
+- Eigenvalues
+- Eigenvectors
+- Diagonalization
+- Inner Product
+- Orthogonality
+- Least Squares
+
+
+10. STATISTICS
+-------------
+- Data
+- Variables
+- Frequency Distribution
+- Mean
+- Median
+- Mode
+- Range
+- Variance
+- Standard Deviation
+- Percentiles
+- Quartiles
+- Correlation
+- Regression
+- Sampling
+- Statistical Inference
+
+
+11. PROBABILITY
+--------------
+- Sample Space
+- Events
+- Probability Rules
+- Conditional Probability
+- Independence
+- Bayes' Theorem
+- Random Variables
+- PMF
+- PDF
+- CDF
+- Expectation
+- Variance
+- Covariance
+- Probability Distributions
+- Law of Large Numbers
+- Central Limit Theorem
+
+
+12. DISCRETE MATHEMATICS
+------------------------
+- Logic
+- Propositions
+- Predicate Logic
+- Proof Techniques
+- Sets
+- Relations
+- Functions
+- Combinatorics
+- Graph Theory
+- Trees
+- Recurrence Relations
+- Boolean Algebra
+
+
+13. REAL ANALYSIS
+-----------------
+- Real Number System
+- Sequences
+- Series
+- Limits
+- Continuity
+- Differentiability
+- Riemann Integration
+- Metric Spaces
+- Convergence
+- Compactness
+- Connectedness
+- Function Sequences
+
+
+14. COMPLEX ANALYSIS
+--------------------
+- Complex Numbers
+- Complex Functions
+- Analytic Functions
+- Cauchy-Riemann Equations
+- Complex Integration
+- Cauchy's Theorem
+- Cauchy Integral Formula
+- Taylor Series
+- Laurent Series
+- Residues
+- Contour Integration
+- Conformal Mapping
+
+
+15. NUMERICAL METHODS
+--------------------
+- Numerical Errors
+- Root Finding
+- Bisection Method
+- Newton-Raphson
+- Secant Method
+- Interpolation
+- Numerical Differentiation
+- Numerical Integration
+- Numerical ODE
+- Linear Systems
+- Eigenvalue Methods
+
+
+16. GRAPH THEORY
+----------------
+- Graphs
+- Vertices
+- Edges
+- Paths
+- Cycles
+- Connectivity
+- Trees
+- Spanning Trees
+- Shortest Paths
+- Euler Graphs
+- Hamiltonian Graphs
+- Graph Coloring
+- Planar Graphs
+- Network Flow
+
+
+17. MATHEMATICAL LOGIC
+----------------------
+- Propositional Logic
+- Predicate Logic
+- Quantifiers
+- Logical Equivalence
+- Proofs
+- Inference
+- Boolean Logic
+- Model Theory Basics
+- Computability Basics
+
+
+18. ABSTRACT ALGEBRA
+-------------------
+- Groups
+- Subgroups
+- Cyclic Groups
+- Permutation Groups
+- Cosets
+- Normal Subgroups
+- Quotient Groups
+- Homomorphisms
+- Isomorphisms
+- Rings
+- Ideals
+- Integral Domains
+- Fields
+
+
+19. TOPOLOGY
+------------
+- Topological Spaces
+- Open Sets
+- Closed Sets
+- Basis
+- Subbasis
+- Continuity
+- Homeomorphism
+- Compactness
+- Connectedness
+- Separation Axioms
+- Product Spaces
+- Metric Topology
+
+
+20. DIFFERENTIAL GEOMETRY
+-------------------------
+- Curves
+- Surfaces
+- Tangent Spaces
+- Manifolds
+- Curvature
+- Torsion
+- Geodesics
+- Riemannian Geometry
+- Metric Tensor
+- Connections
+- Curvature Tensor
+
+
+21. VECTOR CALCULUS
+-------------------
+- Vector Fields
+- Gradient
+- Divergence
+- Curl
+- Directional Derivative
+- Line Integrals
+- Surface Integrals
+- Volume Integrals
+- Green's Theorem
+- Stokes' Theorem
+- Divergence Theorem
+
+
+22. OPERATIONS RESEARCH
+-----------------------
+- Linear Programming
+- Transportation Problems
+- Assignment Problems
+- Simplex Method
+- Integer Programming
+- Network Optimization
+- Queueing Theory
+- Inventory Models
+- Scheduling
+- Decision Theory
+
+
+23. FUNCTIONAL ANALYSIS
+-----------------------
+- Normed Spaces
+- Banach Spaces
+- Hilbert Spaces
+- Linear Operators
+- Bounded Operators
+- Inner Product Spaces
+- Dual Spaces
+- Hahn-Banach Theorem
+- Open Mapping Theorem
+- Spectral Theory
+
+
+24. MATHEMATICAL PHYSICS
+------------------------
+- Vector Calculus
+- Tensor Analysis
+- Differential Equations
+- Fourier Analysis
+- Complex Analysis
+- Special Functions
+- Mathematical Methods
+- Classical Mechanics
+- Quantum Mechanics
+- Electromagnetism
+
+
+25. OPTIMIZATION THEORY
+----------------------
+- Unconstrained Optimization
+- Constrained Optimization
+- Convex Optimization
+- Linear Optimization
+- Nonlinear Optimization
+- Quadratic Programming
+- Gradient Descent
+- Newton Methods
+- Lagrange Multipliers
+- KKT Conditions
+
+
+26. CODING THEORY
+-----------------
+- Information Representation
+- Error Detection
+- Error Correction
+- Hamming Codes
+- Linear Codes
+- Cyclic Codes
+- BCH Codes
+- Reed-Solomon Codes
+- Coding Bounds
+
+
+27. MATHEMATICAL CRYPTOGRAPHY
+-----------------------------
+- Number Theory
+- Modular Arithmetic
+- RSA Mathematics
+- Diffie-Hellman
+- Elliptic Curves
+- Finite Fields
+- Cryptographic Proofs
+
+
+28. MEASURE THEORY
+-----------------
+- Sigma-Algebras
+- Measures
+- Measurable Functions
+- Lebesgue Integration
+- Convergence Theorems
+- Product Measures
+- Signed Measures
+- Radon-Nikodym Theorem
+
+
+29. ADVANCED GAME THEORY
+-----------------------
+- Strategic Games
+- Normal Form
+- Extensive Form
+- Nash Equilibrium
+- Mixed Strategies
+- Zero-Sum Games
+- Cooperative Games
+- Mechanism Design
+- Auction Theory
+
+
+30. CHAOS THEORY
+---------------
+- Dynamical Systems
+- Nonlinear Systems
+- Sensitive Dependence
+- Phase Space
+- Strange Attractors
+- Bifurcation
+- Lyapunov Exponents
+- Fractals
+
+
+31. FUZZY MATHEMATICS
+--------------------
+- Fuzzy Sets
+- Membership Functions
+- Fuzzy Logic
+- Fuzzy Relations
+- Fuzzy Arithmetic
+- Fuzzy Inference
+- Fuzzy Optimization
+
+
+32. MATHEMATICAL BIOLOGY
+-----------------------
+- Population Models
+- Growth Models
+- Predator-Prey Models
+- Epidemiological Models
+- Genetic Models
+- Ecological Models
+- Biological Networks
+- Mathematical Neuroscience
+
+
+33. FINANCIAL MATHEMATICS
+-------------------------
+- Interest
+- Annuities
+- Bonds
+- Stocks
+- Risk
+- Portfolio Theory
+- Stochastic Processes
+- Options
+- Black-Scholes Model
+- Derivatives Pricing
+
+
+34. COMBINATORICS
+-----------------
+- Permutations
+- Combinations
+- Counting
+- Pigeonhole Principle
+- Inclusion-Exclusion
+- Generating Functions
+- Recurrence Relations
+- Extremal Combinatorics
+
+
+35. ORDINARY DIFFERENTIAL EQUATIONS
+-----------------------------------
+- Initial Value Problems
+- Boundary Value Problems
+- Linear Systems
+- Nonlinear ODE
+- Stability
+- Phase Plane
+- Dynamical Systems
+
+
+36. PARTIAL DIFFERENTIAL EQUATIONS
+----------------------------------
+- First-Order PDE
+- Wave Equation
+- Heat Equation
+- Laplace Equation
+- Boundary Conditions
+- Initial Conditions
+- Separation of Variables
+- Fourier Series
+- Numerical PDE
+
+
+37. FOURIER ANALYSIS
+--------------------
+- Fourier Series
+- Fourier Transform
+- Discrete Fourier Transform
+- Fast Fourier Transform
+- Convergence
+- Frequency Domain
+- Signal Processing
+
+
+38. TENSOR MATHEMATICS
+---------------------
+- Scalars
+- Vectors
+- Covectors
+- Tensors
+- Tensor Products
+- Index Notation
+- Einstein Summation
+- Tensor Transformations
+- Metric Tensor
+- Applications in Physics/ML
+
+
+39. STOCHASTIC MATHEMATICS
+--------------------------
+- Random Processes
+- Markov Chains
+- Markov Processes
+- Brownian Motion
+- Martingales
+- Stochastic Differential Equations
+- Random Walks
+- Stochastic Modeling
+
+
+40. INFORMATION THEORY
+----------------------
+- Information
+- Entropy
+- Conditional Entropy
+- Mutual Information
+- KL Divergence
+- Cross Entropy
+- Channel Capacity
+- Coding
+
+
+41. MATHEMATICS FOR MACHINE LEARNING
+------------------------------------
+- Linear Algebra
+- Calculus
+- Probability
+- Statistics
+- Optimization
+- Numerical Methods
+- Information Theory
+- Graph Theory
+
+
+42. MATHEMATICS FOR DATA SCIENCE
+--------------------------------
+- Statistics
+- Probability
+- Linear Algebra
+- Calculus
+- Optimization
+- Numerical Methods
+- Regression
+- Statistical Inference
+
+
+43. MATHEMATICS FOR AI
+----------------------
+Linear Algebra
+ ↓
+Calculus
+ ↓
+Probability
+ ↓
+Statistics
+ ↓
+Optimization
+ ↓
+Information Theory
+ ↓
+Numerical Methods
+ ↓
+Machine Learning Mathematics
+
+
+44. MATHEMATICS + PHYSICS
+------------------------
+Algebra
+ ↓
+Trigonometry
+ ↓
+Calculus
+ ↓
+Differential Equations
+ ↓
+Vector Calculus
+ ↓
+Linear Algebra
+ ↓
+Complex Analysis
+ ↓
+Tensor Mathematics
+ ↓
+Mathematical Physics
+
+
+45. MATHEMATICS + CSE
+--------------------
+Discrete Mathematics
+ ↓
+Logic
+ ↓
+Combinatorics
+ ↓
+Graph Theory
+ ↓
+Probability
+ ↓
+Linear Algebra
+ ↓
+Number Theory
+ ↓
+Optimization
+ ↓
+Algorithms
+
+
+46. PROBLEM-SOLVING METHODS
+---------------------------
+- Direct Method
+- Contradiction
+- Contrapositive
+- Mathematical Induction
+- Strong Induction
+- Case Analysis
+- Construction
+- Invariant Method
+- Recursion
+- Algebraic Manipulation
+- Geometric Method
+- Numerical Method
+
+
+47. BEGINNER ACTIVITIES
+----------------------
+1. Algebra problems
+2. Equation solving
+3. Factorization
+4. Function problems
+5. Geometry problems
+6. Trigonometry
+7. Limits
+8. Basic differentiation
+9. Basic integration
+10. Probability
+
+
+48. INTERMEDIATE ACTIVITIES
+--------------------------
+1. Differential equations
+2. Matrix problems
+3. Vector problems
+4. Complex numbers
+5. Statistics
+6. Probability distributions
+7. Numerical methods
+8. Graph theory
+9. Optimization
+10. Linear algebra
+
+
+49. ADVANCED ACTIVITIES
+----------------------
+1. Real analysis proofs
+2. Complex analysis
+3. Abstract algebra
+4. Topology
+5. Differential geometry
+6. Functional analysis
+7. Measure theory
+8. PDE
+9. Stochastic processes
+10. Mathematical modeling
+
+
+50. PYTHON MATHEMATICS TOOLS
+----------------------------
+NumPy
+SciPy
+SymPy
+Matplotlib
+Pandas
+mpmath
+NetworkX
+
+
+51. SYMPY
+---------
+Symbolic Mathematics
+
+Topics:
+    - Symbols
+    - Simplification
+    - Factorization
+    - Expansion
+    - Limits
+    - Differentiation
+    - Integration
+    - Equations
+    - Matrices
+    - Series
+
+
+52. MATHEMATICS LEARNING ORDER
+-----------------------------
+Arithmetic
+ ↓
+Algebra
+ ↓
+Geometry
+ ↓
+Trigonometry
+ ↓
+Functions
+ ↓
+Calculus
+ ↓
+Linear Algebra
+ ↓
+Probability
+ ↓
+Statistics
+ ↓
+Discrete Mathematics
+ ↓
+Differential Equations
+ ↓
+Numerical Methods
+ ↓
+Real Analysis
+ ↓
+Complex Analysis
+ ↓
+Abstract Algebra
+ ↓
+Topology / Advanced Mathematics
+
+
+53. 80/20 MATHEMATICS
+---------------------
+CORE:
+
+    1. Algebra
+    2. Geometry
+    3. Trigonometry
+    4. Functions
+    5. Differential Calculus
+    6. Integral Calculus
+    7. Linear Algebra
+    8. Probability
+    9. Statistics
+    10. Discrete Mathematics
+    11. Differential Equations
+    12. Number Theory
+    13. Vector Calculus
+    14. Optimization
+    15. Numerical Methods
