@@ -1,0 +1,389 @@
+CODING THEORY
+(Expanded Classification According to Me)
+
+1. FOUNDATIONS OF CODING THEORY
+   1.1 Introduction to Coding Theory
+   1.2 History of Coding Theory
+   1.3 Information and Communication
+   1.4 Data Representation
+   1.5 Information Sources
+   1.6 Noise and Communication Channels
+   1.7 Error Detection
+   1.8 Error Correction
+   1.9 Redundancy
+   1.10 Coding Gain
+   1.11 Hamming Distance
+   1.12 Hamming Weight
+
+2. MATHEMATICAL FOUNDATIONS
+   2.1 Set Theory
+   2.2 Linear Algebra
+   2.3 Abstract Algebra
+   2.4 Number Theory
+   2.5 Probability and Statistics
+   2.6 Modular Arithmetic
+   2.7 Matrices
+   2.8 Polynomial Algebra
+   2.9 Finite Fields
+   2.10 Combinatorics
+
+3. INFORMATION THEORY
+   3.1 Information and Uncertainty
+   3.2 Entropy
+   3.3 Joint Entropy
+   3.4 Conditional Entropy
+   3.5 Mutual Information
+   3.6 Relative Entropy
+   3.7 Source Coding
+   3.8 Channel Coding
+   3.9 Channel Capacity
+   3.10 Data Processing Inequality
+   3.11 Shannon's Noisy Channel Coding Theorem
+   3.12 Rate-Distortion Theory
+
+4. SOURCE CODING
+   4.1 Lossless Compression
+   4.2 Lossy Compression
+   4.3 Prefix Codes
+   4.4 Instantaneous Codes
+   4.5 Uniquely Decodable Codes
+   4.6 Kraft Inequality
+   4.7 McMillan Inequality
+   4.8 Huffman Coding
+   4.9 Shannon-Fano Coding
+   4.10 Arithmetic Coding
+   4.11 Lempel-Ziv Coding
+   4.12 Run-Length Encoding
+
+5. CHANNEL MODELS
+   5.1 Communication Channels
+   5.2 Binary Symmetric Channel (BSC)
+   5.3 Binary Erasure Channel (BEC)
+   5.4 Binary Z-Channel
+   5.5 Additive White Gaussian Noise Channel
+   5.6 Discrete Memoryless Channel
+   5.7 Symmetric Channels
+   5.8 Fading Channels
+   5.9 MIMO Channels
+   5.10 Channel Capacity
+
+6. ERROR-DETECTING CODES
+   6.1 Parity Check Codes
+   6.2 Single Parity Bit
+   6.3 Two-Dimensional Parity
+   6.4 Checksum
+   6.5 Cyclic Redundancy Check (CRC)
+   6.6 Longitudinal Redundancy Check
+   6.7 Error Detection Capability
+   6.8 Burst Error Detection
+   6.9 Internet Checksum
+   6.10 Applications of Error Detection
+
+7. LINEAR BLOCK CODES
+   7.1 Definition of Linear Codes
+   7.2 Codewords
+   7.3 Generator Matrix
+   7.4 Parity-Check Matrix
+   7.5 Standard Form
+   7.6 Systematic Codes
+   7.7 Code Parameters
+   7.8 Minimum Distance
+   7.9 Hamming Weight
+   7.10 Syndrome
+   7.11 Encoding
+   7.12 Decoding
+   7.13 Error-Correcting Capability
+
+8. HAMMING CODES
+   8.1 Hamming Codes
+   8.2 Hamming Distance
+   8.3 Hamming Weight
+   8.4 Hamming Bound
+   8.5 Hamming [7,4] Code
+   8.6 Hamming [15,11] Code
+   8.7 Parity Bit Positions
+   8.8 Syndrome Calculation
+   8.9 Single-Bit Error Correction
+   8.10 Perfect Codes
+   8.11 Extended Hamming Codes
+
+9. CYCLIC CODES
+   9.1 Polynomial Representation
+   9.2 Cyclic Shift
+   9.3 Generator Polynomial
+   9.4 Check Polynomial
+   9.5 Encoding Cyclic Codes
+   9.6 Syndrome Decoding
+   9.7 Cyclic Redundancy Check
+   9.8 Error Detection Using Polynomials
+   9.9 Cyclic Code Properties
+   9.10 Applications of Cyclic Codes
+
+10. BCH CODES
+    10.1 Introduction to BCH Codes
+    10.2 Primitive BCH Codes
+    10.3 Non-Primitive BCH Codes
+    10.4 Generator Polynomial
+    10.5 Designed Distance
+    10.6 Error-Correcting Capability
+    10.7 Algebraic Decoding
+    10.8 Syndrome Calculation
+    10.9 Error Locator Polynomial
+    10.10 Berlekamp-Massey Algorithm
+    10.11 Chien Search
+    10.12 Forney Algorithm
+
+11. REED-SOLOMON CODES
+    11.1 Introduction
+    11.2 Finite Field Representation
+    11.3 Generator Polynomial
+    11.4 Encoding Reed-Solomon Codes
+    11.5 Syndrome Calculation
+    11.6 Error Locator Polynomial
+    11.7 Error Evaluator Polynomial
+    11.8 Error Location
+    11.9 Error Magnitude
+    11.10 Erasure Correction
+    11.11 Burst Error Correction
+    11.12 Applications in QR Codes
+    11.13 Storage Systems
+    11.14 Digital Communications
+
+12. CONVOLUTIONAL CODES
+    12.1 Introduction
+    12.2 Encoder Structure
+    12.3 Shift Registers
+    12.4 Generator Sequences
+    12.5 Code Rate
+    12.6 Constraint Length
+    12.7 State Diagram
+    12.8 Trellis Diagram
+    12.9 Transfer Function
+    12.10 Termination Methods
+    12.11 Recursive Convolutional Codes
+    12.12 Recursive Systematic Convolutional Codes
+
+13. CONVOLUTIONAL CODE DECODING
+    13.1 Hard Decision Decoding
+    13.2 Soft Decision Decoding
+    13.3 Maximum Likelihood Decoding
+    13.4 Viterbi Algorithm
+    13.5 Sequential Decoding
+    13.6 Fano Algorithm
+    13.7 BCJR Algorithm
+    13.8 MAP Decoding
+    13.9 Trellis-Based Decoding
+    13.10 Complexity Analysis
+
+14. TURBO CODES
+    14.1 Introduction to Turbo Codes
+    14.2 Parallel Concatenation
+    14.3 Recursive Systematic Convolutional Codes
+    14.4 Interleavers
+    14.5 Iterative Decoding
+    14.6 Extrinsic Information
+    14.7 Log-Likelihood Ratios
+    14.8 Turbo Code Performance
+    14.9 Applications in Wireless Communication
+
+15. LDPC CODES
+    15.1 Low-Density Parity-Check Codes
+    15.2 Tanner Graphs
+    15.3 Sparse Parity-Check Matrix
+    15.4 Regular LDPC Codes
+    15.5 Irregular LDPC Codes
+    15.6 Belief Propagation
+    15.7 Sum-Product Algorithm
+    15.8 Min-Sum Algorithm
+    15.9 Iterative Decoding
+    15.10 Density Evolution
+    15.11 LDPC Code Construction
+    15.12 Applications in 5G and Storage
+
+16. POLAR CODES
+    16.1 Introduction to Polar Codes
+    16.2 Channel Polarization
+    16.3 Polar Transform
+    16.4 Generator Matrix
+    16.5 Frozen Bits
+    16.6 Successive Cancellation Decoding
+    16.7 Successive Cancellation List Decoding
+    16.8 CRC-Aided Polar Codes
+    16.9 Polar Code Construction
+    16.10 Applications in 5G
+
+17. FINITE FIELDS
+    17.1 Field Theory
+    17.2 Galois Fields
+    17.3 GF(2)
+    17.4 GF(2^m)
+    17.5 Primitive Polynomials
+    17.6 Irreducible Polynomials
+    17.7 Field Arithmetic
+    17.8 Addition and Multiplication
+    17.9 Multiplicative Inverses
+    17.10 Polynomial Arithmetic
+    17.11 Applications in BCH and Reed-Solomon Codes
+
+18. ALGEBRAIC CODING THEORY
+    18.1 Group Codes
+    18.2 Ring Codes
+    18.3 Linear Codes
+    18.4 Cyclic Codes
+    18.5 Ideals
+    18.6 Quotient Rings
+    18.7 Polynomial Rings
+    18.8 Algebraic Geometry Codes
+    18.9 Weight Enumerators
+    18.10 MacWilliams Identity
+
+19. DECODING THEORY
+    19.1 Maximum Likelihood Decoding
+    19.2 Minimum Distance Decoding
+    19.3 Syndrome Decoding
+    19.4 Nearest Neighbor Decoding
+    19.5 Hard Decision Decoding
+    19.6 Soft Decision Decoding
+    19.7 Erasure Decoding
+    19.8 List Decoding
+    19.9 Algebraic Decoding
+    19.10 Iterative Decoding
+    19.11 Maximum A Posteriori Decoding
+    19.12 Belief Propagation
+
+20. ERROR-CORRECTION LIMITS
+    20.1 Hamming Bound
+    20.2 Singleton Bound
+    20.3 Gilbert-Varshamov Bound
+    20.4 Plotkin Bound
+    20.5 Griesmer Bound
+    20.6 Sphere-Packing Bound
+    20.7 Rate-Distance Trade-Off
+    20.8 Minimum Distance Bounds
+    20.9 Asymptotic Bounds
+    20.10 Capacity-Achieving Codes
+
+21. CODE CONSTRUCTION
+    21.1 Code Design
+    21.2 Generator Matrix Construction
+    21.3 Parity-Check Matrix Construction
+    21.4 Algebraic Construction
+    21.5 Probabilistic Construction
+    21.6 Concatenated Codes
+    21.7 Product Codes
+    21.8 Concatenated Block Codes
+    21.9 Expander Codes
+    21.10 Spatially Coupled Codes
+
+22. NETWORK CODING
+    22.1 Introduction to Network Coding
+    22.2 Routing vs Network Coding
+    22.3 Linear Network Coding
+    22.4 Random Linear Network Coding
+    22.5 Multicast Network Coding
+    22.6 Network Coding Capacity
+    22.7 Error Correction in Networks
+    22.8 Distributed Storage
+    22.9 Network Coding in Wireless Systems
+    22.10 Applications in Distributed Systems
+
+23. QUANTUM ERROR-CORRECTING CODES
+    23.1 Quantum Information
+    23.2 Qubits
+    23.3 Quantum Noise
+    23.4 Quantum Error Models
+    23.5 Bit-Flip Codes
+    23.6 Phase-Flip Codes
+    23.7 Shor Code
+    23.8 Steane Code
+    23.9 Stabilizer Codes
+    23.10 Surface Codes
+    23.11 Topological Codes
+    23.12 Fault-Tolerant Quantum Computing
+
+24. CODING THEORY IN CRYPTOGRAPHY
+    24.1 Code-Based Cryptography
+    24.2 McEliece Cryptosystem
+    24.3 Niederreiter Cryptosystem
+    24.4 Syndrome Decoding Problem
+    24.5 Post-Quantum Cryptography
+    24.6 Hash-Based Connections
+    24.7 Error-Correcting Codes and Security
+    24.8 Cryptanalysis of Code-Based Systems
+
+25. CODING THEORY IN MACHINE LEARNING
+    25.1 Error-Correcting Output Codes
+    25.2 Classification Using Error-Correcting Codes
+    25.3 Robust Machine Learning
+    25.4 Noisy Label Correction
+    25.5 Information-Theoretic Learning
+    25.6 Neural Error Correction
+    25.7 Distributed Machine Learning
+    25.8 Coded Computation
+    25.9 Communication-Efficient Learning
+    25.10 Fault-Tolerant AI Systems
+
+26. CODING THEORY IN COMPUTER SCIENCE
+    26.1 Data Compression
+    26.2 Data Storage
+    26.3 Distributed Systems
+    26.4 Fault-Tolerant Systems
+    26.5 Network Communication
+    26.6 Database Reliability
+    26.7 Cloud Storage
+    26.8 QR Codes
+    26.9 RAID Systems
+    26.10 Error-Resilient Computing
+
+27. CODING THEORY IN COMMUNICATION SYSTEMS
+    27.1 Digital Communication
+    27.2 Wireless Communication
+    27.3 Mobile Networks
+    27.4 Satellite Communication
+    27.5 Optical Communication
+    27.6 Deep-Space Communication
+    27.7 4G and 5G Systems
+    27.8 6G Research
+    27.9 IoT Communication
+    27.10 Sensor Networks
+
+28. PERFORMANCE ANALYSIS
+    28.1 Bit Error Rate
+    28.2 Symbol Error Rate
+    28.3 Word Error Rate
+    28.4 Frame Error Rate
+    28.5 Code Rate
+    28.6 Coding Gain
+    28.7 Signal-to-Noise Ratio
+    28.8 Energy per Bit
+    28.9 Error Floors
+    28.10 Simulation-Based Performance Analysis
+
+29. COMPUTATIONAL CODING THEORY
+    29.1 Algorithm Design
+    29.2 Complexity Analysis
+    29.3 Finite Field Programming
+    29.4 Polynomial Computation
+    29.5 Matrix-Based Encoding
+    29.6 Syndrome Decoding Algorithms
+    29.7 Fast Fourier Transform Methods
+    29.8 Parallel Decoding
+    29.9 GPU-Based Coding Algorithms
+    29.10 Numerical Simulations
+
+30. SOFTWARE AND TOOLS
+    30.1 Python
+    30.2 C and C++
+    30.3 MATLAB
+    30.4 GNU Radio
+    30.5 NumPy
+    30.6 SciPy
+    30.7 SymPy
+    30.8 SageMath
+    30.9 MATLAB Communications Toolbox
+    30.10 CommPy
+    30.11 AFF3CT
+    30.12 IT++ Library
+    30.13 GNU Octave
+    30.14 FPGA Implementation
+    30.15 Software-Defined Radio
