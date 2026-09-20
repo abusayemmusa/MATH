@@ -1,1 +1,385 @@
-
+CRYPTOGRAPHY
+│
+├── 1. Foundations of Cryptography
+│   ├── Definition of Cryptography
+│   ├── History of Cryptography
+│   ├── Cryptographic Terminology
+│   ├── Plaintext and Ciphertext
+│   ├── Encryption and Decryption
+│   ├── Keys and Keyspace
+│   ├── Cryptanalysis
+│   ├── Cryptographic Attacks
+│   └── Kerckhoffs's Principle
+│
+├── 2. Mathematical Foundations
+│   ├── Number Theory
+│   ├── Prime Numbers
+│   ├── Divisibility
+│   ├── Modular Arithmetic
+│   ├── Greatest Common Divisor (GCD)
+│   ├── Extended Euclidean Algorithm
+│   ├── Modular Inverse
+│   ├── Euler's Totient Function
+│   ├── Fermat's Little Theorem
+│   ├── Euler's Theorem
+│   ├── Chinese Remainder Theorem
+│   ├── Abstract Algebra
+│   ├── Groups and Rings
+│   ├── Finite Fields
+│   └── Probability Theory
+│
+├── 3. Classical Cryptography
+│   ├── Substitution Cipher
+│   ├── Caesar Cipher
+│   ├── Affine Cipher
+│   ├── Vigenère Cipher
+│   ├── Hill Cipher
+│   ├── Playfair Cipher
+│   ├── Transposition Cipher
+│   ├── Rail Fence Cipher
+│   ├── Columnar Transposition
+│   ├── One-Time Pad
+│   └── Frequency Analysis
+│
+├── 4. Symmetric-Key Cryptography
+│   ├── Symmetric Encryption Concepts
+│   ├── Stream Ciphers
+│   ├── Block Ciphers
+│   ├── Feistel Networks
+│   ├── Substitution-Permutation Networks
+│   ├── Data Encryption Standard (DES)
+│   ├── Triple DES (3DES)
+│   ├── Advanced Encryption Standard (AES)
+│   ├── Blowfish
+│   ├── Twofish
+│   ├── IDEA
+│   ├── Camellia
+│   ├── ChaCha20
+│   ├── Salsa20
+│   └── RC4 (Legacy)
+│
+├── 5. Block Cipher Modes
+│   ├── Electronic Codebook (ECB)
+│   ├── Cipher Block Chaining (CBC)
+│   ├── Cipher Feedback (CFB)
+│   ├── Output Feedback (OFB)
+│   ├── Counter Mode (CTR)
+│   ├── Galois/Counter Mode (GCM)
+│   ├── XTS Mode
+│   ├── Initialization Vector (IV)
+│   ├── Nonce
+│   └── Padding Schemes
+│
+├── 6. Asymmetric-Key Cryptography
+│   ├── Public-Key Cryptography
+│   ├── Private-Key Cryptography
+│   ├── RSA
+│   ├── Diffie-Hellman Key Exchange
+│   ├── ElGamal
+│   ├── Rabin Cryptosystem
+│   ├── Digital Envelope
+│   ├── Key Encapsulation Mechanism (KEM)
+│   └── Hybrid Encryption
+│
+├── 7. Elliptic Curve Cryptography (ECC)
+│   ├── Elliptic Curve Mathematics
+│   ├── Elliptic Curve Groups
+│   ├── Point Addition
+│   ├── Point Doubling
+│   ├── Scalar Multiplication
+│   ├── Elliptic Curve Diffie-Hellman (ECDH)
+│   ├── Elliptic Curve Digital Signature Algorithm (ECDSA)
+│   ├── Edwards Curves
+│   ├── Ed25519
+│   ├── X25519
+│   └── Curve25519
+│
+├── 8. Cryptographic Hash Functions
+│   ├── Hash Function Properties
+│   ├── Preimage Resistance
+│   ├── Second Preimage Resistance
+│   ├── Collision Resistance
+│   ├── Avalanche Effect
+│   ├── MD5
+│   ├── SHA-1
+│   ├── SHA-2
+│   ├── SHA-3
+│   ├── BLAKE2
+│   ├── BLAKE3
+│   └── Password Hashing
+│
+├── 9. Message Authentication
+│   ├── Message Authentication Codes (MAC)
+│   ├── HMAC
+│   ├── CMAC
+│   ├── GMAC
+│   ├── Poly1305
+│   ├── Integrity Verification
+│   ├── Authentication Tags
+│   └── Authenticated Encryption
+│
+├── 10. Digital Signatures
+│   ├── Digital Signature Concepts
+│   ├── RSA Signatures
+│   ├── DSA
+│   ├── ECDSA
+│   ├── EdDSA
+│   ├── Signature Generation
+│   ├── Signature Verification
+│   ├── Blind Signatures
+│   ├── Aggregate Signatures
+│   ├── Threshold Signatures
+│   └── Non-Repudiation
+│
+├── 11. Key Management
+│   ├── Key Generation
+│   ├── Key Distribution
+│   ├── Key Storage
+│   ├── Key Rotation
+│   ├── Key Derivation
+│   ├── Key Exchange
+│   ├── Key Agreement
+│   ├── Key Escrow
+│   ├── Key Revocation
+│   ├── Key Destruction
+│   ├── Key Derivation Functions (KDF)
+│   ├── PBKDF2
+│   ├── scrypt
+│   ├── Argon2
+│   └── HKDF
+│
+├── 12. Password Security
+│   ├── Password Hashing
+│   ├── Salt
+│   ├── Pepper
+│   ├── Password-Based Encryption
+│   ├── Brute-Force Attacks
+│   ├── Dictionary Attacks
+│   ├── Rainbow Tables
+│   ├── Credential Stuffing
+│   ├── Password Stretching
+│   └── Secure Password Storage
+│
+├── 13. Public Key Infrastructure (PKI)
+│   ├── Digital Certificates
+│   ├── Certificate Authorities (CA)
+│   ├── Root Certificates
+│   ├── Intermediate Certificates
+│   ├── X.509 Certificates
+│   ├── Certificate Signing Request (CSR)
+│   ├── Certificate Revocation List (CRL)
+│   ├── Online Certificate Status Protocol (OCSP)
+│   ├── Trust Chains
+│   └── Certificate Transparency
+│
+├── 14. Cryptographic Protocols
+│   ├── SSL/TLS
+│   ├── HTTPS
+│   ├── SSH
+│   ├── IPsec
+│   ├── Kerberos
+│   ├── Signal Protocol
+│   ├── WPA/WPA2/WPA3
+│   ├── Secure Email
+│   ├── Secure Messaging
+│   ├── Secure File Transfer
+│   └── Authentication Protocols
+│
+├── 15. Zero-Knowledge Proofs
+│   ├── Zero-Knowledge Concept
+│   ├── Interactive Proofs
+│   ├── Non-Interactive Proofs
+│   ├── zk-SNARKs
+│   ├── zk-STARKs
+│   ├── Sigma Protocols
+│   ├── Bulletproofs
+│   ├── Commitment Schemes
+│   ├── Verifiable Computation
+│   └── Privacy-Preserving Authentication
+│
+├── 16. Secure Multi-Party Computation
+│   ├── Multi-Party Computation (MPC)
+│   ├── Secret Sharing
+│   ├── Shamir Secret Sharing
+│   ├── Garbled Circuits
+│   ├── Oblivious Transfer
+│   ├── Private Set Intersection
+│   ├── Secure Aggregation
+│   └── Threshold Cryptography
+│
+├── 17. Homomorphic Encryption
+│   ├── Homomorphic Properties
+│   ├── Partially Homomorphic Encryption
+│   ├── Somewhat Homomorphic Encryption
+│   ├── Fully Homomorphic Encryption (FHE)
+│   ├── BFV Scheme
+│   ├── BGV Scheme
+│   ├── CKKS Scheme
+│   ├── Encrypted Computation
+│   ├── Privacy-Preserving Machine Learning
+│   └── Encrypted Data Processing
+│
+├── 18. Post-Quantum Cryptography
+│   ├── Quantum Computing Threats
+│   ├── Shor's Algorithm
+│   ├── Grover's Algorithm
+│   ├── Lattice-Based Cryptography
+│   ├── Code-Based Cryptography
+│   ├── Hash-Based Cryptography
+│   ├── Multivariate Cryptography
+│   ├── Isogeny-Based Cryptography
+│   ├── ML-KEM (Kyber)
+│   ├── ML-DSA (Dilithium)
+│   ├── SLH-DSA (SPHINCS+)
+│   └── Hybrid Post-Quantum Systems
+│
+├── 19. Quantum Cryptography
+│   ├── Quantum Key Distribution (QKD)
+│   ├── BB84 Protocol
+│   ├── E91 Protocol
+│   ├── Quantum Entanglement
+│   ├── Quantum No-Cloning
+│   ├── Quantum Random Number Generation
+│   ├── Device-Independent QKD
+│   └── Quantum Cryptanalysis
+│
+├── 20. Cryptanalysis
+│   ├── Cryptanalysis Fundamentals
+│   ├── Brute-Force Analysis
+│   ├── Frequency Analysis
+│   ├── Differential Cryptanalysis
+│   ├── Linear Cryptanalysis
+│   ├── Algebraic Attacks
+│   ├── Statistical Attacks
+│   ├── Meet-in-the-Middle Attack
+│   ├── Birthday Attack
+│   ├── Related-Key Attack
+│   ├── Replay Attack
+│   ├── Man-in-the-Middle Attack
+│   ├── Side-Channel Attacks
+│   ├── Timing Attacks
+│   ├── Power Analysis
+│   ├── Fault Injection
+│   └── Padding Oracle Attack
+│
+├── 21. Randomness and Cryptographic PRNG
+│   ├── Randomness
+│   ├── Entropy
+│   ├── Pseudorandom Numbers
+│   ├── Cryptographically Secure PRNG
+│   ├── Hardware Random Number Generator
+│   ├── Deterministic Random Bit Generator
+│   ├── Entropy Sources
+│   └── Randomness Testing
+│
+├── 22. Blockchain Cryptography
+│   ├── Cryptographic Hashing
+│   ├── Merkle Trees
+│   ├── Digital Signatures
+│   ├── Wallet Security
+│   ├── Public and Private Keys
+│   ├── Elliptic Curve Cryptography
+│   ├── Multi-Signature Wallets
+│   ├── Threshold Signatures
+│   ├── Zero-Knowledge Proofs
+│   └── Consensus Cryptography
+│
+├── 23. Cryptography in Machine Learning
+│   ├── Privacy-Preserving Machine Learning
+│   ├── Federated Learning Security
+│   ├── Differential Privacy
+│   ├── Secure Aggregation
+│   ├── Homomorphic Encryption in ML
+│   ├── MPC-Based ML
+│   ├── Encrypted Inference
+│   ├── Model Privacy
+│   └── Adversarial Privacy Attacks
+│
+├── 24. Cryptography in IoT and Robotics
+│   ├── IoT Device Authentication
+│   ├── Embedded Cryptography
+│   ├── Secure Boot
+│   ├── Firmware Signing
+│   ├── Hardware Security Modules
+│   ├── Trusted Execution Environment
+│   ├── Sensor Data Encryption
+│   ├── Robot Communication Security
+│   ├── Secure OTA Updates
+│   ├── Lightweight Cryptography
+│   └── Industrial Control Security
+│
+├── 25. Hardware Cryptography
+│   ├── Hardware Security
+│   ├── Cryptographic Accelerators
+│   ├── Secure Elements
+│   ├── Trusted Platform Module (TPM)
+│   ├── Hardware Security Modules (HSM)
+│   ├── Physical Unclonable Functions (PUF)
+│   ├── Side-Channel Resistance
+│   ├── FPGA Cryptography
+│   ├── ASIC Cryptography
+│   └── Secure Processor Design
+│
+├── 26. Formal Security and Proofs
+│   ├── Computational Security
+│   ├── Information-Theoretic Security
+│   ├── Perfect Secrecy
+│   ├── Semantic Security
+│   ├── IND-CPA Security
+│   ├── IND-CCA Security
+│   ├── Existential Unforgeability
+│   ├── Security Reductions
+│   ├── Random Oracle Model
+│   └── Provable Security
+│
+├── 27. Privacy Technologies
+│   ├── Differential Privacy
+│   ├── Anonymous Communication
+│   ├── Mix Networks
+│   ├── Tor Network
+│   ├── Private Information Retrieval
+│   ├── Anonymous Credentials
+│   ├── Identity-Based Encryption
+│   ├── Attribute-Based Encryption
+│   └── Searchable Encryption
+│
+├── 28. Cryptographic Software and Libraries
+│   ├── OpenSSL
+│   ├── LibreSSL
+│   ├── BoringSSL
+│   ├── libsodium
+│   ├── PyCryptodome
+│   ├── Python Cryptography Library
+│   ├── Java Cryptography Architecture
+│   ├── OpenPGP
+│   ├── GnuPG
+│   └── Cryptographic APIs
+│
+├── 29. Cryptography Engineering
+│   ├── Secure Algorithm Implementation
+│   ├── Secure Coding
+│   ├── Constant-Time Programming
+│   ├── Secure Key Storage
+│   ├── Random Number Handling
+│   ├── Protocol Design
+│   ├── Cryptographic Agility
+│   ├── Security Testing
+│   ├── Threat Modeling
+│   └── Security Auditing
+│
+└── 30. Applications of Cryptography
+    ├── Cybersecurity
+    ├── Network Security
+    ├── Web Security
+    ├── Mobile Security
+    ├── Cloud Security
+    ├── Database Security
+    ├── Digital Banking
+    ├── E-Commerce
+    ├── Digital Identity
+    ├── Healthcare Data Security
+    ├── Military Communication
+    ├── Satellite Communication
+    ├── Smart Cities
+    ├── IoT Security
+    └── Blockchain Systems
