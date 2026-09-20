@@ -1,1 +1,456 @@
+OPTIMIZATION THEORY
+(Expanded Classification According to Me)
 
+1. FOUNDATIONS OF OPTIMIZATION
+   1.1 Definition of Optimization
+   1.2 Objectives of Optimization
+   1.3 Decision Variables
+   1.4 Objective Functions
+   1.5 Constraints
+   1.6 Feasible Region
+   1.7 Optimal Solution
+   1.8 Local and Global Optima
+   1.9 Maximization and Minimization
+   1.10 Optimization Modeling
+   1.11 Deterministic Optimization
+   1.12 Stochastic Optimization
+   1.13 Continuous Optimization
+   1.14 Discrete Optimization
+   1.15 Combinatorial Optimization
+
+2. MATHEMATICAL FOUNDATIONS
+   2.1 Sets and Functions
+   2.2 Linear Algebra
+   2.3 Calculus
+   2.4 Multivariable Calculus
+   2.5 Partial Derivatives
+   2.6 Gradient and Directional Derivatives
+   2.7 Hessian Matrix
+   2.8 Differential Equations
+   2.9 Probability and Statistics
+   2.10 Convex Analysis
+   2.11 Real Analysis
+   2.12 Numerical Methods
+
+3. UNCONSTRAINED OPTIMIZATION
+   3.1 One-Dimensional Optimization
+   3.2 Multivariable Optimization
+   3.3 Stationary Points
+   3.4 First-Order Conditions
+   3.5 Second-Order Conditions
+   3.6 Local Minima
+   3.7 Local Maxima
+   3.8 Saddle Points
+   3.9 Coercive Functions
+   3.10 Existence of Optimal Solutions
+
+4. LINEAR PROGRAMMING
+   4.1 Linear Objective Functions
+   4.2 Linear Constraints
+   4.3 Standard Form
+   4.4 Canonical Form
+   4.5 Graphical Method
+   4.6 Simplex Method
+   4.7 Duality
+   4.8 Dual Simplex Method
+   4.9 Sensitivity Analysis
+   4.10 Interior-Point Methods
+   4.11 Network Flow Optimization
+
+5. CONVEX OPTIMIZATION
+   5.1 Convex Sets
+   5.2 Convex Functions
+   5.3 Strictly Convex Functions
+   5.4 Strongly Convex Functions
+   5.5 Concave Functions
+   5.6 Convex Optimization Problems
+   5.7 First-Order Convexity Conditions
+   5.8 Second-Order Convexity Conditions
+   5.9 Global Optimality
+   5.10 Jensen's Inequality
+   5.11 Convex Conjugates
+   5.12 Convex Envelopes
+
+6. NONLINEAR PROGRAMMING
+   6.1 Nonlinear Objective Functions
+   6.2 Nonlinear Constraints
+   6.3 Equality Constraints
+   6.4 Inequality Constraints
+   6.5 Separable Programming
+   6.6 Quadratic Programming
+   6.7 Geometric Programming
+   6.8 Sequential Quadratic Programming
+   6.9 Penalty Methods
+   6.10 Barrier Methods
+
+7. CONSTRAINED OPTIMIZATION
+   7.1 Feasible Solutions
+   7.2 Active Constraints
+   7.3 Inactive Constraints
+   7.4 Lagrange Multipliers
+   7.5 Lagrangian Function
+   7.6 Karush-Kuhn-Tucker Conditions
+   7.7 Constraint Qualifications
+   7.8 Regularity Conditions
+   7.9 Equality-Constrained Problems
+   7.10 Inequality-Constrained Problems
+   7.11 Fritz John Conditions
+
+8. FIRST-ORDER OPTIMIZATION METHODS
+   8.1 Gradient Descent
+   8.2 Steepest Descent
+   8.3 Coordinate Descent
+   8.4 Subgradient Methods
+   8.5 Projected Gradient Descent
+   8.6 Frank-Wolfe Algorithm
+   8.7 Mirror Descent
+   8.8 Proximal Gradient Method
+   8.9 Conditional Gradient Method
+   8.10 Accelerated Gradient Methods
+
+9. SECOND-ORDER OPTIMIZATION METHODS
+   9.1 Newton's Method
+   9.2 Quasi-Newton Methods
+   9.3 BFGS Algorithm
+   9.4 L-BFGS Algorithm
+   9.5 DFP Algorithm
+   9.6 Trust-Region Methods
+   9.7 Hessian Approximation
+   9.8 Newton-CG Method
+   9.9 Modified Newton Methods
+   9.10 Convergence Analysis
+
+10. LINE SEARCH METHODS
+    10.1 Exact Line Search
+    10.2 Inexact Line Search
+    10.3 Backtracking Line Search
+    10.4 Armijo Condition
+    10.5 Wolfe Conditions
+    10.6 Strong Wolfe Conditions
+    10.7 Step-Size Selection
+    10.8 Adaptive Step Sizes
+    10.9 Convergence of Line Search Methods
+
+11. TRUST-REGION METHODS
+    11.1 Trust-Region Concept
+    11.2 Trust-Region Subproblem
+    11.3 Cauchy Point
+    11.4 Dogleg Method
+    11.5 Steihaug Method
+    11.6 Trust-Region Newton Method
+    11.7 Radius Adjustment
+    11.8 Global Convergence
+
+12. STOCHASTIC OPTIMIZATION
+    12.1 Random Search
+    12.2 Stochastic Approximation
+    12.3 Stochastic Gradient Descent
+    12.4 Mini-Batch Gradient Descent
+    12.5 Momentum
+    12.6 Nesterov Accelerated Gradient
+    12.7 AdaGrad
+    12.8 RMSProp
+    12.9 Adam Optimizer
+    12.10 AdamW
+    12.11 AdaDelta
+    12.12 AMSGrad
+    12.13 Stochastic Variance Reduction
+
+13. GLOBAL OPTIMIZATION
+    13.1 Global Search
+    13.2 Local Search
+    13.3 Multimodal Optimization
+    13.4 Basin-Hopping
+    13.5 Randomized Optimization
+    13.6 Lipschitz Optimization
+    13.7 Branch and Bound
+    13.8 Deterministic Global Optimization
+    13.9 Stochastic Global Optimization
+    13.10 No-Free-Lunch Theorem
+
+14. METAHEURISTIC OPTIMIZATION
+    14.1 Genetic Algorithms
+    14.2 Evolutionary Algorithms
+    14.3 Differential Evolution
+    14.4 Simulated Annealing
+    14.5 Tabu Search
+    14.6 Ant Colony Optimization
+    14.7 Particle Swarm Optimization
+    14.8 Artificial Bee Colony
+    14.9 Harmony Search
+    14.10 Firefly Algorithm
+    14.11 Grey Wolf Optimization
+    14.12 Cuckoo Search
+    14.13 Whale Optimization Algorithm
+    14.14 Hybrid Metaheuristics
+
+15. INTEGER AND DISCRETE OPTIMIZATION
+    15.1 Integer Programming
+    15.2 Mixed-Integer Programming
+    15.3 Binary Optimization
+    15.4 0–1 Optimization
+    15.5 Combinatorial Optimization
+    15.6 Knapsack Problem
+    15.7 Traveling Salesman Problem
+    15.8 Assignment Problem
+    15.9 Scheduling Problems
+    15.10 Branch and Bound
+    15.11 Cutting Plane Methods
+    15.12 Constraint Programming
+
+16. DYNAMIC OPTIMIZATION
+    16.1 Dynamic Programming
+    16.2 Bellman's Principle of Optimality
+    16.3 Optimal Substructure
+    16.4 Overlapping Subproblems
+    16.5 Finite-Horizon Optimization
+    16.6 Infinite-Horizon Optimization
+    16.7 Resource Allocation
+    16.8 Equipment Replacement
+    16.9 Optimal Control
+    16.10 Reinforcement Learning Connection
+
+17. MULTI-OBJECTIVE OPTIMIZATION
+    17.1 Multiple Objective Functions
+    17.2 Pareto Optimality
+    17.3 Pareto Dominance
+    17.4 Pareto Frontier
+    17.5 Weighted Sum Method
+    17.6 Epsilon-Constraint Method
+    17.7 Goal Programming
+    17.8 Lexicographic Optimization
+    17.9 Multi-Criteria Decision-Making
+    17.10 NSGA-II
+    17.11 NSGA-III
+    17.12 Trade-Off Analysis
+
+18. ROBUST OPTIMIZATION
+    18.1 Uncertainty Modeling
+    18.2 Robust Feasibility
+    18.3 Robust Optimization Problems
+    18.4 Uncertainty Sets
+    18.5 Budgeted Uncertainty
+    18.6 Adjustable Robust Optimization
+    18.7 Worst-Case Optimization
+    18.8 Distributionally Robust Optimization
+    18.9 Applications in Engineering
+
+19. STOCHASTIC PROGRAMMING
+    19.1 Random Parameters
+    19.2 Two-Stage Stochastic Programming
+    19.3 Multi-Stage Stochastic Programming
+    19.4 Chance-Constrained Programming
+    19.5 Scenario-Based Optimization
+    19.6 Expected Value Models
+    19.7 Recourse Models
+    19.8 Sample Average Approximation
+    19.9 Risk-Averse Optimization
+
+20. OPTIMAL CONTROL THEORY
+    20.1 Control Variables
+    20.2 State Variables
+    20.3 State-Space Models
+    20.4 Objective Functionals
+    20.5 Pontryagin's Maximum Principle
+    20.6 Hamilton-Jacobi-Bellman Equation
+    20.7 Linear Quadratic Regulator
+    20.8 Model Predictive Control
+    20.9 Bang-Bang Control
+    20.10 Optimal Trajectory Planning
+    20.11 Feedback Control Optimization
+
+21. VARIATIONAL OPTIMIZATION
+    21.1 Functionals
+    21.2 Calculus of Variations
+    21.3 Euler-Lagrange Equation
+    21.4 Direct Methods
+    21.5 Variational Inequalities
+    21.6 Sobolev Spaces
+    21.7 Weak Solutions
+    21.8 Energy Minimization
+    21.9 Regularization Functionals
+    21.10 Applications to PDEs
+
+22. OPTIMIZATION IN MACHINE LEARNING
+    22.1 Empirical Risk Minimization
+    22.2 Loss Functions
+    22.3 Gradient-Based Learning
+    22.4 Regularization
+    22.5 L1 Regularization
+    22.6 L2 Regularization
+    22.7 Elastic Net
+    22.8 Convex Machine Learning
+    22.9 Non-Convex Optimization
+    22.10 Hyperparameter Optimization
+    22.11 Model Selection
+    22.12 Training Stability
+    22.13 Generalization and Optimization
+
+23. DEEP LEARNING OPTIMIZATION
+    23.1 Neural Network Loss Functions
+    23.2 Backpropagation
+    23.3 Batch Gradient Descent
+    23.4 Mini-Batch Training
+    23.5 Learning Rate Scheduling
+    23.6 Weight Decay
+    23.7 Gradient Clipping
+    23.8 Adaptive Optimizers
+    23.9 Second-Order Neural Optimization
+    23.10 Sharpness-Aware Minimization
+    23.11 Distributed Optimization
+    23.12 Federated Optimization
+
+24. REINFORCEMENT LEARNING OPTIMIZATION
+    24.1 Markov Decision Processes
+    24.2 Value Function Optimization
+    24.3 Policy Optimization
+    24.4 Value Iteration
+    24.5 Policy Iteration
+    24.6 Q-Learning
+    24.7 Policy Gradient
+    24.8 Actor-Critic Methods
+    24.9 Proximal Policy Optimization
+    24.10 Trust Region Policy Optimization
+    24.11 Soft Actor-Critic
+    24.12 Multi-Agent Optimization
+
+25. BAYESIAN OPTIMIZATION
+    25.1 Bayesian Optimization
+    25.2 Surrogate Models
+    25.3 Gaussian Processes
+    25.4 Acquisition Functions
+    25.5 Expected Improvement
+    25.6 Probability of Improvement
+    25.7 Upper Confidence Bound
+    25.8 Bayesian Optimization with Constraints
+    25.9 Multi-Objective Bayesian Optimization
+    25.10 Hyperparameter Tuning
+
+26. DERIVATIVE-FREE OPTIMIZATION
+    26.1 Motivation and Applications
+    26.2 Direct Search
+    26.3 Pattern Search
+    26.4 Nelder-Mead Method
+    26.5 Powell's Method
+    26.6 Coordinate Search
+    26.7 Evolution Strategies
+    26.8 Random Search
+    26.9 Black-Box Optimization
+    26.10 Expensive Objective Functions
+
+27. OPTIMIZATION ON MANIFOLDS
+    27.1 Smooth Manifolds
+    27.2 Riemannian Manifolds
+    27.3 Riemannian Gradient
+    27.4 Riemannian Hessian
+    27.5 Riemannian Gradient Descent
+    27.6 Optimization on Matrix Manifolds
+    27.7 Stiefel Manifold
+    27.8 Grassmann Manifold
+    27.9 Low-Rank Matrix Optimization
+    27.10 Applications in Machine Learning
+
+28. DISTRIBUTED AND FEDERATED OPTIMIZATION
+    28.1 Distributed Optimization
+    28.2 Consensus Optimization
+    28.3 Decentralized Optimization
+    28.4 Federated Learning
+    28.5 Federated Averaging
+    28.6 Communication-Efficient Optimization
+    28.7 Asynchronous Optimization
+    28.8 Edge Optimization
+    28.9 Privacy-Preserving Optimization
+    28.10 Multi-Agent Systems
+
+29. OPTIMIZATION FOR ROBOTICS
+    29.1 Robot Motion Planning
+    29.2 Path Planning
+    29.3 Trajectory Optimization
+    29.4 Inverse Kinematics Optimization
+    29.5 Robot Dynamics Optimization
+    29.6 Model Predictive Control
+    29.7 Collision Avoidance
+    29.8 Grasp Optimization
+    29.9 Manipulation Planning
+    29.10 Multi-Robot Coordination
+    29.11 Reinforcement Learning for Robotics
+    29.12 SLAM Optimization
+
+30. OPTIMIZATION FOR COMPUTER VISION
+    30.1 Image Reconstruction
+    30.2 Image Denoising
+    30.3 Image Segmentation
+    30.4 Optical Flow
+    30.5 Camera Calibration
+    30.6 Bundle Adjustment
+    30.7 Structure from Motion
+    30.8 3D Reconstruction
+    30.9 Pose Estimation
+    30.10 Energy-Based Vision Models
+    30.11 Neural Rendering Optimization
+
+31. OPTIMIZATION FOR SIGNAL PROCESSING
+    31.1 Signal Reconstruction
+    31.2 Noise Reduction
+    31.3 Filter Optimization
+    31.4 Sparse Signal Recovery
+    31.5 Compressed Sensing
+    31.6 Wavelet Optimization
+    31.7 Adaptive Filtering
+    31.8 Blind Deconvolution
+    31.9 Inverse Problems
+    31.10 Low-Rank Matrix Recovery
+
+32. GRAPH AND NETWORK OPTIMIZATION
+    32.1 Shortest Path
+    32.2 Minimum Spanning Tree
+    32.3 Maximum Flow
+    32.4 Minimum-Cost Flow
+    32.5 Network Design
+    32.6 Graph Partitioning
+    32.7 Community Detection
+    32.8 Matching Problems
+    32.9 Routing Optimization
+    32.10 Graph Neural Network Optimization
+
+33. OPTIMIZATION IN OPERATIONS RESEARCH
+    33.1 Resource Allocation
+    33.2 Production Planning
+    33.3 Inventory Optimization
+    33.4 Transportation Optimization
+    33.5 Supply Chain Optimization
+    33.6 Facility Location
+    33.7 Workforce Scheduling
+    33.8 Queuing Optimization
+    33.9 Project Scheduling
+    33.10 Financial Optimization
+
+34. NUMERICAL OPTIMIZATION
+    34.1 Floating-Point Arithmetic
+    34.2 Numerical Stability
+    34.3 Convergence Analysis
+    34.4 Rate of Convergence
+    34.5 Condition Number
+    34.6 Ill-Conditioned Problems
+    34.7 Computational Complexity
+    34.8 Iterative Methods
+    34.9 Parallel Optimization
+    34.10 High-Performance Optimization
+
+35. SOFTWARE AND TOOLS
+    35.1 Python Optimization
+    35.2 NumPy
+    35.3 SciPy Optimize
+    35.4 CVXPY
+    35.5 Pyomo
+    35.6 PuLP
+    35.7 Google OR-Tools
+    35.8 Gurobi
+    35.9 IBM CPLEX
+    35.10 MATLAB Optimization Toolbox
+    35.11 Mathematica
+    35.12 PyTorch Optimizers
+    35.13 TensorFlow Optimizers
+    35.14 JAX
+    35.15 Optuna
+    35.16 Ray Tune
