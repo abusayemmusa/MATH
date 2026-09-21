@@ -1,1 +1,326 @@
-
+33. FINANCIAL_MATHEMATICS
+│
+├── 1. Foundations of Financial Mathematics
+│   ├── Introduction to Financial Mathematics
+│   ├── Financial Terminology
+│   ├── Time Value of Money
+│   ├── Cash Flow Analysis
+│   ├── Financial Modeling
+│   └── Risk and Return
+│
+├── 2. Basic Financial Mathematics
+│   ├── Simple Interest
+│   ├── Compound Interest
+│   ├── Nominal Interest Rate
+│   ├── Effective Interest Rate
+│   ├── Continuous Compounding
+│   ├── Discounting
+│   └── Inflation and Purchasing Power
+│
+├── 3. Annuities and Loans
+│   ├── Ordinary Annuities
+│   ├── Annuities Due
+│   ├── Perpetuities
+│   ├── Present Value of Annuities
+│   ├── Future Value of Annuities
+│   ├── Loan Amortization
+│   ├── Mortgage Mathematics
+│   └── Sinking Funds
+│
+├── 4. Financial Algebra
+│   ├── Equations and Inequalities
+│   ├── Exponential Functions
+│   ├── Logarithmic Functions
+│   ├── Sequences and Series
+│   ├── Recurrence Relations
+│   └── Cash Flow Equations
+│
+├── 5. Calculus in Finance
+│   ├── Differential Calculus
+│   ├── Integral Calculus
+│   ├── Partial Derivatives
+│   ├── Optimization
+│   ├── Marginal Cost and Revenue
+│   ├── Continuous-Time Finance
+│   └── Sensitivity Analysis
+│
+├── 6. Probability Theory
+│   ├── Probability Spaces
+│   ├── Conditional Probability
+│   ├── Bayes' Theorem
+│   ├── Random Variables
+│   ├── Probability Distributions
+│   ├── Expectation and Variance
+│   ├── Conditional Expectation
+│   └── Law of Large Numbers
+│
+├── 7. Statistics for Finance
+│   ├── Descriptive Statistics
+│   ├── Statistical Inference
+│   ├── Hypothesis Testing
+│   ├── Correlation and Covariance
+│   ├── Regression Analysis
+│   ├── Time Series Analysis
+│   ├── Bootstrap Methods
+│   └── Bayesian Statistics
+│
+├── 8. Financial Markets
+│   ├── Stock Markets
+│   ├── Bond Markets
+│   ├── Foreign Exchange Markets
+│   ├── Commodity Markets
+│   ├── Derivatives Markets
+│   ├── Market Participants
+│   ├── Market Microstructure
+│   └── Financial Market Indicators
+│
+├── 9. Investment Mathematics
+│   ├── Investment Valuation
+│   ├── Portfolio Return
+│   ├── Investment Risk
+│   ├── Diversification
+│   ├── Asset Allocation
+│   ├── Capital Growth
+│   ├── Investment Performance
+│   └── Wealth Management
+│
+├── 10. Portfolio Theory
+│   ├── Modern Portfolio Theory
+│   ├── Efficient Frontier
+│   ├── Mean–Variance Optimization
+│   ├── Portfolio Variance
+│   ├── Covariance Matrix
+│   ├── Sharpe Ratio
+│   ├── Capital Market Line
+│   └── Risk-Free Assets
+│
+├── 11. Asset Pricing Models
+│   ├── Capital Asset Pricing Model (CAPM)
+│   ├── Security Market Line
+│   ├── Beta
+│   ├── Arbitrage Pricing Theory
+│   ├── Factor Models
+│   ├── Fama–French Models
+│   └── Consumption-Based Asset Pricing
+│
+├── 12. Fixed-Income Mathematics
+│   ├── Bond Pricing
+│   ├── Coupon Bonds
+│   ├── Zero-Coupon Bonds
+│   ├── Yield to Maturity
+│   ├── Spot Rates
+│   ├── Forward Rates
+│   ├── Duration
+│   ├── Convexity
+│   └── Yield Curves
+│
+├── 13. Interest Rate Models
+│   ├── Short-Rate Models
+│   ├── Vasicek Model
+│   ├── Cox–Ingersoll–Ross Model
+│   ├── Hull–White Model
+│   ├── Heath–Jarrow–Morton Framework
+│   ├── Interest Rate Trees
+│   └── Term Structure Models
+│
+├── 14. Stochastic Processes
+│   ├── Markov Chains
+│   ├── Markov Processes
+│   ├── Random Walks
+│   ├── Martingales
+│   ├── Brownian Motion
+│   ├── Geometric Brownian Motion
+│   ├── Poisson Processes
+│   └── Lévy Processes
+│
+├── 15. Stochastic Calculus
+│   ├── Stochastic Differential Equations
+│   ├── Itô Integral
+│   ├── Itô's Lemma
+│   ├── Itô Processes
+│   ├── Quadratic Variation
+│   ├── Stochastic Integration
+│   ├── Girsanov's Theorem
+│   └── Martingale Representation
+│
+├── 16. Derivatives Mathematics
+│   ├── Introduction to Derivatives
+│   ├── Forward Contracts
+│   ├── Futures Contracts
+│   ├── Options
+│   ├── Swaps
+│   ├── Payoff Functions
+│   ├── Hedging
+│   └── No-Arbitrage Principle
+│
+├── 17. Option Pricing
+│   ├── European Options
+│   ├── American Options
+│   ├── Asian Options
+│   ├── Barrier Options
+│   ├── Binary Options
+│   ├── Black–Scholes Model
+│   ├── Binomial Option Pricing
+│   └── Trinomial Models
+│
+├── 18. Option Greeks
+│   ├── Delta
+│   ├── Gamma
+│   ├── Vega
+│   ├── Theta
+│   ├── Rho
+│   ├── Sensitivity Analysis
+│   ├── Delta Hedging
+│   └── Portfolio Greeks
+│
+├── 19. Risk Management
+│   ├── Financial Risk
+│   ├── Market Risk
+│   ├── Credit Risk
+│   ├── Liquidity Risk
+│   ├── Operational Risk
+│   ├── Value at Risk (VaR)
+│   ├── Expected Shortfall
+│   ├── Stress Testing
+│   └── Scenario Analysis
+│
+├── 20. Credit Risk Mathematics
+│   ├── Credit Scoring
+│   ├── Default Probability
+│   ├── Credit Spread
+│   ├── Loss Given Default
+│   ├── Exposure at Default
+│   ├── Structural Credit Models
+│   ├── Reduced-Form Models
+│   └── Credit Derivatives
+│
+├── 21. Financial Time Series
+│   ├── Time Series Fundamentals
+│   ├── Stationarity
+│   ├── Autocorrelation
+│   ├── AR Models
+│   ├── MA Models
+│   ├── ARIMA Models
+│   ├── GARCH Models
+│   ├── Volatility Forecasting
+│   └── Cointegration
+│
+├── 22. Econometrics
+│   ├── Linear Regression
+│   ├── Multiple Regression
+│   ├── Panel Data
+│   ├── Time Series Econometrics
+│   ├── Heteroskedasticity
+│   ├── Autocorrelation
+│   ├── Endogeneity
+│   ├── Vector Autoregression
+│   └── Causal Inference
+│
+├── 23. Financial Optimization
+│   ├── Linear Programming
+│   ├── Nonlinear Programming
+│   ├── Convex Optimization
+│   ├── Quadratic Programming
+│   ├── Portfolio Optimization
+│   ├── Robust Optimization
+│   ├── Stochastic Optimization
+│   └── Multi-Objective Optimization
+│
+├── 24. Numerical Methods in Finance
+│   ├── Numerical Integration
+│   ├── Root-Finding Methods
+│   ├── Monte Carlo Simulation
+│   ├── Finite Difference Methods
+│   ├── Binomial Trees
+│   ├── Numerical PDEs
+│   ├── Calibration Methods
+│   └── Computational Error Analysis
+│
+├── 25. Partial Differential Equations in Finance
+│   ├── Heat Equation
+│   ├── Diffusion Equation
+│   ├── Black–Scholes PDE
+│   ├── Boundary Conditions
+│   ├── Initial Conditions
+│   ├── Free-Boundary Problems
+│   └── Finite Difference Pricing
+│
+├── 26. Monte Carlo Methods
+│   ├── Random Number Generation
+│   ├── Simulation Techniques
+│   ├── Variance Reduction
+│   ├── Importance Sampling
+│   ├── Antithetic Variates
+│   ├── Quasi-Monte Carlo
+│   ├── Pricing Simulation
+│   └── Risk Simulation
+│
+├── 27. Quantitative Finance
+│   ├── Quantitative Modeling
+│   ├── Quantitative Trading
+│   ├── Algorithmic Trading
+│   ├── Statistical Arbitrage
+│   ├── Factor Investing
+│   ├── Market Making
+│   ├── Signal Processing
+│   └── Strategy Backtesting
+│
+├── 28. Machine Learning in Finance
+│   ├── Financial Data Mining
+│   ├── Regression Models
+│   ├── Classification
+│   ├── Clustering
+│   ├── Fraud Detection
+│   ├── Credit Risk Prediction
+│   ├── Stock Price Modeling
+│   ├── Reinforcement Learning
+│   └── Deep Learning for Finance
+│
+├── 29. Financial Engineering
+│   ├── Financial Product Design
+│   ├── Derivative Engineering
+│   ├── Risk-Neutral Valuation
+│   ├── Model Calibration
+│   ├── Hedging Strategies
+│   ├── Structured Products
+│   ├── Financial Simulation
+│   └── Model Validation
+│
+├── 30. Insurance Mathematics
+│   ├── Actuarial Mathematics
+│   ├── Life Insurance Models
+│   ├── Survival Models
+│   ├── Mortality Tables
+│   ├── Annuity Insurance
+│   ├── Premium Calculation
+│   ├── Loss Models
+│   └── Risk Pooling
+│
+├── 31. Behavioral and Market Mathematics
+│   ├── Behavioral Finance
+│   ├── Market Efficiency
+│   ├── Market Anomalies
+│   ├── Investor Behavior
+│   ├── Herding Models
+│   ├── Agent-Based Financial Models
+│   └── Market Dynamics
+│
+├── 32. Blockchain and Digital Finance
+│   ├── Mathematical Foundations of Cryptocurrencies
+│   ├── Blockchain Mathematics
+│   ├── Digital Assets
+│   ├── Token Economics
+│   ├── Decentralized Finance
+│   ├── Smart Contract Risk
+│   └── Financial Cryptography
+│
+└── 33. Advanced Financial Mathematics
+    ├── Incomplete Market Models
+    ├── Stochastic Volatility Models
+    ├── Jump-Diffusion Models
+    ├── Local Volatility Models
+    ├── Model Risk
+    ├── High-Frequency Finance
+    ├── Systemic Risk
+    ├── Quantum Finance
+    └── Research Problems in Mathematical Finance
