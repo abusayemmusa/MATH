@@ -1,1 +1,357 @@
-
+FUZZY MATHEMATICS
+│
+├── 1. Foundations of Fuzzy Mathematics
+│   ├── Definition of Fuzzy Mathematics
+│   ├── History of Fuzzy Theory
+│   ├── Classical Sets vs Fuzzy Sets
+│   ├── Vagueness and Uncertainty
+│   ├── Approximate Reasoning
+│   ├── Membership Concept
+│   ├── Linguistic Variables
+│   ├── Fuzzy Logic
+│   └── Applications of Fuzzy Mathematics
+│
+├── 2. Mathematical Foundations
+│   ├── Set Theory
+│   ├── Logic
+│   ├── Functions
+│   ├── Relations
+│   ├── Probability
+│   ├── Linear Algebra
+│   ├── Calculus
+│   ├── Optimization
+│   └── Differential Equations
+│
+├── 3. Fuzzy Sets
+│   ├── Definition of Fuzzy Set
+│   ├── Membership Function
+│   ├── Membership Degree
+│   ├── Support of a Fuzzy Set
+│   ├── Core of a Fuzzy Set
+│   ├── Height of a Fuzzy Set
+│   ├── Normal Fuzzy Sets
+│   ├── Subnormal Fuzzy Sets
+│   ├── Convex Fuzzy Sets
+│   ├── α-Cuts
+│   ├── Strong α-Cuts
+│   ├── Level Sets
+│   └── Crossover Points
+│
+├── 4. Fuzzy Set Operations
+│   ├── Union
+│   ├── Intersection
+│   ├── Complement
+│   ├── Difference
+│   ├── Algebraic Product
+│   ├── Algebraic Sum
+│   ├── Bounded Sum
+│   ├── Bounded Difference
+│   ├── Drastic Product
+│   ├── Drastic Sum
+│   └── De Morgan's Laws
+│
+├── 5. Membership Functions
+│   ├── Triangular Membership Function
+│   ├── Trapezoidal Membership Function
+│   ├── Gaussian Membership Function
+│   ├── Generalized Bell Function
+│   ├── Sigmoid Membership Function
+│   ├── S-Shaped Function
+│   ├── Z-Shaped Function
+│   ├── Singleton Membership Function
+│   ├── Polynomial Membership Function
+│   └── Adaptive Membership Functions
+│
+├── 6. Fuzzy Relations
+│   ├── Binary Fuzzy Relations
+│   ├── n-ary Fuzzy Relations
+│   ├── Fuzzy Cartesian Product
+│   ├── Fuzzy Relation Matrix
+│   ├── Inverse Relation
+│   ├── Composition of Relations
+│   ├── Max-Min Composition
+│   ├── Max-Product Composition
+│   ├── Reflexive Relations
+│   ├── Symmetric Relations
+│   ├── Transitive Relations
+│   └── Equivalence Relations
+│
+├── 7. Fuzzy Logic
+│   ├── Classical Logic
+│   ├── Multivalued Logic
+│   ├── Fuzzy Propositions
+│   ├── Fuzzy Truth Values
+│   ├── Fuzzy Negation
+│   ├── Fuzzy Conjunction
+│   ├── Fuzzy Disjunction
+│   ├── Fuzzy Implication
+│   ├── Fuzzy Inference
+│   ├── Fuzzy Rules
+│   └── Approximate Reasoning
+│
+├── 8. Fuzzy Logic Operators
+│   ├── T-Norms
+│   ├── T-Conorms
+│   ├── Fuzzy Negations
+│   ├── Minimum Operator
+│   ├── Product Operator
+│   ├── Łukasiewicz Operators
+│   ├── Algebraic Operators
+│   ├── Hamacher Operators
+│   ├── Yager Operators
+│   └── Schweizer–Sklar Operators
+│
+├── 9. Fuzzy Inference Systems
+│   ├── Mamdani Fuzzy Inference
+│   ├── Sugeno Fuzzy Inference
+│   ├── Tsukamoto Fuzzy Inference
+│   ├── Rule-Based Systems
+│   ├── Fuzzification
+│   ├── Rule Evaluation
+│   ├── Aggregation
+│   ├── Defuzzification
+│   ├── Inference Engines
+│   └── Fuzzy Decision Systems
+│
+├── 10. Defuzzification Methods
+│   ├── Centroid Method
+│   ├── Bisector Method
+│   ├── Mean of Maximum
+│   ├── Smallest of Maximum
+│   ├── Largest of Maximum
+│   ├── Weighted Average
+│   ├── Center of Sums
+│   ├── Center of Largest Area
+│   └── Height Method
+│
+├── 11. Fuzzy Numbers
+│   ├── Definition of Fuzzy Numbers
+│   ├── Triangular Fuzzy Numbers
+│   ├── Trapezoidal Fuzzy Numbers
+│   ├── Gaussian Fuzzy Numbers
+│   ├── Positive Fuzzy Numbers
+│   ├── Negative Fuzzy Numbers
+│   ├── Fuzzy Number Arithmetic
+│   ├── α-Cut Arithmetic
+│   ├── Fuzzy Number Ranking
+│   └── Approximate Fuzzy Numbers
+│
+├── 12. Fuzzy Arithmetic
+│   ├── Fuzzy Addition
+│   ├── Fuzzy Subtraction
+│   ├── Fuzzy Multiplication
+│   ├── Fuzzy Division
+│   ├── Fuzzy Powers
+│   ├── Fuzzy Square Roots
+│   ├── Extension Principle
+│   ├── Interval Arithmetic
+│   └── Arithmetic with Uncertainty
+│
+├── 13. Extension Principle
+│   ├── Zadeh's Extension Principle
+│   ├── Mapping of Fuzzy Sets
+│   ├── Fuzzy Function Transformation
+│   ├── Image of a Fuzzy Set
+│   ├── Inverse Image
+│   ├── Fuzzy Arithmetic
+│   ├── Fuzzy Relations
+│   └── Applications of Extension Principle
+│
+├── 14. Fuzzy Measures
+│   ├── Definition of Fuzzy Measures
+│   ├── Possibility Measures
+│   ├── Necessity Measures
+│   ├── Belief Measures
+│   ├── Plausibility Measures
+│   ├── Sugeno Measures
+│   ├── λ-Measures
+│   ├── Capacity Theory
+│   └── Non-Additive Measures
+│
+├── 15. Possibility Theory
+│   ├── Possibility Distribution
+│   ├── Possibility Measure
+│   ├── Necessity Measure
+│   ├── Possibility and Probability
+│   ├── Possibility Theory Operations
+│   ├── Possibilistic Logic
+│   ├── Possibilistic Reasoning
+│   └── Uncertain Information
+│
+├── 16. Fuzzy Probability
+│   ├── Fuzzy Events
+│   ├── Fuzzy Random Variables
+│   ├── Fuzzy Probability Distributions
+│   ├── Probability of Fuzzy Events
+│   ├── Fuzzy Expected Value
+│   ├── Fuzzy Variance
+│   ├── Fuzzy Statistical Analysis
+│   └── Probability-Possibility Conversion
+│
+├── 17. Fuzzy Optimization
+│   ├── Fuzzy Objective Functions
+│   ├── Fuzzy Constraints
+│   ├── Fuzzy Linear Programming
+│   ├── Fuzzy Nonlinear Programming
+│   ├── Fuzzy Integer Programming
+│   ├── Fuzzy Goal Programming
+│   ├── Fuzzy Multi-Objective Optimization
+│   ├── Possibilistic Optimization
+│   ├── Fuzzy Transportation Problems
+│   └── Fuzzy Assignment Problems
+│
+├── 18. Fuzzy Decision-Making
+│   ├── Fuzzy Decision Theory
+│   ├── Multi-Criteria Decision-Making
+│   ├── Fuzzy AHP
+│   ├── Fuzzy TOPSIS
+│   ├── Fuzzy VIKOR
+│   ├── Fuzzy ELECTRE
+│   ├── Fuzzy Ranking
+│   ├── Fuzzy Preference Relations
+│   ├── Group Decision-Making
+│   └── Risk-Based Decisions
+│
+├── 19. Fuzzy Control Systems
+│   ├── Fuzzy Control Theory
+│   ├── Fuzzy Controllers
+│   ├── Fuzzy Control Rules
+│   ├── Fuzzy PID Controllers
+│   ├── Mamdani Controllers
+│   ├── Sugeno Controllers
+│   ├── Adaptive Fuzzy Control
+│   ├── Neuro-Fuzzy Control
+│   ├── Fuzzy Sliding-Mode Control
+│   └── Robust Fuzzy Control
+│
+├── 20. Fuzzy Differential Equations
+│   ├── Fuzzy-Valued Functions
+│   ├── Fuzzy Differential Equations
+│   ├── Hukuhara Derivative
+│   ├── Generalized Hukuhara Derivative
+│   ├── Fuzzy Initial-Value Problems
+│   ├── Fuzzy Boundary-Value Problems
+│   ├── Fuzzy Numerical Methods
+│   └── Applications in Dynamic Systems
+│
+├── 21. Fuzzy Topology
+│   ├── Fuzzy Topological Spaces
+│   ├── Fuzzy Open Sets
+│   ├── Fuzzy Closed Sets
+│   ├── Fuzzy Neighborhoods
+│   ├── Fuzzy Continuity
+│   ├── Fuzzy Compactness
+│   ├── Fuzzy Connectedness
+│   ├── Fuzzy Separation Axioms
+│   └── Fuzzy Convergence
+│
+├── 22. Fuzzy Algebra
+│   ├── Fuzzy Groups
+│   ├── Fuzzy Subgroups
+│   ├── Fuzzy Rings
+│   ├── Fuzzy Ideals
+│   ├── Fuzzy Vector Spaces
+│   ├── Fuzzy Semigroups
+│   ├── Fuzzy Lattices
+│   ├── Fuzzy Relations in Algebra
+│   └── Fuzzy Algebraic Structures
+│
+├── 23. Fuzzy Graph Theory
+│   ├── Fuzzy Graphs
+│   ├── Fuzzy Vertices
+│   ├── Fuzzy Edges
+│   ├── Fuzzy Paths
+│   ├── Fuzzy Connectivity
+│   ├── Fuzzy Trees
+│   ├── Fuzzy Graph Coloring
+│   ├── Fuzzy Shortest Path
+│   ├── Fuzzy Network Flow
+│   └── Fuzzy Social Networks
+│
+├── 24. Fuzzy Neural Networks
+│   ├── Neural Networks
+│   ├── Fuzzy Neural Networks
+│   ├── Neuro-Fuzzy Systems
+│   ├── Adaptive Neuro-Fuzzy Inference System
+│   ├── ANFIS Architecture
+│   ├── Fuzzy Backpropagation
+│   ├── Fuzzy Membership Learning
+│   ├── Fuzzy Deep Learning
+│   └── Hybrid Learning Models
+│
+├── 25. Fuzzy Machine Learning
+│   ├── Fuzzy Classification
+│   ├── Fuzzy Clustering
+│   ├── Fuzzy C-Means
+│   ├── Fuzzy Regression
+│   ├── Fuzzy Decision Trees
+│   ├── Fuzzy Rule Learning
+│   ├── Fuzzy Feature Selection
+│   ├── Fuzzy Pattern Recognition
+│   ├── Fuzzy SVM
+│   └── Explainable Fuzzy AI
+│
+├── 26. Fuzzy Deep Learning and AI
+│   ├── Fuzzy Neural Networks
+│   ├── Fuzzy CNN
+│   ├── Fuzzy RNN
+│   ├── Fuzzy Transformers
+│   ├── Fuzzy Attention Mechanisms
+│   ├── Uncertainty-Aware AI
+│   ├── Fuzzy Reinforcement Learning
+│   ├── Fuzzy Knowledge Representation
+│   └── Hybrid AI Systems
+│
+├── 27. Fuzzy Robotics
+│   ├── Fuzzy Robot Control
+│   ├── Fuzzy Path Planning
+│   ├── Fuzzy Obstacle Avoidance
+│   ├── Fuzzy Navigation
+│   ├── Fuzzy Sensor Fusion
+│   ├── Fuzzy Localization
+│   ├── Fuzzy Manipulator Control
+│   ├── Fuzzy Swarm Robotics
+│   ├── Fuzzy Human-Robot Interaction
+│   └── Fuzzy Autonomous Systems
+│
+├── 28. Fuzzy IoT and Embedded Systems
+│   ├── Fuzzy IoT Control
+│   ├── Fuzzy Sensor Systems
+│   ├── Embedded Fuzzy Controllers
+│   ├── Smart Home Automation
+│   ├── Smart Agriculture
+│   ├── Fuzzy Energy Management
+│   ├── Fuzzy Edge AI
+│   ├── TinyML and Fuzzy Systems
+│   └── Industrial IoT
+│
+├── 29. Fuzzy Applications
+│   ├── Medical Diagnosis
+│   ├── Image Processing
+│   ├── Pattern Recognition
+│   ├── Speech Recognition
+│   ├── Natural Language Processing
+│   ├── Financial Forecasting
+│   ├── Traffic Management
+│   ├── Weather Prediction
+│   ├── Power Systems
+│   ├── Manufacturing
+│   ├── Agriculture
+│   ├── Transportation
+│   └── Decision Support Systems
+│
+└── 30. Advanced Fuzzy Mathematics
+    ├── Type-2 Fuzzy Sets
+    ├── Interval Type-2 Fuzzy Sets
+    ├── General Type-2 Fuzzy Sets
+    ├── Intuitionistic Fuzzy Sets
+    ├── Hesitant Fuzzy Sets
+    ├── Picture Fuzzy Sets
+    ├── Pythagorean Fuzzy Sets
+    ├── q-Rung Orthopair Fuzzy Sets
+    ├── Spherical Fuzzy Sets
+    ├── Rough-Fuzzy Sets
+    ├── Fuzzy Soft Sets
+    ├── Fuzzy Rough Sets
+    ├── Complex Fuzzy Sets
+    └── Generalized Fuzzy Systems
