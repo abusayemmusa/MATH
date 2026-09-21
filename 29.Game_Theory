@@ -1,1 +1,345 @@
-
+GAME THEORY
+│
+├── 1. Foundations of Game Theory
+│   ├── Definition of Game Theory
+│   ├── History of Game Theory
+│   ├── Players
+│   ├── Strategies
+│   ├── Payoffs
+│   ├── Preferences
+│   ├── Rationality
+│   ├── Common Knowledge
+│   ├── Utility Functions
+│   └── Strategic Interaction
+│
+├── 2. Mathematical Foundations
+│   ├── Set Theory
+│   ├── Functions and Relations
+│   ├── Probability Theory
+│   ├── Linear Algebra
+│   ├── Matrix Algebra
+│   ├── Calculus
+│   ├── Optimization
+│   ├── Convex Sets
+│   ├── Fixed-Point Theorems
+│   └── Graph Theory
+│
+├── 3. Types of Games
+│   ├── Cooperative Games
+│   ├── Non-Cooperative Games
+│   ├── Zero-Sum Games
+│   ├── Non-Zero-Sum Games
+│   ├── Symmetric Games
+│   ├── Asymmetric Games
+│   ├── Finite Games
+│   ├── Infinite Games
+│   ├── Deterministic Games
+│   ├── Stochastic Games
+│   ├── Static Games
+│   └── Dynamic Games
+│
+├── 4. Normal-Form Games
+│   ├── Strategic-Form Representation
+│   ├── Payoff Matrices
+│   ├── Pure Strategies
+│   ├── Mixed Strategies
+│   ├── Best Response
+│   ├── Dominant Strategies
+│   ├── Dominated Strategies
+│   ├── Iterated Elimination
+│   ├── Nash Equilibrium
+│   └── Expected Payoff
+│
+├── 5. Nash Equilibrium
+│   ├── Definition of Nash Equilibrium
+│   ├── Pure Strategy Nash Equilibrium
+│   ├── Mixed Strategy Nash Equilibrium
+│   ├── Multiple Equilibria
+│   ├── Existence of Equilibrium
+│   ├── Nash's Theorem
+│   ├── Equilibrium Selection
+│   ├── Strict Nash Equilibrium
+│   ├── Weak Nash Equilibrium
+│   └── Approximate Nash Equilibrium
+│
+├── 6. Zero-Sum Games
+│   ├── Two-Person Zero-Sum Games
+│   ├── Payoff Matrix
+│   ├── Maximin Strategy
+│   ├── Minimax Strategy
+│   ├── Saddle Point
+│   ├── Minimax Theorem
+│   ├── Mixed Strategy Solution
+│   ├── Linear Programming
+│   └── Security-Level Strategies
+│
+├── 7. Extensive-Form Games
+│   ├── Game Trees
+│   ├── Decision Nodes
+│   ├── Terminal Nodes
+│   ├── Information Sets
+│   ├── Perfect Information
+│   ├── Imperfect Information
+│   ├── Complete Information
+│   ├── Incomplete Information
+│   ├── Strategies in Extensive Form
+│   └── Subgame Identification
+│
+├── 8. Dynamic Games
+│   ├── Sequential Games
+│   ├── Simultaneous-Move Games
+│   ├── Backward Induction
+│   ├── Subgame Perfect Equilibrium
+│   ├── Credible Threats
+│   ├── Commitment
+│   ├── Dynamic Competition
+│   ├── Repeated Interaction
+│   └── Dynamic Programming
+│
+├── 9. Repeated Games
+│   ├── Finite Repeated Games
+│   ├── Infinitely Repeated Games
+│   ├── Discount Factor
+│   ├── Trigger Strategies
+│   ├── Tit-for-Tat
+│   ├── Cooperation
+│   ├── Punishment Strategies
+│   ├── Folk Theorems
+│   └── Reputation
+│
+├── 10. Bayesian Games
+│   ├── Incomplete Information
+│   ├── Types of Players
+│   ├── Beliefs
+│   ├── Common Prior
+│   ├── Bayesian Nash Equilibrium
+│   ├── Expected Utility
+│   ├── Private Information
+│   ├── Signaling
+│   └── Screening
+│
+├── 11. Signaling Games
+│   ├── Sender and Receiver
+│   ├── Signaling
+│   ├── Separating Equilibrium
+│   ├── Pooling Equilibrium
+│   ├── Semi-Separating Equilibrium
+│   ├── Belief Updating
+│   ├── Perfect Bayesian Equilibrium
+│   ├── Credible Signals
+│   └── Information Asymmetry
+│
+├── 12. Mechanism Design
+│   ├── Reverse Game Theory
+│   ├── Social Choice
+│   ├── Incentive Compatibility
+│   ├── Individual Rationality
+│   ├── Direct Mechanisms
+│   ├── Revelation Principle
+│   ├── Strategy-Proofness
+│   ├── Efficiency
+│   ├── Truthful Mechanisms
+│   └── Implementation Theory
+│
+├── 13. Auction Theory
+│   ├── First-Price Auction
+│   ├── Second-Price Auction
+│   ├── English Auction
+│   ├── Dutch Auction
+│   ├── All-Pay Auction
+│   ├── Private-Value Auctions
+│   ├── Common-Value Auctions
+│   ├── Revenue Equivalence
+│   ├── Optimal Auctions
+│   └── Online Auctions
+│
+├── 14. Cooperative Game Theory
+│   ├── Coalitions
+│   ├── Characteristic Function
+│   ├── Transferable Utility
+│   ├── Non-Transferable Utility
+│   ├── Core
+│   ├── Shapley Value
+│   ├── Nucleolus
+│   ├── Stable Sets
+│   ├── Bargaining Sets
+│   └── Coalition Formation
+│
+├── 15. Bargaining Theory
+│   ├── Two-Person Bargaining
+│   ├── Nash Bargaining Solution
+│   ├── Kalai–Smorodinsky Solution
+│   ├── Bargaining Power
+│   ├── Threat Points
+│   ├── Feasible Utility Sets
+│   ├── Fair Division
+│   ├── Negotiation
+│   └── Conflict Resolution
+│
+├── 16. Social Choice Theory
+│   ├── Voting Systems
+│   ├── Preference Aggregation
+│   ├── Majority Rule
+│   ├── Condorcet Winner
+│   ├── Arrow's Impossibility Theorem
+│   ├── Gibbard–Satterthwaite Theorem
+│   ├── Social Welfare Functions
+│   ├── Fairness
+│   └── Collective Decision-Making
+│
+├── 17. Evolutionary Game Theory
+│   ├── Evolutionary Stable Strategy (ESS)
+│   ├── Population Games
+│   ├── Replicator Dynamics
+│   ├── Fitness
+│   ├── Mutation
+│   ├── Selection
+│   ├── Evolutionary Equilibrium
+│   ├── Hawk-Dove Game
+│   ├── Prisoner's Dilemma
+│   └── Evolutionary Dynamics
+│
+├── 18. Learning in Games
+│   ├── Reinforcement Learning in Games
+│   ├── Fictitious Play
+│   ├── Best-Response Dynamics
+│   ├── Regret Matching
+│   ├── No-Regret Learning
+│   ├── Online Learning
+│   ├── Experience-Weighted Attraction
+│   ├── Belief-Based Learning
+│   └── Multi-Agent Learning
+│
+├── 19. Stochastic Games
+│   ├── States
+│   ├── Actions
+│   ├── Transition Probabilities
+│   ├── Rewards
+│   ├── Markov Games
+│   ├── Discounted Rewards
+│   ├── Average Rewards
+│   ├── Stochastic Equilibrium
+│   └── Dynamic Stochastic Games
+│
+├── 20. Differential Games
+│   ├── Continuous-Time Games
+│   ├── State Dynamics
+│   ├── Control Variables
+│   ├── Open-Loop Strategies
+│   ├── Closed-Loop Strategies
+│   ├── Hamilton–Jacobi–Bellman Equation
+│   ├── Pontryagin's Maximum Principle
+│   ├── Pursuit-Evasion Games
+│   └── Optimal Control Games
+│
+├── 21. Information Economics
+│   ├── Information Asymmetry
+│   ├── Moral Hazard
+│   ├── Adverse Selection
+│   ├── Principal-Agent Problem
+│   ├── Signaling
+│   ├── Screening
+│   ├── Contract Theory
+│   └── Incentive Systems
+│
+├── 22. Network and Graph Games
+│   ├── Network Formation
+│   ├── Network Externalities
+│   ├── Graphical Games
+│   ├── Congestion Games
+│   ├── Routing Games
+│   ├── Influence Games
+│   ├── Security Games
+│   ├── Diffusion Games
+│   └── Network Cooperation
+│
+├── 23. Algorithmic Game Theory
+│   ├── Computational Complexity
+│   ├── Algorithmic Mechanism Design
+│   ├── Approximate Nash Equilibrium
+│   ├── Price of Anarchy
+│   ├── Price of Stability
+│   ├── Congestion Games
+│   ├── Online Algorithms
+│   ├── Computational Social Choice
+│   ├── Distributed Algorithms
+│   └── Algorithmic Auctions
+│
+├── 24. Game Theory and Machine Learning
+│   ├── Multi-Agent Reinforcement Learning
+│   ├── Competitive Learning
+│   ├── Cooperative Learning
+│   ├── Self-Play
+│   ├── Adversarial Learning
+│   ├── Generative Adversarial Networks
+│   ├── Multi-Agent Coordination
+│   ├── Opponent Modeling
+│   ├── Strategic Classification
+│   └── Game-Theoretic AI
+│
+├── 25. Game Theory and Robotics
+│   ├── Multi-Robot Systems
+│   ├── Robot Coordination
+│   ├── Cooperative Navigation
+│   ├── Task Allocation
+│   ├── Collision Avoidance
+│   ├── Pursuit-Evasion
+│   ├── Human-Robot Interaction
+│   ├── Autonomous Decision-Making
+│   ├── Distributed Control
+│   └── Multi-Agent Planning
+│
+├── 26. Security and Cybersecurity Games
+│   ├── Attacker-Defender Games
+│   ├── Security Games
+│   ├── Network Defense
+│   ├── Cyber Attack Modeling
+│   ├── Intrusion Detection
+│   ├── Resource Allocation
+│   ├── Deception Games
+│   ├── Stackelberg Security Games
+│   └── Adversarial Risk Analysis
+│
+├── 27. Behavioral Game Theory
+│   ├── Bounded Rationality
+│   ├── Prospect Theory
+│   ├── Social Preferences
+│   ├── Fairness
+│   ├── Trust
+│   ├── Reciprocity
+│   ├── Experimental Games
+│   ├── Cognitive Hierarchy
+│   └── Behavioral Biases
+│
+├── 28. Quantum Game Theory
+│   ├── Quantum Strategies
+│   ├── Quantum Games
+│   ├── Quantum Superposition
+│   ├── Quantum Entanglement
+│   ├── Quantum Prisoner's Dilemma
+│   ├── Quantum Information
+│   └── Quantum Decision Theory
+│
+├── 29. Mathematical and Economic Applications
+│   ├── Market Competition
+│   ├── Oligopoly Models
+│   ├── Price Competition
+│   ├── Cournot Competition
+│   ├── Bertrand Competition
+│   ├── Industrial Organization
+│   ├── International Relations
+│   ├── Political Science
+│   ├── Biology
+│   └── Social Networks
+│
+└── 30. Computational Game Theory
+    ├── Game Representation
+    ├── Equilibrium Computation
+    ├── Linear Programming
+    ├── Mathematical Optimization
+    ├── Simulation
+    ├── Multi-Agent Environments
+    ├── Game Solvers
+    ├── Strategy Evaluation
+    ├── Agent-Based Modeling
+    └── Experimental Analysis
